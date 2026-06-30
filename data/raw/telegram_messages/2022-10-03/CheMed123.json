@@ -1,0 +1,115 @@
+[
+  {
+    "message_id": 17,
+    "channel_name": "CheMed123",
+    "message_date": "2022-10-03T05:16:30+00:00",
+    "message_text": "መድሀኒት ቤትዎ ድረስ! \n\nመድሀኒት በመፈለግ ጊዜዎንና ጉልበትዎን አያባክኑ:: ድረገጻችንን በመጠቀም መድኃኒት ከፈለጉት ቦታ ይዘዙ ያሉበት ቦታ እናደርስልዎታለን፡፡ \n\n30 ደቂቃ፡ በሃኪም የታዘዘልዎትን መድሃኒት ቤትዎ\nለማድረሰ የሚፈጅብን ጊዜ ነው፡፡ \n\nwww.chemeds.org \n+251912603463 \n\nThe delivery fee is fixed at 100 ETB",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/17.jpg",
+    "views": 508,
+    "forwards": 3,
+    "raw": {
+      "_": "Message",
+      "id": 17,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-10-03 05:16:30+00:00",
+      "message": "መድሀኒት ቤትዎ ድረስ! \n\nመድሀኒት በመፈለግ ጊዜዎንና ጉልበትዎን አያባክኑ:: ድረገጻችንን በመጠቀም መድኃኒት ከፈለጉት ቦታ ይዘዙ ያሉበት ቦታ እናደርስልዎታለን፡፡ \n\n30 ደቂቃ፡ በሃኪም የታዘዘልዎትን መድሃኒት ቤትዎ\nለማድረሰ የሚፈጅብን ጊዜ ነው፡፡ \n\nwww.chemeds.org \n+251912603463 \n\nThe delivery fee is fixed at 100 ETB",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5895732183547624393,
+          "access_hash": 678854391444224032,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x11jC\\xa7\\xb9\\x94\\xba\\xb8\\xc1\\xacg\\x8f\\xc6\\xd8G\\x16jp\\t>t'",
+          "date": "2022-10-03 05:16:30+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01(\\x1c\\xce\\xabvP$\\x8eL\\x800\\xc7\\x03<\\x9a\\xa9Z6x1\\xe0\\x9d\\xdf.0F1\\xcdY\\x0c\\x8e\\xe6\\xc8\"\\x97\\x85\\xb2\\xb8\\xce\\x0f\\\\{z\\xd5*\\xd4d\\xc3\\xbb\\xc8\\xc5\\x90\\xa7\\x19<\\xe2\\xb3\\x0e2v\\xf03\\xc6h\\x04\\xdd\\xf5\\x1c\\xb1\\xb3\\x0c\\x8c~b\\xac\\xdb\\\\\\x04!\\x1c\\x1e\\x06\\x01\\x07\\xde\\xa3E\\x98G\\x80\\x18\\x0fj\\x89\\xdc\\xbe7\\x12qH4f\\x8c\\x93pZ6V\\n\\xa4\\xf3\\xd7?J\\xcc\\'q\\'\\xa6OaSA\\xbeG\\xd9\\xbb\\x19\\x18\\xc9\\x19\\xe2\\x99$~\\\\\\x85G8\\xa6\\xd8\\xcd\\xd3i\\x0e\\xe06q\\xdf\\x93G\\xf6}\\xaf\\xfc\\xf1\\x1f\\x99\\xa2\\x8a\\x8b\\x95d7\\xecp)\\xf9m\\xff\\x00\\x10\\xdf\\xfdzQcl\\xc3-\\x08\\xcf\\xb9&\\x8a(\\x03'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 226,
+              "h": 320,
+              "size": 19216
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 566,
+              "h": 800,
+              "size": 70847
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 905,
+              "h": 1280,
+              "sizes": [
+                13120,
+                34301,
+                62937,
+                89498,
+                121517
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 161,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 178,
+          "length": 13
+        }
+      ],
+      "views": 508,
+      "forwards": 3,
+      "replies": null,
+      "edit_date": "2022-10-03 05:16:58+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "message_id": 70,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-28T17:02:08+00:00",
+    "message_text": "Buy you Power Plus supplement from Che-Med.\n\nFor more information please watch our tiktok video by pressing the link below.\n👇👇👇👇👇👇👇👇👇👇👇👇👇\nhttps://vm.tiktok.com/ZMFv4PRtp/",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/70.jpg",
+    "views": 411,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 70,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-28 17:02:08+00:00",
+      "message": "Buy you Power Plus supplement from Che-Med.\n\nFor more information please watch our tiktok video by pressing the link below.\n👇👇👇👇👇👇👇👇👇👇👇👇👇\nhttps://vm.tiktok.com/ZMFv4PRtp/",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2022-12-28 17:02:00+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerUser",
+          "user_id": 376955035
+        },
+        "from_name": null,
+        "channel_post": null,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5866074523835678306,
+          "access_hash": 3723436413872882450,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00FjC\\xa7\\xb9\\xf1x\\xf9\\xc0\\x9d\\xb8u9_\\x9d\\x8e\\x94\\t\\x85\\x1d\\xad'",
+          "date": "2022-12-28 17:00:59+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01(\\x17\\xafg\\x08\\x96B\\xa4\\xb0\\x18\\xcf\\x06\\xa61[\\x83\\x82\\x8eI\\xf7\\xa5\\xd3\\xc7\\xfaA\\xf7J\\x9e\\xe28\\\\\\x0f.EW\\x04c\\xe6\\xa0\\nw\\x90G\\x12!E\\xc6}\\xe8\\xab\\x1a\\x90\\xc4q}M\\x14\\x01-\\xb5\\xa3\\xc5p\\x1b\\x82\\xbbq\\xc1\\xa8\\xae\\xa2+;\\x16^\\xbc\\x8ej\\xc4\\xcd,(_\\xcc\\xc8\\xcf\\x03\\x1d*\\xac\\xb7\\r6\\xd2\\xd8\\x07\\x1cc\\xbd\\x17+\\x95\\xda\\xe3/%\\xf30\\x9d\\x02\\x9f\\xca\\x8acG\\x96%\\xf9\\xc9\\xcd\\x15\"\\xb1~fY\\xa2\\xd8\\xa4\\x13\\xf5\\xaa\\xc6-\\x98\\xce2:sE\\x142\\x93v\\xb0\\x1e\\x7f\\x87\\xf5\\xa2\\x8a)\\x01'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 182,
+              "h": 320,
+              "size": 18775
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 454,
+              "h": 800,
+              "size": 78298
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 720,
+              "h": 1270,
+              "sizes": [
+                15181,
+                40078,
+                63813,
+                108465,
+                148858
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 151,
+          "length": 32
+        }
+      ],
+      "views": 411,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 67,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-28T06:31:50+00:00",
+    "message_text": "Order your Power plus Vitamin and mineral supplement from Che-Med.\n\nCall center: 9798\nWebsite: www.chemeds.org",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/67.jpg",
+    "views": 1116,
+    "forwards": 6,
+    "raw": {
+      "_": "Message",
+      "id": 67,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-28 06:31:50+00:00",
+      "message": "Order your Power plus Vitamin and mineral supplement from Che-Med.\n\nCall center: 9798\nWebsite: www.chemeds.org",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5864077278143691196,
+          "access_hash": -6449570002391579469,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00CjC\\xa7\\xb9\\x1a\\xb7\\xb5\\x01\\xb2\\x81\\xc2W\\xefcL\\xb0t\\xd6Z\\xdf'",
+          "date": "2022-12-28 06:27:51+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd7\\xc9\\xdf\\xfe\\xce?ZZ\\x8f/\\xf4\\xfc\\x07\\xf8\\xd1\\x97\\xe7\\xfc\\x07\\xf8\\xd0;\\x0f<\\nC\"\\x8e\\xb9\\xff\\x00\\xbeMW\\xb8\\xbaXYT\\x90\\x18\\x8c\\xf3Q\\xae\\xa2\\x9b\\xbev]\\xbd\\xc8\\xa0-\\xd4\\xba\\x18\\x10\\x0f<\\xfa\\x8cQU\\x85\\xf42\\xca\\x89\\x1e\\\\\\x93\\xe9\\x8cQE\\x98\\x89$\\x8d\\x99\\xf2\\x00\\xfcM F\\x1d\\x97\\xf3\\xa5\\x96hp\\xc8\\xd2\\xaa\\x9e\\x87\\x9e\\x95\\x00\\x8a=\\xbb\\xbe\\xd0\\xbb}I\\xa0\\xabud\\xcd\\x9c\\x82\\xc3\\'\\x18\\xe3\\xa52\\xec\\x0f\\xb2\\x13\\x80\\x0f\\x1d\\xbd\\xea8\\xccj>W\\x12\\x03\\xd0\\xe6\\xa4\\x97\\xf7\\xb0\\x94\\x04g\\xfd\\xe1H\\x13\\xb3EK_\\xf5\\xab\\xfe\\xf0\\xa2\\x9e\\xc1m@\\x95\\xc8\\xe3\\x1c\\x06\\xc9cE$\\x99S\\x92oC6)\\x15T\\xee\\x199\\xcdD\\xc7,M\\x14V\\x89j\\xc9\\x94\\x9b\\x8aBT\\xb0\\x05,\\xdb\\xca\\xe0\\x0c\\xfc\\xdd\\xe8\\xa2\\xa8\\x82IR/-\\xd9^2{\\x01\\xc1\\xfetQE ?'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 32700
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 118590
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                16985,
+                127179,
+                139129,
+                147132,
+                154481
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 11,
+          "length": 41
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 68,
+          "length": 12
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 86,
+          "length": 7
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 95,
+          "length": 15
+        }
+      ],
+      "views": 1116,
+      "forwards": 6,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

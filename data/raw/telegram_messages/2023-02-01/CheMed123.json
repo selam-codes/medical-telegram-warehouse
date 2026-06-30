@@ -1,0 +1,137 @@
+[
+  {
+    "message_id": 95,
+    "channel_name": "CheMed123",
+    "message_date": "2023-02-01T08:59:37+00:00",
+    "message_text": "አዚትሮማይሲን በሃኪም መድሃኒት ማዘዣ ከሚታዘዙ አንቲባዮቲኮች አንዱ ሲሆን በርከት ያሉ ባክቴርያዎችን ይገላል።\n\nበቀን አንዴ ለ3 ቀናት ምግብ ከመብላታችን 1 ሰዓት ቀደም ብሎ ወይንም ከበላን ከ 2 ሰዓት በኋላ መወሰድ ይኖርበታል።\n\n📌የሃኪም ማዘዣ ካልዎት \nበቴሌግራም ግሩፓችን-t.me/CheMeds\nዌብሳይት- www.chemeds.org\nይላኩልን።",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/95.jpg",
+    "views": 1127,
+    "forwards": 4,
+    "raw": {
+      "_": "Message",
+      "id": 95,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-02-01 08:59:37+00:00",
+      "message": "አዚትሮማይሲን በሃኪም መድሃኒት ማዘዣ ከሚታዘዙ አንቲባዮቲኮች አንዱ ሲሆን በርከት ያሉ ባክቴርያዎችን ይገላል።\n\nበቀን አንዴ ለ3 ቀናት ምግብ ከመብላታችን 1 ሰዓት ቀደም ብሎ ወይንም ከበላን ከ 2 ሰዓት በኋላ መወሰድ ይኖርበታል።\n\n📌የሃኪም ማዘዣ ካልዎት \nበቴሌግራም ግሩፓችን-t.me/CheMeds\nዌብሳይት- www.chemeds.org\nይላኩልን።",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5967379801482314000,
+          "access_hash": -5786871610948228266,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00_jC\\xa7\\xb9\\xf9jd\\x17\\xec\\x0b\\xd4\\x11\\x7f\\x9c\\x0b\\xa6D[I\\xb5'",
+          "date": "2023-02-01 08:59:37+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd7l\\x906\\xfa\\xd3\\xba\\xd6^\\xa3u*\\xcd\\xe5\\xc5&\\xc0\\xa3\\xe6\\xc7Z\\x9e\\xcaW\\xc0I\\x1d\\x9f+\\x90H\\xa5q\\xd8\\xc9\\xbf\\x90\\xcb{!\\xec\\x0e\\xd1\\xf8Uj\\xbb{\\x1c1]:\\xb8|\\x96\\xcf\\x1d0y\\xa8O\\xd9\\xb3\\xc0\\x97\\xe9\\x91Z\\x19\\x90QS\\x1f\\xb3\\x8582\\x13\\xda\\x8a\\x00\\xb3y\\x14\\xf34\\x97\\x0b\\x19\\xd8{\\xe7\\xb5Z\\xb6GdU#\\xe6\\x03\\x18\\xa7\\x89\\xde4\\x8c(\\xf9\\x08\\xe0\\xfb\\xd3d\\x05\\xc3\\xb8;X.\\xe0GcY=]\\x8dcu\\x1b\\x8d\\xd4\\xe2\\x0b\\x142>\\x0b\\x03\\xb4\\x93Y\\xd9\\x8f\\xfb\\xc3\\xeb\\x83\\xfe5$\\xb2\\xcd:\\x04\\x90\\x96\\x00\\xe6\\x90B\\x87\\x82\\xa4\\x1f\\xadh\\x8c\\\\\\xd1\\x14\\x8c\\x85F\\x02\\xe4\\xf5\\xeb\\xc7\\xebE,\\xb0\\x94\\xe4r\\xb4S\\x04\\xd35\\xed\\xc0\\x92\\xdfa\\x1c\\n\\x95\\xa2\\x11\\xdb\\xc9\\xdc\\x95\\xefE\\x15\\rjT_\\xb8P\\xdep@\\xc0\\x07\\xb57\\x9a(\\xad\\x12H\\xe4soq\\xbc\\x9e\\xa3\\x8a(\\xa2\\x80\\xb9'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 22584
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 78239
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                13798,
+                33388,
+                51940,
+                69701,
+                105460
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 8
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 171,
+          "length": 18
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 197,
+          "length": 15
+        }
+      ],
+      "views": 1127,
+      "forwards": 4,
+      "replies": null,
+      "edit_date": "2023-03-11 15:41:22+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

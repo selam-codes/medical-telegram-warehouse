@@ -1,0 +1,251 @@
+[
+  {
+    "message_id": 89,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-17T19:10:57+00:00",
+    "message_text": "🟠ለናንተ ለደምበኞቻችን ይሆናሉ ያልናቸዉን ምርጥ ቫይታሚንና ሰፕልመንቶች እነሆ!!\n\nአጭር የTiktok ቪዲዮአችንን በመመልከት ግንዛቤዎን ይጨምሩ።\n👇👇👇👇👇👇👇👇👇👇👇👇👇\nhttps://vm.tiktok.com/ZMYJHUVde/\n\nየTiktok ቻናላችንን Like እና Follow ያድርጉ።",
+    "has_media": true,
+    "image_path": null,
+    "views": 2304,
+    "forwards": 4,
+    "raw": {
+      "_": "Message",
+      "id": 89,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-17 19:10:57+00:00",
+      "message": "🟠ለናንተ ለደምበኞቻችን ይሆናሉ ያልናቸዉን ምርጥ ቫይታሚንና ሰፕልመንቶች እነሆ!!\n\nአጭር የTiktok ቪዲዮአችንን በመመልከት ግንዛቤዎን ይጨምሩ።\n👇👇👇👇👇👇👇👇👇👇👇👇👇\nhttps://vm.tiktok.com/ZMYJHUVde/\n\nየTiktok ቻናላችንን Like እና Follow ያድርጉ።",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaDocument",
+        "nopremium": false,
+        "spoiler": false,
+        "video": true,
+        "round": false,
+        "voice": false,
+        "document": {
+          "_": "Document",
+          "id": 5924531596668439863,
+          "access_hash": -975135526027309181,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00YjC\\xa7\\xb9\\xeby\\xaby\\xa2\\xf1\\x9c\\xe5\\xc5\\xebO\\xba\\x1d\\xac\\x9a\\xcf'",
+          "date": "2023-01-17 19:10:57+00:00",
+          "mime_type": "video/mp4",
+          "size": 630220,
+          "dc_id": 4,
+          "attributes": [
+            {
+              "_": "DocumentAttributeVideo",
+              "duration": 5.0,
+              "w": 854,
+              "h": 854,
+              "round_message": false,
+              "supports_streaming": true,
+              "nosound": false,
+              "preload_prefix_size": null
+            }
+          ],
+          "thumbs": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd9\\xa2\\x8a(\\x00\\xa2\\x8a(\\x00\\xa2\\x8a(\\x00\\xa2\\x8a(\\x00\\xa2\\x8a(\\x00\\xa2\\x8a(\\x00\\xa2\\x8a(\\x00\\xa2\\x8a(\\x00\\xa2\\x8a(\\x03'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 884
+            }
+          ],
+          "video_thumbs": []
+        },
+        "alt_document": null,
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 121,
+          "length": 32
+        }
+      ],
+      "views": 2304,
+      "forwards": 4,
+      "replies": null,
+      "edit_date": "2023-01-17 19:11:39+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 88,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-17T08:43:12+00:00",
+    "message_text": "🌞Sundown Cinnamon!\nSupports sugar metabolism.\n\nChe-Med Sundown Cinnamon Supplement Product ይዞላችሁ መጧል።\n\nበቁጥር ውስን ስለሆኑ ቀድመው ይዘዙን።\n\nለማዘዝ፦\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\n\nChe-Med is the best way to find your meds!",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/88.jpg",
+    "views": 545,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 88,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-17 08:43:12+00:00",
+      "message": "🌞Sundown Cinnamon!\nSupports sugar metabolism.\n\nChe-Med Sundown Cinnamon Supplement Product ይዞላችሁ መጧል።\n\nበቁጥር ውስን ስለሆኑ ቀድመው ይዘዙን።\n\nለማዘዝ፦\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\n\nChe-Med is the best way to find your meds!",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5922243328743684909,
+          "access_hash": -2264402436459134768,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00XjC\\xa7\\xb9\\xe8\\xb6\\x1a/\\x90\\x9f\\x9fXk\\x9f\\xf9\\xf9c\\xfe<>'",
+          "date": "2023-01-17 08:43:11+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd6\\x8d\\xb7 =\\xe9$\\x95cdV\\xce\\\\\\xe0qT\\x9d\\x9cH\\x00\\xdcW\\xd0RH\\xee\\x17*\\x1c\\x1fQX\\xaa\\xba\\x1a\\xfb3AX7\\xff\\x00^\\x9dU\\x94\\xa0\\xf2\\xe4`Y\\xf6\\xe3\"\\xa4\\xf3\\xc6q\\xb5\\xb3\\xf8V\\xa8\\xcd\\x92s\\xbb\\xfd\\x9cQL\\x13\\x02\\xc0mnh\\xa6\"\\x9a\\xf9&r\\xae\\xa4\\xb63\\x9c\\xf1J\\xea\\x863\\x94\\x03\\x1f\\xed\\x13\\x91R \\xce\\xe2\\x00\\'\\xde\\x95T\\xf7\\x0b\\xef\\xc7\\xff\\x00^\\xb2KCK\\x8e\\x81P\\xc0\\xb8\\xfb\\xbc\\xe3?ZS\\x1f\\x19\\x05\\x00\\xff\\x00v\\xa2\\x8d\\xca\\x81\\x8e\\xd9\\xaa\\xe2\\xfa\\xe4\\xf4\\xb6\\xe7\\xfe\\x05\\xfe\\x15jI\\xe8COr\\xc2\\x142\\xe0m\\xc88\\xfb\\xb4Uu\\xb9\\x9b\\xcd]\\xf6\\xbbT\\x9eO<~\\x94U\\x0bA\\x0b\\\\\\x87$g\\x1e\\x83\\x14\\x19.\\x89\\xe3?\\xa5\\x14W/3F\\xf6C\\xd3\\xcc\\xe3<~4\\xb2!|m`\\xa7\\xd7\\x14QI\\xbdn\\x16\\xd0T\\x88\\xef\\x048\\x1c\\xe7\\x18\\xebE\\x14V\\xd1\\x9b\\xb1\\x9bH'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 29965
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 113318
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                16196,
+                44610,
+                79466,
+                105480,
+                152910
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 2,
+          "length": 43
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 56,
+          "length": 16
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 73,
+          "length": 18
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 151,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 152,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 152,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 184,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 202,
+          "length": 6
+        }
+      ],
+      "views": 545,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

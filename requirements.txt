@@ -1,0 +1,20 @@
+telethon==1.36.0
+python-dotenv==1.0.1
+psycopg2-binary==2.9.12
+SQLAlchemy==2.0.30
+pandas==2.2.2
+dbt-core==1.8.0
+dbt-postgres==1.8.0
+
+# Task 3+ (object detection) — uncomment when starting that task
+# ultralytics==8.2.0
+
+# Task 4 (API) — uncomment when starting that task
+# fastapi==0.111.0
+# uvicorn==0.30.1
+
+# Task 5 (orchestration) — uncomment when starting that task
+# dagster==1.7.9
+# dagster-webserver==1.7.9
+
+pytest==8.2.2

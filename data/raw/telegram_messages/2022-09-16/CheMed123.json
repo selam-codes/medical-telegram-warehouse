@@ -1,0 +1,132 @@
+[
+  {
+    "message_id": 13,
+    "channel_name": "CheMed123",
+    "message_date": "2022-09-16T07:42:31+00:00",
+    "message_text": "Say goodbye to the hustle of trying to find medications! \n\nChemed has brought to you the modern way to find your meds. Go to www.chemeds.org to order your medications or upload your prescriptions and get them delivered to you within less than 30 minutes.\n\nYou can also reach out to our Pharmacists at +251912603463.",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/13.jpg",
+    "views": 1120,
+    "forwards": 15,
+    "raw": {
+      "_": "Message",
+      "id": 13,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-09-16 07:42:31+00:00",
+      "message": "Say goodbye to the hustle of trying to find medications! \n\nChemed has brought to you the modern way to find your meds. Go to www.chemeds.org to order your medications or upload your prescriptions and get them delivered to you within less than 30 minutes.\n\nYou can also reach out to our Pharmacists at +251912603463.",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5848134252166757585,
+          "access_hash": 65060912896722319,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\rjC\\xa7\\xb9\\xfcmr{\\xd9\\x01kI\\x8bz#\\x0c\\xee7\\xb5\\x95'",
+          "date": "2022-09-16 07:42:31+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xd7f\\xc68'\\xf0\\xa7\\x03\\x91A \\x0c\\x9aa\\x91W\\xafJ\\x00kH\\xc0\\xf0\\xb9\\xfc\\xff\\x00\\xc2\\x9b\\xe6\\xcb\\x9f\\xf5C\\xf3?\\xe1M\\xfbP\\x12\\x10\\xcaBv8\\xa9\\xc0V\\x00\\x82q\\xf5\\xa0Vc#\\x91\\x99\\xb0S\\x03\\xd7\\x9f\\xf0\\xa2\\xa4\\x0b\\x83\\xde\\x8a\\x00l\\xab\\xb9\\x0e:\\xd5\\x1c\\x97\\x03\\x04\\xe0w\\xe9S\\xb5\\xf5\\xb6\\xd3\\xfb\\xf5\\xe9T\\xe0\\x91\\xcbd\\x1c\\x8cv\\x19\\xa6\\x1c\\xd6v,|\\xdb\\n.\\x7f\\x1a\\x916\\xa4D\\xc8v\\x81\\xdf5\\x16\\xfc\\xe0\\x0eI\\xe4\\x0c\\xd5]A\\x8a\\xa2\\xa8 pI\\x1f\\xa7\\xf5\\xa4\\x86\\xc6]\\xea\\x19O&\\xd8\\x91\\x18\\xe0\\xb1\\xeah\\xac\\xfa*\\xec@\\xa0\\x8fL\\xd5\\xb8\\xad\\xa6\\n&F!O\\xfc\\xf3\\xc9?\\xa5\\x14P\\xc6\\x89\\x03?\\xef7J\\xc0\\x10p\\x19\\x80\\xe7\\xb7|\\xd4,${v2\\xb6\\xe5L\\x00C\\x03\\xcd\\x14R\\x06W;q\\xc6\\x7f\\x1a(\\xa2\\x98\\x8f\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 28324
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 120560
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1280,
+              "h": 1280,
+              "sizes": [
+                19130,
+                54227,
+                106946,
+                170132,
+                230946
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 125,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 301,
+          "length": 13
+        }
+      ],
+      "views": 1120,
+      "forwards": 15,
+      "replies": null,
+      "edit_date": "2022-09-16 08:43:58+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 4,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

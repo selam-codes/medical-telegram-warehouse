@@ -1,0 +1,1721 @@
+[
+  {
+    "message_id": 195870,
+    "channel_name": "tikvahpharma",
+    "message_date": "2026-06-09T18:17:47+00:00",
+    "message_text": "",
+    "has_media": true,
+    "image_path": "data/raw/images/tikvahpharma/195870.jpg",
+    "views": 4233,
+    "forwards": 12,
+    "raw": {
+      "_": "Message",
+      "id": 195870,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+      },
+      "date": "2026-06-09 18:17:47+00:00",
+      "message": "",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": false,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": true,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1826812003
+      },
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-08 10:47:24+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": null,
+        "from_name": "Qualitymovbot",
+        "channel_post": null,
+        "post_author": null,
+        "saved_from_peer": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "saved_from_msg_id": 6025,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5852839101080473805,
+          "access_hash": -6532546068398335775,
+          "file_reference": "b'\\x02]\\x92VM\\x00\\x02\\xfd\\x1ejC\\xaa\\xd3L\\x7f\\xbe\\xa7\\x10\\xd6U\\x91\\xa4\\xc1\\xef\\xdfS\\x14-\\xde'",
+          "date": "2026-06-08 10:46:48+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd8\\xa6\\xbb\\x85\\xebN\\xa8\\xd9\\x8e\\xecyl}\\x0f\\x14\\x9d\\xed\\xa0\\x11=\\xde\\xc9Y\\n\\x8e?\\xda\\x03\\xf9\\xd4\\xd1H\\xb2\\xae\\xe0G\\xbe\\x0eqL\\xdeN\\t\\x81\\xf3\\xf5\\x1f\\xe3OLc\\xee\\xed\\'\\xb1\\xa6\\x03\\xe8\\xa4\\xa2\\x80\\x16\\xab\\x98b.X\\xa2\\xe4\\x93\\xebV*\\xbc\\x88\\xe7\\xee\\x97\\x19\\'\\x90\\xf4\\x98\\x00\\x86!\\x9c\"\\xf3\\xf5\\xa5[h\\x94\\x83\\xb0q\\xcd4+\\x93\\x83\\xe6(=\\xf7\\x83R\\xaa\\x159\\xde\\xcd\\xc60M$1\\xf4QEP\\x84\\xf3\\x13\\xfb\\xc2\\xa2p\\x8f\\xd5\\xf1\\xf8\\xd1EsJ\\xa3z\\x16\\x90\\xdf*?\\xef\\x9f\\xce\\xa4M\\x88\\xb8\\r\\x9a(\\xa9\\x8c\\xac\\xef`c\\xb7\\xaf\\xf7\\x85\\x14QW\\xedd\\x1c\\xa8'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 19303
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 67831
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1254,
+              "h": 1254,
+              "sizes": [
+                13479,
+                29484,
+                52722,
+                74898,
+                107139
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": {
+        "_": "ReplyInlineMarkup",
+        "rows": [
+          {
+            "_": "KeyboardButtonRow",
+            "buttons": [
+              {
+                "_": "KeyboardButtonUrl",
+                "text": "JOIN/ቤተሰብ ይሁኑ",
+                "url": "https://t.me/addlist/xNKg2iuuqw1lNmNk"
+              }
+            ]
+          }
+        ]
+      },
+      "entities": [],
+      "views": 4233,
+      "forwards": 12,
+      "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 431221,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+      },
+      "edit_date": "2026-06-09 18:22:20+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "❤"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 195869,
+    "channel_name": "tikvahpharma",
+    "message_date": "2026-06-09T17:10:06+00:00",
+    "message_text": "💉5 cc syringe  💵 Attractiv\n         limited  stock 👆call\n💉10 cc syringe 💵  800\n💉 3cc Syringe  💵 590  \n 💉50cc syringe 💵1400\n  💉Insulin syringe 550\n\n   💊Amoxa Amayn 250mg 💰Call\n   💊Amoxa Amayn 125mg 💰 85\n   💊 Amayn 500mg 10*10 💰480\n\n👉   RDT malaria 🅱ioTrol of\n       #30  80📦💵1200\n\n👉 Plaster 2.5 💵 68\n👉  Plaster 5*5💵118\n👉 Plaster 7.5*5💵136\n👉  plaster 10*5💵 \n👉  plaster 12.5*5💵220\n👉   plaster12.5*10💵360\n\n💉Diclofenac inj   💵620\n💉 TAT injection ...Attractive\n💉Ampicillin500mg injection \n      📦50 💵60  &  58\n💉Ampicillin500mg Capsu💵2800\n\n🧊EDTA plastic 💵 730\n🧊Edta  glass     💵680\n🧊SST  glass     💵 1050\n🧊SST   pet        💵 1230 \n\n🧤SRITRANG Examination\n      Glove powdered 💵600\n🧤SRITRANG Examination\n      powder free 💵680\n🧤Surgical glove powdered Free \n     \n💧 Gentamycin o.3%10ml  \n       💰55💵  \n💧 Ibuprofen 400mg tab💰235\n\n💧Cefixime 100mg SUS💰 200\n💧 Cephalexin 125mg 💰190  \n💧 Cephalexin 250 mg 7💰325\n💧Salbutamol tab 10x10 💰165\n💧 Metoclopramide10x10 💵160\n\n💧HCTHydrochlorothiazide💵 135\n\n💧AMYDRAMINE \n\n💧 HEPARIN inj 💰480\n\n\n☎️  0940730534\n👉Call any time",
+    "has_media": false,
+    "image_path": null,
+    "views": 694,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 195869,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+      },
+      "date": "2026-06-09 17:10:06+00:00",
+      "message": "💉5 cc syringe  💵 Attractiv\n         limited  stock 👆call\n💉10 cc syringe 💵  800\n💉 3cc Syringe  💵 590  \n 💉50cc syringe 💵1400\n  💉Insulin syringe 550\n\n   💊Amoxa Amayn 250mg 💰Call\n   💊Amoxa Amayn 125mg 💰 85\n   💊 Amayn 500mg 10*10 💰480\n\n👉   RDT malaria 🅱ioTrol of\n       #30  80📦💵1200\n\n👉 Plaster 2.5 💵 68\n👉  Plaster 5*5💵118\n👉 Plaster 7.5*5💵136\n👉  plaster 10*5💵 \n👉  plaster 12.5*5💵220\n👉   plaster12.5*10💵360\n\n💉Diclofenac inj   💵620\n💉 TAT injection ...Attractive\n💉Ampicillin500mg injection \n      📦50 💵60  &  58\n💉Ampicillin500mg Capsu💵2800\n\n🧊EDTA plastic 💵 730\n🧊Edta  glass     💵680\n🧊SST  glass     💵 1050\n🧊SST   pet        💵 1230 \n\n🧤SRITRANG Examination\n      Glove powdered 💵600\n🧤SRITRANG Examination\n      powder free 💵680\n🧤Surgical glove powdered Free \n     \n💧 Gentamycin o.3%10ml  \n       💰55💵  \n💧 Ibuprofen 400mg tab💰235\n\n💧Cefixime 100mg SUS💰 200\n💧 Cephalexin 125mg 💰190  \n💧 Cephalexin 250 mg 7💰325\n💧Salbutamol tab 10x10 💰165\n💧 Metoclopramide10x10 💵160\n\n💧HCTHydrochlorothiazide💵 135\n\n💧AMYDRAMINE \n\n💧 HEPARIN inj 💰480\n\n\n☎️  0940730534\n👉Call any time",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": false,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": true,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1826812003
+      },
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-09 17:10:03+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "from_name": null,
+        "channel_post": 6024,
+        "post_author": "SELAMAWIT",
+        "saved_from_peer": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "saved_from_msg_id": 6024,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": null,
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityItalic",
+          "offset": 266,
+          "length": 6
+        }
+      ],
+      "views": 694,
+      "forwards": 0,
+      "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 431221,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+      },
+      "edit_date": "2026-06-09 17:14:15+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 195867,
+    "channel_name": "tikvahpharma",
+    "message_date": "2026-06-09T15:47:28+00:00",
+    "message_text": "🌀MEDIX PHARMA PLC©️🌿⚕️\n \n   NEW ARRIVAL\n\n✔️Microscope(Olympus cx23)\n\nMEDICAL  \"SUPPLIES''\n   ================\n✔️Examination Gloves \nPowder free🧤©️\n\n✔️Medical disposal face mask😷\n\n✔️First Aid Plaster (100 pcs) 🩹\n  \n✔️Adhesive Plaster 5cm * 5m  \n\n✔️Adhesive Plaster 7.5cm * 5m \n\n✔️Adhesive Plaster 7.5cm *10m\n\n✔️Adhesive Plaster 10cm*5m\n\n✔️Adhesive Plaster 12.5cm*5m\n\n✔️Adhesive Plaster 12.5cm*10\n\n✔️syringe 3cc,5cc,10cc \n\n✔️ECG Paper(210x30)215x30m\n\n✔️ultrasound paper \n\n✔️ECG A4 (100 Pages)\n\n⭐️Kits Egens brand\n\n✔️HBS Ag strip of 50 \n\n✔️HCV test Strip of 50\n\n⭐️\"BLOOD COLLECTION TUBES\n      ===================\n✔️Vacutainer needle 21G of100\n\n✔️EDTA K3 Glass, PET 4ml  \n\n✔️SST Glass, PET 5ml \n\n⭐️HOSPITAL FURNITURES&Equ\n     ===================\n✔️Crash cart/Emergency trolley \n\n✔️Folding stretcher\n\n✔️patient bed 2 &3 function \n\n✔️Electrical patient bed 3 func\n\n✔️Laboratory Stool chair \n\n✔️Lab Stool chair with backrest\n\n✔️Examination couch/bed\n\n✔️Delivery couch/bed/table \n\n✔️patient stretcher\n\n✔️Ambulance stretcher\n\n✔️medical trolley 2&3 shelf \n\n✔️commode wheelchair \n\n✔️ward screen 3 fold\n\n✔️medical air mattress \n\n⭐️Medical Equ& Surgical Sets\n===================\n✔️Hysterosalpingography(HSG)set \n\n✔️minor surgical set\n\n✔️major surgical set\n\n✔️dressing set \n\n✔️delivery set\n\n✔️suture set \n\n✔️Laparotomy Set \n\n✔️Tonsillectomy Set   \n\n✔️Hematocrit centrifuge 24 hol\n\n✔️Anesthesia machine wa Ex35\n\n✔️ultrasound SonoscapeP10,p9\n\n✔️Led operation light\n\n✔️Deep Freezer\n\n🚚 FREE & FAST DELIVERY!\n\n📱+251912455043[Abebaw]  \n📱+251987623030  \n📱+251900826041 [Mercy] \n📱+251985878759  \n📱+251985878736[Fikre]\n✉️ @Abebaw_B✉️\n ✉️ @MEDIX_IMPORT\n💌 medixpharmaplc@gmail.com\n🌐@MEDIXPHARMACEUTICAlS\n🌐@MEDIXPHARMAIMPORT\nhttps://t.me/MEDIXPHARMACEUTICAlS\n📍Around St.Paul's Hospital ,Near to Addis Ketma subcity office, Addis Ababa Ethiopian🇪🇹",
+    "has_media": true,
+    "image_path": null,
+    "views": 619,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 195867,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+      },
+      "date": "2026-06-09 15:47:28+00:00",
+      "message": "🌀MEDIX PHARMA PLC©️🌿⚕️\n \n   NEW ARRIVAL\n\n✔️Microscope(Olympus cx23)\n\nMEDICAL  \"SUPPLIES''\n   ================\n✔️Examination Gloves \nPowder free🧤©️\n\n✔️Medical disposal face mask😷\n\n✔️First Aid Plaster (100 pcs) 🩹\n  \n✔️Adhesive Plaster 5cm * 5m  \n\n✔️Adhesive Plaster 7.5cm * 5m \n\n✔️Adhesive Plaster 7.5cm *10m\n\n✔️Adhesive Plaster 10cm*5m\n\n✔️Adhesive Plaster 12.5cm*5m\n\n✔️Adhesive Plaster 12.5cm*10\n\n✔️syringe 3cc,5cc,10cc \n\n✔️ECG Paper(210x30)215x30m\n\n✔️ultrasound paper \n\n✔️ECG A4 (100 Pages)\n\n⭐️Kits Egens brand\n\n✔️HBS Ag strip of 50 \n\n✔️HCV test Strip of 50\n\n⭐️\"BLOOD COLLECTION TUBES\n      ===================\n✔️Vacutainer needle 21G of100\n\n✔️EDTA K3 Glass, PET 4ml  \n\n✔️SST Glass, PET 5ml \n\n⭐️HOSPITAL FURNITURES&Equ\n     ===================\n✔️Crash cart/Emergency trolley \n\n✔️Folding stretcher\n\n✔️patient bed 2 &3 function \n\n✔️Electrical patient bed 3 func\n\n✔️Laboratory Stool chair \n\n✔️Lab Stool chair with backrest\n\n✔️Examination couch/bed\n\n✔️Delivery couch/bed/table \n\n✔️patient stretcher\n\n✔️Ambulance stretcher\n\n✔️medical trolley 2&3 shelf \n\n✔️commode wheelchair \n\n✔️ward screen 3 fold\n\n✔️medical air mattress \n\n⭐️Medical Equ& Surgical Sets\n===================\n✔️Hysterosalpingography(HSG)set \n\n✔️minor surgical set\n\n✔️major surgical set\n\n✔️dressing set \n\n✔️delivery set\n\n✔️suture set \n\n✔️Laparotomy Set \n\n✔️Tonsillectomy Set   \n\n✔️Hematocrit centrifuge 24 hol\n\n✔️Anesthesia machine wa Ex35\n\n✔️ultrasound SonoscapeP10,p9\n\n✔️Led operation light\n\n✔️Deep Freezer\n\n🚚 FREE & FAST DELIVERY!\n\n📱+251912455043[Abebaw]  \n📱+251987623030  \n📱+251900826041 [Mercy] \n📱+251985878759  \n📱+251985878736[Fikre]\n✉️ @Abebaw_B✉️\n ✉️ @MEDIX_IMPORT\n💌 medixpharmaplc@gmail.com\n🌐@MEDIXPHARMACEUTICAlS\n🌐@MEDIXPHARMAIMPORT\nhttps://t.me/MEDIXPHARMACEUTICAlS\n📍Around St.Paul's Hospital ,Near to Addis Ketma subcity office, Addis Ababa Ethiopian🇪🇹",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": false,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": true,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1826812003
+      },
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-09 15:47:25+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "from_name": null,
+        "channel_post": 6022,
+        "post_author": "MEDIX PHARMA IMPORT",
+        "saved_from_peer": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "saved_from_msg_id": 6022,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaWebPage",
+        "webpage": {
+          "_": "WebPageEmpty",
+          "id": 4509935624688437253,
+          "url": "https://t.me/MEDIXPHARMACEUTICAlS"
+        },
+        "force_large_media": false,
+        "force_small_media": true,
+        "manual": true,
+        "safe": true
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 43
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 43,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 43,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 45,
+          "length": 67
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 112,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 112,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 114,
+          "length": 37
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 151,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 151,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 153,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 183,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 183,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 185,
+          "length": 34
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 219,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 219,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 221,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 250,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 250,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 252,
+          "length": 30
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 282,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 282,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 284,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 313,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 313,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 315,
+          "length": 26
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 341,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 341,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 343,
+          "length": 28
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 371,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 371,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 373,
+          "length": 28
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 401,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 401,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 403,
+          "length": 11
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 415,
+          "length": 3
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 419,
+          "length": 7
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 426,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 426,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 428,
+          "length": 26
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 454,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 454,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 456,
+          "length": 16
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 475,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 475,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 477,
+          "length": 20
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 497,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 497,
+          "length": 2,
+          "document_id": 5438496463044752972
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 499,
+          "length": 18
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 517,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 517,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 519,
+          "length": 21
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 540,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 540,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 542,
+          "length": 22
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 564,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 564,
+          "length": 2,
+          "document_id": 5438496463044752972
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 566,
+          "length": 50
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 616,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 616,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 618,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 647,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 647,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 649,
+          "length": 26
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 675,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 675,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 677,
+          "length": 21
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 698,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 698,
+          "length": 2,
+          "document_id": 5438496463044752972
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 700,
+          "length": 49
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 749,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 749,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 751,
+          "length": 31
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 782,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 782,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 784,
+          "length": 19
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 803,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 803,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 805,
+          "length": 28
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 833,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 833,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 835,
+          "length": 31
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 866,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 866,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 868,
+          "length": 25
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 893,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 893,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 895,
+          "length": 31
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 926,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 926,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 928,
+          "length": 23
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 951,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 951,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 953,
+          "length": 27
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 980,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 980,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 982,
+          "length": 19
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1001,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1001,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1003,
+          "length": 21
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1024,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1024,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1026,
+          "length": 19
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1046,
+          "length": 5
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1054,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1054,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1056,
+          "length": 18
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1077,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1077,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1099,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1099,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1101,
+          "length": 20
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1123,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1124,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1124,
+          "length": 2,
+          "document_id": 5438496463044752972
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1126,
+          "length": 46
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1173,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1173,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1207,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1207,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1209,
+          "length": 18
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1229,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1229,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1231,
+          "length": 18
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1251,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1251,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1253,
+          "length": 12
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1268,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1268,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1270,
+          "length": 12
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1284,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1284,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1286,
+          "length": 11
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1299,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1299,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1318,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1318,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1341,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1342,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1342,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1344,
+          "length": 28
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1373,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 1374,
+          "length": 2
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1374,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1404,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1434,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 1457,
+          "length": 2,
+          "document_id": 5017521906337710762
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 1501,
+          "length": 13
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 1527,
+          "length": 13
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 1545,
+          "length": 13
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 1570,
+          "length": 13
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 1588,
+          "length": 13
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 1612,
+          "length": 9
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 1628,
+          "length": 13
+        },
+        {
+          "_": "MessageEntityEmail",
+          "offset": 1645,
+          "length": 24
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 1672,
+          "length": 21
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 1696,
+          "length": 18
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 1715,
+          "length": 33
+        }
+      ],
+      "views": 619,
+      "forwards": 0,
+      "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 431221,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+      },
+      "edit_date": "2026-06-10 08:44:41+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "❤"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 195866,
+    "channel_name": "tikvahpharma",
+    "message_date": "2026-06-09T15:14:57+00:00",
+    "message_text": "🅶🅸🅵🆃🅴🅳 🅷🅰🅽🅳🆂 🆃🆁🅰🅳🅸🅽🅶 🄿🄻🄲\n\n👉 Color Doppler Ultrasound  \n   • Brand: Mindray\n   • Model: DC 30\n\n👉 Black and White Ultrasound  \n   • Brand: Mindray\n   • Model: DP 18\n\n👉 Hematology Analyzer (5-Diff)  \n   • Brand: Zybio\n   • Model: Z50\n\n👉 Hematology Analyzer (3-Differential )  \n   • Brand: Zybio\n   • Model: Z3\n\n👉 Fully-Automated \nChemistry Analyzer  \n   • Brand: Zybio\n   • Model: EXC200\n\n🔬 Zybio Reagents  \n   • Diluent (20L)\n   • DN Diluent (20L)\n   • Lyse (500ml)\n   • LD Lyse (500ml)\n   • LB Lyse (500ml)\n   • Probe Cleanser (50ml)\n   • Expiry Date: 2027\n\n🚚 Free Fast Delivery \n📞 Contact : +2519-36477051\n🖊️ @robsengifted_hands",
+    "has_media": false,
+    "image_path": null,
+    "views": 591,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 195866,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+      },
+      "date": "2026-06-09 15:14:57+00:00",
+      "message": "🅶🅸🅵🆃🅴🅳 🅷🅰🅽🅳🆂 🆃🆁🅰🅳🅸🅽🅶 🄿🄻🄲\n\n👉 Color Doppler Ultrasound  \n   • Brand: Mindray\n   • Model: DC 30\n\n👉 Black and White Ultrasound  \n   • Brand: Mindray\n   • Model: DP 18\n\n👉 Hematology Analyzer (5-Diff)  \n   • Brand: Zybio\n   • Model: Z50\n\n👉 Hematology Analyzer (3-Differential )  \n   • Brand: Zybio\n   • Model: Z3\n\n👉 Fully-Automated \nChemistry Analyzer  \n   • Brand: Zybio\n   • Model: EXC200\n\n🔬 Zybio Reagents  \n   • Diluent (20L)\n   • DN Diluent (20L)\n   • Lyse (500ml)\n   • LD Lyse (500ml)\n   • LB Lyse (500ml)\n   • Probe Cleanser (50ml)\n   • Expiry Date: 2027\n\n🚚 Free Fast Delivery \n📞 Contact : +2519-36477051\n🖊️ @robsengifted_hands",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": false,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": true,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1826812003
+      },
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-09 15:14:54+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "from_name": null,
+        "channel_post": 6021,
+        "post_author": "Robisen Robi",
+        "saved_from_peer": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "saved_from_msg_id": 6021,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": null,
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 620
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 620,
+          "length": 14
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 639,
+          "length": 19
+        }
+      ],
+      "views": 591,
+      "forwards": 0,
+      "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 431221,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+      },
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 195865,
+    "channel_name": "tikvahpharma",
+    "message_date": "2026-06-09T15:00:14+00:00",
+    "message_text": "🏩 MT  PHARMA IMPORT\n\nNEW ARRIVAL \n\n💉Syringe 3cc    💵570\n💉Syringe 5cc    💵610\n💉Syringe 10cc   💵790\n\n🚒Free and Fast delivery \n📞contact person\n                  Meski 📲0912464540\n                              📲0979294941\n🔜💬  https://t.me/pharminfotack",
+    "has_media": false,
+    "image_path": null,
+    "views": 549,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 195865,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+      },
+      "date": "2026-06-09 15:00:14+00:00",
+      "message": "🏩 MT  PHARMA IMPORT\n\nNEW ARRIVAL \n\n💉Syringe 3cc    💵570\n💉Syringe 5cc    💵610\n💉Syringe 10cc   💵790\n\n🚒Free and Fast delivery \n📞contact person\n                  Meski 📲0912464540\n                              📲0979294941\n🔜💬  https://t.me/pharminfotack",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": false,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": true,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1826812003
+      },
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-09 15:00:11+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "from_name": null,
+        "channel_post": 6020,
+        "post_author": "Meski Tigabu",
+        "saved_from_peer": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "saved_from_msg_id": 6020,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": null,
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 235,
+          "length": 26
+        }
+      ],
+      "views": 549,
+      "forwards": 0,
+      "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 431221,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+      },
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 195864,
+    "channel_name": "tikvahpharma",
+    "message_date": "2026-06-09T13:45:25+00:00",
+    "message_text": "NEW. JOB. VACCANCY\n01/10/2018\nDOCTOR  2- 3  YEARS PLACE JENMO MILHEL\nBSC NURES  3 YERES PLACE JEMMO MILHEL\nLAB  DIPLOMA OR DEGREE PLACE JENMO MILHEL\nJUNIOR  DRUGIST 1 YEARS  DISPENSIG 4 KILO\nSALES MAN\n IMPORT  ADHSU GEBEYA ( SALES EXPERACE  IS MANDATORY)\nBIO MEDHCAL 1 -3 years Experance Import  & sales place  GURD SHOLA\nSENIOR ACCOUNTANT FOR HOTEL PLACE PIYASSA\nPAR TIME\nCMC\nJEMMO MIKHEL\nWOREN(ABEME)\nBULEBULA\n KARA KORE\nBOLE MIKHAEL\nSEMT 72\nMEKANISA ABO\nBOLE NIKHEL SATER DAY &SUNDAY\nGORO\nDOCTOR  0 YEARS  WE NEED 2 MAN DIRA DAWA\nINTERNIST  PAULOS 100,000ETB\nSENIOR PHARMACIST WZ LICENSE  PLACE\nGERJI\nGEMMO\nHAYET\nBOLE BULEBULA\nLAMBERT\nJUNIOR   PHARMACY 1 YEARS REMET\nJUNIOR. PHARMACY 6MONTH - 1 YEARS DISPESING\n GEMMO\nMEKANISA\nKARAKORE\nCASHER FO PHARMACY\nPIYASSA\nALEM BANK\nDENTAL  (DDM)PLACE TAFO   2 YEARS\nJUNIOR. PHARMACY 0 IMPORT GURD SHOLA\nCONTACT AS ☎0983848760\n☎0908299838🙏🙏",
+    "has_media": true,
+    "image_path": "data/raw/images/tikvahpharma/195864.jpg",
+    "views": 692,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 195864,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+      },
+      "date": "2026-06-09 13:45:25+00:00",
+      "message": "NEW. JOB. VACCANCY\n01/10/2018\nDOCTOR  2- 3  YEARS PLACE JENMO MILHEL\nBSC NURES  3 YERES PLACE JEMMO MILHEL\nLAB  DIPLOMA OR DEGREE PLACE JENMO MILHEL\nJUNIOR  DRUGIST 1 YEARS  DISPENSIG 4 KILO\nSALES MAN\n IMPORT  ADHSU GEBEYA ( SALES EXPERACE  IS MANDATORY)\nBIO MEDHCAL 1 -3 years Experance Import  & sales place  GURD SHOLA\nSENIOR ACCOUNTANT FOR HOTEL PLACE PIYASSA\nPAR TIME\nCMC\nJEMMO MIKHEL\nWOREN(ABEME)\nBULEBULA\n KARA KORE\nBOLE MIKHAEL\nSEMT 72\nMEKANISA ABO\nBOLE NIKHEL SATER DAY &SUNDAY\nGORO\nDOCTOR  0 YEARS  WE NEED 2 MAN DIRA DAWA\nINTERNIST  PAULOS 100,000ETB\nSENIOR PHARMACIST WZ LICENSE  PLACE\nGERJI\nGEMMO\nHAYET\nBOLE BULEBULA\nLAMBERT\nJUNIOR   PHARMACY 1 YEARS REMET\nJUNIOR. PHARMACY 6MONTH - 1 YEARS DISPESING\n GEMMO\nMEKANISA\nKARAKORE\nCASHER FO PHARMACY\nPIYASSA\nALEM BANK\nDENTAL  (DDM)PLACE TAFO   2 YEARS\nJUNIOR. PHARMACY 0 IMPORT GURD SHOLA\nCONTACT AS ☎0983848760\n☎0908299838🙏🙏",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": false,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": true,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1826812003
+      },
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-05 08:05:16+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": null,
+        "from_name": "@ PHARMACIST ASRES",
+        "channel_post": null,
+        "post_author": null,
+        "saved_from_peer": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "saved_from_msg_id": 6019,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5850587984166587736,
+          "access_hash": 7585999187113080840,
+          "file_reference": "b'\\x02]\\x92VM\\x00\\x02\\xfd\\x18jC\\xaa\\xd3\\xa1\\xd8\\xe4\\xa82:\\x1e\\xca\\x01\\xff\\x93\\x7f\\x02\\x94\\xf8\\xe8'",
+          "date": "2026-06-08 12:14:56+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01\\x1e(\\xd9\\xa6\\xee\\x00\\x90x\\xf741\\xc2\\x92s\\xf8\\n\\xcf\\xd4\\x18;\\x08\\xd5\\xd41\\xea\\t\\xc1\\xfb\\xa7\\xb7^\\xf52v\\x1aW.4\\xf1\\xe4(\\x91w\\x1e\\xddx\\xa9\\xab\\x0e\\x10\\x16`\\xea\\xac\\xc0d\\xedD8\\xef\\xeb\\x8fZ\\xb5.\\xa0\\xeaA\\xf2B\\xe0\\x81\\xf3?<\\xfb\\nQm\\x834\\xa8\\xa2\\x8a\\xb1\\x05f\\\\\\xda\\xdc\\xfd\\xb2I\\xa1\\x08\\xc1\\x80\\xc6O \\x8a\\xd3\\xa2\\x802\\xa0\\xb7\\xb8id\\xf3\\xc3D\\x1crc\\x03\\x9f\\xe7R\\x08l\\xc5\\xc8\\x8eB\\xcf \\x00\\x82\\xef\\xfe\\x7f\\xc9\\xad\\x1a\\xab-\\x8d\\xbc\\x92\\x99\\n~\\xf3\\xb1\\xcfON(\\x02\\xd5\\x14\\xd4P\\x8b\\xb5zd\\x9f\\xce\\x8a@\\x7f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 237,
+              "size": 10881
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 644,
+              "h": 476,
+              "size": 22631
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 692,
+      "forwards": 1,
+      "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 431221,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+      },
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 195863,
+    "channel_name": "tikvahpharma",
+    "message_date": "2026-06-09T12:12:30+00:00",
+    "message_text": "✅️ ELASTIC CREPE BANDAGE (7.5 CM × 5 M)\n📦 480 Rolls  💵 72br\n✅️ ELASTIC CREPE BANDAGE (10 CM × 5 M)\n📦 360 Rolls  💵 90br\n✅️ ELASTIC CREPE BANDAGE (12.5CM ×5 M)\n📦 240 Rolls 💵100br\n\n✅Iv cannula 16G 💵1400\n✅️IV cannula 18G 💵1450\n✅Iv cannula 20G  💵1450\n✅Iv cannula 22G 💵1600\n✅Iv cannula 24G 💵1700\n\n👇Vicryl (Absorbable Sutures)\n✅️ 0 Round  💵1100\n✅️ 0 Cutting  💵1400\n✅️ 1 Round    💵1100 \n✅️ 1 Cutting   💵1250\n✅️ 2 Cutting   💵1300 \n✅️ 2 Round      💵1100\n✅️ 2/0 Round   💵980\n✅️ 2/0 Cutting   💵1150\n✅️ 3/0 Round    💵1100\n✅️ 3/0 Cutting   💵1100\n✅️ 4/0 Round     💵1150\n✅️ 4/0 Cutting   💵1150\n✅️ 5/0 Round    💵1300\n✅️ 5/0 Cutting   💵1300\n✅️ 6/0 Round    💵1500\n✅️ 6/0 Cutting  💵1600\n👇Prolene (Non-Absorbable Sutures\n✅️ 2/0 double arm   💵4000\n✅️ 3/0 single arm     💵3900\n✅️ 3/0 double arm  💵4000 \n✅️ 4/0 single arm     💵3900 \n✅️ 4/0 double arm   💵4000\n✅️ 5/0 single arm     💵4200 \n✅️ 5/0 double arm   💵4400\n✅️ 6/0 single arm     💵4200\n✅️ 6/0 double arm   💵4400\n✅️ 7/0 double arm   💵7200\n👇Nylon Sutures\n✅️ 9/0  single arm   💵8600\n✅️ 9/0 double arm   💵8700\n✅️ 10/0 single arm    💵8600\n✅️ 10/0 double arm  💵8700\n✅️Silk 2/0 cutting.  💵550      \n📦 all are 50 dozen / carton\n\n✅Spinal Needle22,23,24,26 💵100br\n✅Spinal Needle 25g 💵120br\n\n✅️Catheter 2-Way #10💵120br\n✅️Catheter 2-Way #12💵120br\n✅️Catheter 2-Way #16💵80br\n✅️Catheter 2-Way #18💵75br\n✅️Catheter 2-Way #20💵78br\n✅️Catheter 2-Way #22💵78br\n✅️Catheter 3-Way #18💵100br\n✅️Catheter 3-Way #20💵123br\n✅️Catheter 3-Way #22  💵123br\n\n✅ zinc oxide plaster 12.5 * 5 ( 4 rolls ) 💵230\n✅️Endotracheal Tube (Cuffed) 6.0mm💵140\n✅️Endotracheal Tube (Cuffed) 6.5mm💵140\n✅️Endotracheal Tube(Cuffed)7.0mm💵140\n✅️Endotracheal Tube(Cuffed)7.5mm💵140\n✅️Tracheostomy Tube(Cuffed)7.0mm💵35         \n✅Endotracheal tube 3.5,4 & 4.5💵215\n✅Endotracheal tube 7.5 & 8💵110\n✅Surgical Blade Size 23💵730\n✅  Micoscope Slide Non Frosted of 50 pcs 💵170\n\n🚒Free and Fast delivery \n📞contact person\n                  Meski 📲0912464540\n                              📲0979294941\n🔜💬  https://t.me/pharminfotack",
+    "has_media": false,
+    "image_path": null,
+    "views": 563,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 195863,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+      },
+      "date": "2026-06-09 12:12:30+00:00",
+      "message": "✅️ ELASTIC CREPE BANDAGE (7.5 CM × 5 M)\n📦 480 Rolls  💵 72br\n✅️ ELASTIC CREPE BANDAGE (10 CM × 5 M)\n📦 360 Rolls  💵 90br\n✅️ ELASTIC CREPE BANDAGE (12.5CM ×5 M)\n📦 240 Rolls 💵100br\n\n✅Iv cannula 16G 💵1400\n✅️IV cannula 18G 💵1450\n✅Iv cannula 20G  💵1450\n✅Iv cannula 22G 💵1600\n✅Iv cannula 24G 💵1700\n\n👇Vicryl (Absorbable Sutures)\n✅️ 0 Round  💵1100\n✅️ 0 Cutting  💵1400\n✅️ 1 Round    💵1100 \n✅️ 1 Cutting   💵1250\n✅️ 2 Cutting   💵1300 \n✅️ 2 Round      💵1100\n✅️ 2/0 Round   💵980\n✅️ 2/0 Cutting   💵1150\n✅️ 3/0 Round    💵1100\n✅️ 3/0 Cutting   💵1100\n✅️ 4/0 Round     💵1150\n✅️ 4/0 Cutting   💵1150\n✅️ 5/0 Round    💵1300\n✅️ 5/0 Cutting   💵1300\n✅️ 6/0 Round    💵1500\n✅️ 6/0 Cutting  💵1600\n👇Prolene (Non-Absorbable Sutures\n✅️ 2/0 double arm   💵4000\n✅️ 3/0 single arm     💵3900\n✅️ 3/0 double arm  💵4000 \n✅️ 4/0 single arm     💵3900 \n✅️ 4/0 double arm   💵4000\n✅️ 5/0 single arm     💵4200 \n✅️ 5/0 double arm   💵4400\n✅️ 6/0 single arm     💵4200\n✅️ 6/0 double arm   💵4400\n✅️ 7/0 double arm   💵7200\n👇Nylon Sutures\n✅️ 9/0  single arm   💵8600\n✅️ 9/0 double arm   💵8700\n✅️ 10/0 single arm    💵8600\n✅️ 10/0 double arm  💵8700\n✅️Silk 2/0 cutting.  💵550      \n📦 all are 50 dozen / carton\n\n✅Spinal Needle22,23,24,26 💵100br\n✅Spinal Needle 25g 💵120br\n\n✅️Catheter 2-Way #10💵120br\n✅️Catheter 2-Way #12💵120br\n✅️Catheter 2-Way #16💵80br\n✅️Catheter 2-Way #18💵75br\n✅️Catheter 2-Way #20💵78br\n✅️Catheter 2-Way #22💵78br\n✅️Catheter 3-Way #18💵100br\n✅️Catheter 3-Way #20💵123br\n✅️Catheter 3-Way #22  💵123br\n\n✅ zinc oxide plaster 12.5 * 5 ( 4 rolls ) 💵230\n✅️Endotracheal Tube (Cuffed) 6.0mm💵140\n✅️Endotracheal Tube (Cuffed) 6.5mm💵140\n✅️Endotracheal Tube(Cuffed)7.0mm💵140\n✅️Endotracheal Tube(Cuffed)7.5mm💵140\n✅️Tracheostomy Tube(Cuffed)7.0mm💵35         \n✅Endotracheal tube 3.5,4 & 4.5💵215\n✅Endotracheal tube 7.5 & 8💵110\n✅Surgical Blade Size 23💵730\n✅  Micoscope Slide Non Frosted of 50 pcs 💵170\n\n🚒Free and Fast delivery \n📞contact person\n                  Meski 📲0912464540\n                              📲0979294941\n🔜💬  https://t.me/pharminfotack",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": false,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": true,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1826812003
+      },
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-09 12:12:27+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "from_name": null,
+        "channel_post": 6018,
+        "post_author": "Meski Tigabu",
+        "saved_from_peer": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "saved_from_msg_id": 6018,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": null,
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 2036,
+          "length": 26
+        }
+      ],
+      "views": 563,
+      "forwards": 0,
+      "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 431221,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+      },
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 195862,
+    "channel_name": "tikvahpharma",
+    "message_date": "2026-06-09T12:12:30+00:00",
+    "message_text": "🏩 MT  PHARMA IMPORT\n\nNEW ARRIVAL \n\n☑️CACHMAX(Cefixime tablet 400mg)💵430\n☑️Amoxiclav 312.5MG 💵305 \n☑️Amoxa 125mg syrup 💵79  10📦>78\n☑️Amoxa 250mg Syrup  💵95 10📦>94\n☑️CAZITHRO(Azithro 15Ml 💵100 \n☑️CAZITHRO(Azithro 30Ml 💵205\n☑️Cefalexin 125mg Syrup 💵185 600bot>180br\n☑️Cefalexin 250mg Syrup 💵320\n☑️Cotrimoxazole syrup 💵82\n☑️AMOXA 500mg 10x10 💵480\n☑️CLEDEMOX 625MG 2×7💵380\n☑️Amoxicillin&clavulanate tab 1000mg 2*7 💵440\n☑️Zinc Sulfate 20mg tablet 10x10💵290\n☑️SriTrang Exama Glove Powdered 💵590\n☑️Ibuprofen Tab [IBUSCOT] 💵235\n☑️Metoclopramide 10mg TAB💵160\n☑️Albenda 400mg 10x10 💵440\n☑️Spironolactone 25mg 10x10💵900\n☑️Prednisolon 5mg 10*10 💵235\n☑️Spironolactone 25mg 3×10💵348\n☑️Sulbutamol puff 💵165\n☑️Omeprazole cap 20MG(LOKIT)💵160\n☑️Sildenafil 50mg 1*4 💵25\n☑️Tindazole 500Mg 10x10 💵440\n☑️Cefixime syrup 100ml 💵200\n☑️Cloxacillin 250 Syrup 💵200\n☑️Co-Amoxaxlav oral sus 457mg 💵330\n☑️Paracetamol syrup 💵41\n☑️Metronidazole syrup 💵110\n☑️Ibuprofen syrup 💵85  10📦> 80br\n☑️Amoxiclav 156.5mg💵170  5📦>167\n☑️Metoclopramide drop 💵100\n☑️Omeprazole inj 40mg 💵88\n☑️Diclo inj (Reyoung) 💵620\n☑️Hydrocortison inj  💵63 2000vial 60birr\n☑️Dexa inj 4mg/1ml 💵12\n☑️Vitamin B complex Inje💵870\n☑️water for Inj amp 💵6.50\n☑️Tramadol inj 💵32\n☑️TAT  1500iu inj 💵400\n☑️Caster Oil  💵105\n☑️Ketoconazole Cream 20g💵75\n☑️TTC Eye Ointment 1% 💵 28\n☑️Gentamycin eye/ear DROPS 💵55 \n☑️Cipro eye/ear drop 5ml 💵60\n☑️Cipro eye drop 5ml💵50\n☑️Cipro eye drop 10ml 💵75\n☑️Timolol eye drop 💵150\n✅️Cal D lift tab (Calcium Carbonate 1000mg +Vitamin D3 880 iu) off 20 💵795\n✅️Vitamin C 1000mg Effervescent tab off 20💵650birr \n✅️Pronucleus M soft gel cap of 30💵2300\n✅️Pronucleus F soft gel cap of 30💵2200\n✅️Vital cal tab Calcium magnesium Vitamin D3 Zinc & vitamin K2_7 Tab💵545\n✅Vital Cal syrup calcium magnesium Zinc Vitamin D3 Syrup 💵375\n\n✅40% (plastic) 💵22\n✅️Metformin 500mg 💵125\n✅Diazepam 5mg Tab 💵560\n✅️Amvasc 10mg 💵120\n✅️Amvasc 5mg 💵95\n✅Amlodipine 5mg 10x10 💵125\n✅Amlodipine 10mg 10x10 💵225\n✅Loratidine 10mg tab 💵190\n✅️Fulstop tab  💵244\n✅️Fulstop plus tab 💵228\n✅Ferrous sulphate 325mg 💵360\n✅Olanzapin 5mg 💵190\n✅Salbutamol 4mg 10x10 💵165\n✅Meloxicam 15mg  💵125\n✅ORS flavored 💵32\n✅️ORS Non flavored 💵24\n✅Acyclovir 200mg 10x10 💵460\n✅Paracetamol Epharm 💵2100\n✅️Prednisolone 5mg Epharm 💵4000\n✅️Atrova 20mg 3×10 💵138\n✅Nexap 40mg  💵157\n✅Phenobarbital 100mg 💵885\n✅Nifidipine 20mg 💵153\n✅Furosemide 40mg tab 💵185\n✅PTU 100mg tab 💵580\n✅Esmoprazol 20mg 10x10💵390\n✅X-WORM  💵28\n✅Losartan 50mg tab10x10💵450\n✅HCT 25mg tab 10x10 💵123\n✅Chlopheniramine tab 💵110\n✅️Potassium Chloride 600mg Tab 💵82\n✅Enalapril 10mg Tab 💵255\n✅Carbamazepine 200mg  💵850\n✅Folic Acid 5mg 💵230\n✅Ferrous with folic tab 💵140\n\n✅Dextro (DEXGLO)  💵77\n✅️Chlorpheniramine syrup 💵65\n✅Diphen syrup 💵64\n✅Loratidin syrup 💵65\n✅Metoclorpromid syrup 💵75\n✅Guaifenesine syrup 💵68\n\n✅️Frusemide Inj 💵182\n✅️Labetalol inj 20ml vial💵490\n✅Water for inj plastic 💵8\n✅Hydralazine 20mg inj💵210\n✅Diazepam BP 10mg inj💵180\n✅Lidocaine inj 20ml 💵85\n✅Metoclopramide inj 💵8.50\n✅️Tranexamic acid inj 💵140\n✅Benzatin pen.2.4 iu  💵59\n✅Oxytocin 10iu/ml inj  💵110\n✅Urine bag 2000ml  💵40\n \n✅Hydrocortison cream15g💵85\n✅Clotrimazole cream 15gm 💵40\n✅Diclofenic Gel 15gm 💵50\n✅Mometason cream 15gm 💵40\n✅Clobetasol Cream 15g 💵45\n✅Miconazole Cream15g 💵45\n✅Nitrofurazon oint 30gm 💵102\n✅Nitrofurazone Oint 50gm 💵110\n✅Fusidic acid cream 15gm💵110\n✅Betamethasone cream 15gm💵55\n\n✅Urinalysis Reagent Strip of 100💵430\n✅Hpylori Ag strip  off 50 💵3200\n✅️Hpylori Ab strip 0ff 50 💵2186 \n✅HCG strip of 50  💵330\n✅Hcv Cassette of 25 💵1100\n✅HCV test strip of 50  💵1250\n✅HBSAG test strip of 50 💵900\n✅FOB[Occult Blood of 25]Cass💵2000\n✅EDTA GLASS 💵700 \n✅️EDTA plastic 💵750\n✅SST TUBE Glass 💵1100 \n✅️SST Plastic 💵1200\n\n🫟Syring 10cc 💵800\n🫟Syring 50cc 💵1400\n\n✅️Clean Ped Adult diaper Turkey 🇹🇷 M of 10 pcs (1 carton contains 12 box)\n📦12 box\n💵1100 birr per box\n\nMT PHARMA IMPORT PAGE-2",
+    "has_media": false,
+    "image_path": null,
+    "views": 542,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 195862,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+      },
+      "date": "2026-06-09 12:12:30+00:00",
+      "message": "🏩 MT  PHARMA IMPORT\n\nNEW ARRIVAL \n\n☑️CACHMAX(Cefixime tablet 400mg)💵430\n☑️Amoxiclav 312.5MG 💵305 \n☑️Amoxa 125mg syrup 💵79  10📦>78\n☑️Amoxa 250mg Syrup  💵95 10📦>94\n☑️CAZITHRO(Azithro 15Ml 💵100 \n☑️CAZITHRO(Azithro 30Ml 💵205\n☑️Cefalexin 125mg Syrup 💵185 600bot>180br\n☑️Cefalexin 250mg Syrup 💵320\n☑️Cotrimoxazole syrup 💵82\n☑️AMOXA 500mg 10x10 💵480\n☑️CLEDEMOX 625MG 2×7💵380\n☑️Amoxicillin&clavulanate tab 1000mg 2*7 💵440\n☑️Zinc Sulfate 20mg tablet 10x10💵290\n☑️SriTrang Exama Glove Powdered 💵590\n☑️Ibuprofen Tab [IBUSCOT] 💵235\n☑️Metoclopramide 10mg TAB💵160\n☑️Albenda 400mg 10x10 💵440\n☑️Spironolactone 25mg 10x10💵900\n☑️Prednisolon 5mg 10*10 💵235\n☑️Spironolactone 25mg 3×10💵348\n☑️Sulbutamol puff 💵165\n☑️Omeprazole cap 20MG(LOKIT)💵160\n☑️Sildenafil 50mg 1*4 💵25\n☑️Tindazole 500Mg 10x10 💵440\n☑️Cefixime syrup 100ml 💵200\n☑️Cloxacillin 250 Syrup 💵200\n☑️Co-Amoxaxlav oral sus 457mg 💵330\n☑️Paracetamol syrup 💵41\n☑️Metronidazole syrup 💵110\n☑️Ibuprofen syrup 💵85  10📦> 80br\n☑️Amoxiclav 156.5mg💵170  5📦>167\n☑️Metoclopramide drop 💵100\n☑️Omeprazole inj 40mg 💵88\n☑️Diclo inj (Reyoung) 💵620\n☑️Hydrocortison inj  💵63 2000vial 60birr\n☑️Dexa inj 4mg/1ml 💵12\n☑️Vitamin B complex Inje💵870\n☑️water for Inj amp 💵6.50\n☑️Tramadol inj 💵32\n☑️TAT  1500iu inj 💵400\n☑️Caster Oil  💵105\n☑️Ketoconazole Cream 20g💵75\n☑️TTC Eye Ointment 1% 💵 28\n☑️Gentamycin eye/ear DROPS 💵55 \n☑️Cipro eye/ear drop 5ml 💵60\n☑️Cipro eye drop 5ml💵50\n☑️Cipro eye drop 10ml 💵75\n☑️Timolol eye drop 💵150\n✅️Cal D lift tab (Calcium Carbonate 1000mg +Vitamin D3 880 iu) off 20 💵795\n✅️Vitamin C 1000mg Effervescent tab off 20💵650birr \n✅️Pronucleus M soft gel cap of 30💵2300\n✅️Pronucleus F soft gel cap of 30💵2200\n✅️Vital cal tab Calcium magnesium Vitamin D3 Zinc & vitamin K2_7 Tab💵545\n✅Vital Cal syrup calcium magnesium Zinc Vitamin D3 Syrup 💵375\n\n✅40% (plastic) 💵22\n✅️Metformin 500mg 💵125\n✅Diazepam 5mg Tab 💵560\n✅️Amvasc 10mg 💵120\n✅️Amvasc 5mg 💵95\n✅Amlodipine 5mg 10x10 💵125\n✅Amlodipine 10mg 10x10 💵225\n✅Loratidine 10mg tab 💵190\n✅️Fulstop tab  💵244\n✅️Fulstop plus tab 💵228\n✅Ferrous sulphate 325mg 💵360\n✅Olanzapin 5mg 💵190\n✅Salbutamol 4mg 10x10 💵165\n✅Meloxicam 15mg  💵125\n✅ORS flavored 💵32\n✅️ORS Non flavored 💵24\n✅Acyclovir 200mg 10x10 💵460\n✅Paracetamol Epharm 💵2100\n✅️Prednisolone 5mg Epharm 💵4000\n✅️Atrova 20mg 3×10 💵138\n✅Nexap 40mg  💵157\n✅Phenobarbital 100mg 💵885\n✅Nifidipine 20mg 💵153\n✅Furosemide 40mg tab 💵185\n✅PTU 100mg tab 💵580\n✅Esmoprazol 20mg 10x10💵390\n✅X-WORM  💵28\n✅Losartan 50mg tab10x10💵450\n✅HCT 25mg tab 10x10 💵123\n✅Chlopheniramine tab 💵110\n✅️Potassium Chloride 600mg Tab 💵82\n✅Enalapril 10mg Tab 💵255\n✅Carbamazepine 200mg  💵850\n✅Folic Acid 5mg 💵230\n✅Ferrous with folic tab 💵140\n\n✅Dextro (DEXGLO)  💵77\n✅️Chlorpheniramine syrup 💵65\n✅Diphen syrup 💵64\n✅Loratidin syrup 💵65\n✅Metoclorpromid syrup 💵75\n✅Guaifenesine syrup 💵68\n\n✅️Frusemide Inj 💵182\n✅️Labetalol inj 20ml vial💵490\n✅Water for inj plastic 💵8\n✅Hydralazine 20mg inj💵210\n✅Diazepam BP 10mg inj💵180\n✅Lidocaine inj 20ml 💵85\n✅Metoclopramide inj 💵8.50\n✅️Tranexamic acid inj 💵140\n✅Benzatin pen.2.4 iu  💵59\n✅Oxytocin 10iu/ml inj  💵110\n✅Urine bag 2000ml  💵40\n \n✅Hydrocortison cream15g💵85\n✅Clotrimazole cream 15gm 💵40\n✅Diclofenic Gel 15gm 💵50\n✅Mometason cream 15gm 💵40\n✅Clobetasol Cream 15g 💵45\n✅Miconazole Cream15g 💵45\n✅Nitrofurazon oint 30gm 💵102\n✅Nitrofurazone Oint 50gm 💵110\n✅Fusidic acid cream 15gm💵110\n✅Betamethasone cream 15gm💵55\n\n✅Urinalysis Reagent Strip of 100💵430\n✅Hpylori Ag strip  off 50 💵3200\n✅️Hpylori Ab strip 0ff 50 💵2186 \n✅HCG strip of 50  💵330\n✅Hcv Cassette of 25 💵1100\n✅HCV test strip of 50  💵1250\n✅HBSAG test strip of 50 💵900\n✅FOB[Occult Blood of 25]Cass💵2000\n✅EDTA GLASS 💵700 \n✅️EDTA plastic 💵750\n✅SST TUBE Glass 💵1100 \n✅️SST Plastic 💵1200\n\n🫟Syring 10cc 💵800\n🫟Syring 50cc 💵1400\n\n✅️Clean Ped Adult diaper Turkey 🇹🇷 M of 10 pcs (1 carton contains 12 box)\n📦12 box\n💵1100 birr per box\n\nMT PHARMA IMPORT PAGE-2",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": false,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1826812003
+      },
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-09 12:12:27+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "from_name": null,
+        "channel_post": 6017,
+        "post_author": "Meski Tigabu",
+        "saved_from_peer": {
+          "_": "PeerChannel",
+          "channel_id": 1826812003
+        },
+        "saved_from_msg_id": 6017,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": null,
+      "reply_markup": null,
+      "entities": [],
+      "views": 542,
+      "forwards": 0,
+      "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 431221,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+      },
+      "edit_date": "2026-06-09 12:45:44+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "❤"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

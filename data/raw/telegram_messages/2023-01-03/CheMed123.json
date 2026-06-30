@@ -1,0 +1,252 @@
+[
+  {
+    "message_id": 76,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-03T17:49:48+00:00",
+    "message_text": "በwww.chemeds.org መድሃኒትዎን የሚያዙበትን መንገድ የሚያሳይ tiktok ቪዲዮ።\n\n👇👇👇👇👇👇👇👇👇👇👇\nhttps://vm.tiktok.com/ZMFTkBoWk/",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/76.jpg",
+    "views": 370,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 76,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-03 17:49:48+00:00",
+      "message": "በwww.chemeds.org መድሃኒትዎን የሚያዙበትን መንገድ የሚያሳይ tiktok ቪዲዮ።\n\n👇👇👇👇👇👇👇👇👇👇👇\nhttps://vm.tiktok.com/ZMFTkBoWk/",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2023-01-03 17:49:01+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1655039529
+        },
+        "from_name": null,
+        "channel_post": null,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5883993677150403029,
+          "access_hash": 4133228837378472299,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00LjC\\xa7\\xb9\\xcc`4\\x02\\x92\\xf4H\\x95\\xdaL\\xb4\\xc8\\x15\\xce\\xed\\xd9'",
+          "date": "2023-01-03 17:49:01+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01(\\x14\\xd1\\xfb2SV\\x18\\x99\\x8a\\x86\\x04\\x8e\\xa0\\x1e\\x954\\xaf\\xe5\\xc6\\xcd\\xdc\\x0e+\\x0c\\xdcK\\x13\\xa1\\x8f\\x86\\x1c\\x13\\xebHv6~\\xcc\\x94T\\x10\\xea\\x11\\xf9(d\\'y\\x1c\\xe1h\\xa6\"\\xbd\\xdd\\xd8\\x90\\xec\\x1f R\\x0eOz\\xae\\xcc\\x81\\x87#\\xd6\\xa0\\xb8G\\xc1s\\xd5\\xba\\xd4\\'\\xee\\x81\\xd34\\xacU\\xeci\\xc0\\xb24*P\\xc5\\xb4\\xe7\\xafQ\\xcd\\x155\\x92\\x14\\xb5N\\xb9<\\x9e(\\xa6IRl\\x14\\x078\\xc7\\xebU!\\x07\\xcf\\x19\\xf4\\xa2\\x8aH\\r(\\xe7*\\xbbK\\x93\\x8a(\\xa2\\x98\\x1f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 164,
+              "h": 320,
+              "size": 15405
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 409,
+              "h": 800,
+              "size": 66406
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 654,
+              "h": 1280,
+              "sizes": [
+                12538,
+                31176,
+                52900,
+                94451,
+                131384
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 0,
+          "length": 16
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 80,
+          "length": 32
+        }
+      ],
+      "views": 370,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": "2023-01-04 06:24:39+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 75,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-03T05:48:34+00:00",
+    "message_text": "✨በChe-Med የጥሪ ማዕከል 9798 ላይ ደውለው  በመመዝገብ በየወሩ የሚያስፈልግዎትን ኢንሱሊን ቤትዎ በር ድረስ ያስመጡ።",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/75.jpg",
+    "views": 1233,
+    "forwards": 3,
+    "raw": {
+      "_": "Message",
+      "id": 75,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-03 05:48:34+00:00",
+      "message": "✨በChe-Med የጥሪ ማዕከል 9798 ላይ ደውለው  በመመዝገብ በየወሩ የሚያስፈልግዎትን ኢንሱሊን ቤትዎ በር ድረስ ያስመጡ።",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5879904662126181305,
+          "access_hash": 9185129182505910748,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00KjC\\xa7\\xb987\\x19\\x0eUK\\xaf\\xd5\\xdc\\x00\\x97Z\\xc4\\xe7=)'",
+          "date": "2023-01-03 05:48:34+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd5w\\xc3\\xae\\x0f\\x1c\\xe7\\x8ax!\\x86GJ\\xaa\\xb7\\xab\\x81\\xbd\\x18\\x1fjC\\x7f\\x83\\xc4g\\x1e\\xa4\\xd3\\xb1\\x1c\\xf1\\xee\\\\\\xaey\\xa2$\\xb7\\x98\\xc1J\\x83\\xd4\\x0c\\xe4\\x1e\\x95\\xbe\\xae\\n\\x06\\x1d\\x08\\xc8\\xa8\\x98\\x86nv\\x83\\xdf\\x8c\\xd0\\x8a\\xdc\\xc46\\xe9\\xb4\\x912\\xf0\\t\\xe8\\x07J+p \\xcfE\\xfa\\x15\\xa2\\x8b\\x85\\x8c\\xe1u\\x80\\x06[\\x81\\x8ar\\xc99\\xe4\\xb6G\\xb6*\\xbe\\x0f\\xf7\\xa8\\xc3g;\\xaa\\x8e[\\x9a\\x90\\x90\\xd6\\xea\\xdc\\x9f\\x97\\x15[.\\xf7,\\xdc\\x81\\xda\\x8bI\\x08o,\\xf49#\\xda\\x9d)\\xc4\\xc8\\xbd\\xf9\\xfc\\xf1P\\xd1\\xd3NWE\\x94\\x05\\xa3\\x0c\\xa4\\xfd(\\xa8\\xedf\\x05\\xb6\\x13\\x8d\\xdc\\xaf\\xf5\\x14Qr\\x9a3\\x8a\\xf3\\xcd&\\xdfaE\\x15\\xa1\\xc5r\\xcd\\xaa\\x16\\x97w`\\x0ejgR\\xaf\\xc9\\xcfpE\\x14TH\\xe9\\xa3\\xf0\\x90\\xc5\\x1edc\\xd3\\x07\\xad\\x14QR\\x8dY'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 31692
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 107250
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                15189,
+                41833,
+                73251,
+                96092,
+                141995
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 1233,
+      "forwards": 3,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

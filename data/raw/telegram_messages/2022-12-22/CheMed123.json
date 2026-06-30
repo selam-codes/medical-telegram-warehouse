@@ -1,0 +1,256 @@
+[
+  {
+    "message_id": 59,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-22T06:40:25+00:00",
+    "message_text": "ቀጠሮ ያስይዙ!\nበ ጥሪ ማዕከላችን 9798 በመደወል የግፊት መድሃኒትዎን በየወሩ ለማስመጣት Che-Med ላይ ይመዝገቡ። እኛ ወሩን ጠብቀን መድሃኒትዎን በርዎ ድረስ እናደርሳለን።\n\nChe-Med is the best way to find your meds!\n\n*****\nFollow our telegram channel\nhttps://t.me/CheMed123\n👆👆👆👆👆👆👆👆👆",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/59.jpg",
+    "views": 7410,
+    "forwards": 11,
+    "raw": {
+      "_": "Message",
+      "id": 59,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-22 06:40:25+00:00",
+      "message": "ቀጠሮ ያስይዙ!\nበ ጥሪ ማዕከላችን 9798 በመደወል የግፊት መድሃኒትዎን በየወሩ ለማስመጣት Che-Med ላይ ይመዝገቡ። እኛ ወሩን ጠብቀን መድሃኒትዎን በርዎ ድረስ እናደርሳለን።\n\nChe-Med is the best way to find your meds!\n\n*****\nFollow our telegram channel\nhttps://t.me/CheMed123\n👆👆👆👆👆👆👆👆👆",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5845968059641216008,
+          "access_hash": -1394395731801993159,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00;jC\\xa7\\xb9a\\xe8\\xbf)n\\x1f\\x83&\\xcc\\xa4\\x92\\x9d\\xc2\\xea\\xfa\\xec'",
+          "date": "2022-12-22 06:40:25+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd7\\xe8N[\\x83K\\xb8z\\x8a\\x8eR\\t\\xdb\\xdcS\\x06\\x01\\x079\\xc5\\x00W\\xba\\x93u\\xce\\xd6\\x1b\\x91{g\\x15\\x11\\xf2Bn(s\\x9e\\x9b\\xa8\\xbcR\\'n\\xb8l\\x11U\\xd0m`v\\x93\\x8e\\xc4\\xd5\\x9c\\xad\\xea\\xeeLZ6\\x8f*\\x84\\x1fsE0\\xc8O\\x1b\\x00\\xf7\\xc5\\x14\\xc8l\\x9d\\xe6\\x171\\x89c\\xdc\\xa1\\x8f\\x1e\\xbe\\x95\"F\\xea\\x06]\\xb8\\xed\\xc6*\\x1b\\x02E\\x84ESq\\xc9\\xc8\\x18\\xf55h\\x12@\\xca\\x11\\xf5\\xc5fv\\x95\\xae\\xae\\xbb\"\\x06+\\xc6\\xe6\\xe8+>I\\xa4rK\\xbep8\\xc5:Y>y\\x02\\xa9$\\x93\\xdb\\xde\\xa0>a\\x1d\\x00\\x06\\xa6\\xcd\\x9a\\xfb\\x89\\x11y\\xaf\\x9c\\xeeo\\xce\\x8aS\\x1b\\x80I\\x1d(\\xad\\x0c,\\x8d\\x8b\\x1b\\x08\\xda\\xd1%\\x0f0f\\x1c\\x84lT\\xc6\\xc1Yp\\xcfrG\\xa1\\x90QEIC?\\xb3\"U\\xf9RS\\x9e\\xc5\\x85/\\xf6d8\\xe5%\\xcf\\xd5h\\xa2\\x8b\\x81\\x15\\xe6\\x9f\\x14vrH7\\x86\\x03<\\x91E\\x14S\\x03'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 28471
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 95118
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                14947,
+                97729,
+                109790,
+                113825,
+                119008
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 22,
+          "length": 4
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 158,
+          "length": 4
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 192,
+          "length": 22
+        }
+      ],
+      "views": 7410,
+      "forwards": 11,
+      "replies": null,
+      "edit_date": "2022-12-22 06:58:25+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 58,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-22T03:11:26+00:00",
+    "message_text": "www.chemeds.org መድሀኒትዎን ለማግኘት ዘመናዊው መንገድ ነው፡፡ በድረገጻችን አማካኝነት መድኃኒትዎን ከፈለጉት ቦታ ይዘዙ ያሉበት ቦታ መድሃኒትዎን እናደርስልዎታለን፡፡\n\nበተጨማሪም በጥሪ ማዕከላችን 9798 በመደወል ስለመድሃኒት መረጃ ይጠይቁ፤ መድሃኒት ይዘዙ  ስለጤናዎ በሐኪሞች የታገዘ የማማከር አገልግሎት ያግኙ፡፡",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/58.jpg",
+    "views": 379,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 58,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-22 03:11:26+00:00",
+      "message": "www.chemeds.org መድሀኒትዎን ለማግኘት ዘመናዊው መንገድ ነው፡፡ በድረገጻችን አማካኝነት መድኃኒትዎን ከፈለጉት ቦታ ይዘዙ ያሉበት ቦታ መድሃኒትዎን እናደርስልዎታለን፡፡\n\nበተጨማሪም በጥሪ ማዕከላችን 9798 በመደወል ስለመድሃኒት መረጃ ይጠይቁ፤ መድሃኒት ይዘዙ  ስለጤናዎ በሐኪሞች የታገዘ የማማከር አገልግሎት ያግኙ፡፡",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2022-12-22 03:11:10+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerUser",
+          "user_id": 339373129
+        },
+        "from_name": null,
+        "channel_post": null,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5845930096425286486,
+          "access_hash": 8986839197945699639,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00:jC\\xa7\\xb9\\xa1\\x9a^\\x89E\\xbd{\\xecV\\x82\\xcf.P\\xc1\\x8d\\x9a'",
+          "date": "2022-12-22 03:11:10+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01!(\\xbbE\\x14\\xdd\\xbe\\xf5\\xe6#v:\\x8a\\x8d\\x93$e\\xf1I\\xe57\\xfc\\xf4$S\\xe5]\\xc2\\xe4\\xb4QEH\\xc2\\x8a\\x07\\x074\\xc0\\x1b-\\x8cs\\xd0\\x1e\\x95\\xa4b\\x9fR[k\\xa13\\x85U\\x1c\\x0c\\xd4g\\x90G\\xf2\\xa6H^S\\x82\\x14'\\xd3$\\xd24cpP>\\\\s\\xcdk>V\\xd5\\x99\\n\\xfd\\x87\\x85\\xc1\\xeah\\xa4RA\\xc68\\x1d\\xf3\\xd6\\x8a\\xc6Wo]KJ\\xcba\\xf4QEH\\xc4\\xa2\\x8a)\\x80QE\\x14\\x01\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 268,
+              "size": 14323
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 671,
+              "size": 48451
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 940,
+              "h": 788,
+              "sizes": [
+                7270,
+                16492,
+                26323,
+                35270,
+                49546
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 0,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 130,
+          "length": 4
+        },
+        {
+          "_": "MessageEntityUnderline",
+          "offset": 130,
+          "length": 4
+        }
+      ],
+      "views": 379,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

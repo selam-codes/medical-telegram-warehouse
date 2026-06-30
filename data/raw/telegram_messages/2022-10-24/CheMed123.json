@@ -1,0 +1,115 @@
+[
+  {
+    "message_id": 25,
+    "channel_name": "CheMed123",
+    "message_date": "2022-10-24T09:34:19+00:00",
+    "message_text": "የደም ኦክስጅን መጠን መለኪያ መሳሪያዎች በቅናሽ ዋጋ አቅርበንልዎታል፡፡ \n\nለተጨማሪ መረጃ \nwww.chemeds.org \n+251912603463\n\nይደውሉ... ይዘዙን... ባሉበት ቦታ እናደርሳለን",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/25.jpg",
+    "views": 1343,
+    "forwards": 4,
+    "raw": {
+      "_": "Message",
+      "id": 25,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-10-24 09:34:19+00:00",
+      "message": "የደም ኦክስጅን መጠን መለኪያ መሳሪያዎች በቅናሽ ዋጋ አቅርበንልዎታል፡፡ \n\nለተጨማሪ መረጃ \nwww.chemeds.org \n+251912603463\n\nይደውሉ... ይዘዙን... ባሉበት ቦታ እናደርሳለን",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5958610637905050641,
+          "access_hash": 2448505668346057027,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x19jC\\xa7\\xb9Q\\xa2\\xcc`\\\\`\\xc9\\x16\\xc2T\\x82\\x9b\\xa3Q+\\xb7'",
+          "date": "2022-10-24 09:34:19+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01!(\\xcf\\x85\\x11\\xf3\\xbd\\x8a\\xe3\\xd0f\\x9c\\xd1.\\x01\\x8b{\\x8e\\xe7o\\x14\\xeb>\\xaf\\xcc\\x9d?\\x80f\\xa6/!\\x03i\\x93'\\xa7\\x1dq\\xc8\\xed\\xf8\\xd5\\x92Ej\\x91\\x99\\x7fx\\x01\\x18\\xefVf\\xb4Pr#!q\\xce3PG\\xf2\\x86|\\xe0\\xa8$SRy\\xc4>`\\x9d\\xb2;\\x1eje'\\xb2\\x12]X\\xc9Q\\x07*\\xc3\\xe9\\xcd\\x14\\xf9\\xc6dc\\xeah\\xaaZ\\xa0cmv\\x86m\\xd2:\\x0c\\x7f\\x0fz\\x96VT_\\xddL\\xed\\x92s\\x9a\\xa8\\x80\\x9c\\xe3?\\x85Mk\\xf3\\\\\\xa2\\xb8\\xdc3\\xd0\\xd2zj4:0\\xb2H\\xa8\\xcd\\xb46F\\x7f\\n\\x95,\\xa5\\xdeb\\xc8\\xd8\\xbf\\xc4GZkB\\xa2\\xf8\\xc3\\x8c\\xa8=\\xfe\\x95hE\\xb6\\xf1Q\\tU\\x0b\\x923\\xc5e6\\xef\\xa3.(\\xa56C\\xb0=A\\xa2\\xa6\\xd4\\x93k\\x87\\xc7^\\r\\x15\\xb4]\\xd1\\x9bVf}X\\xb1\\xff\\x00\\x8f\\xc8\\xfe\\xbf\\xd2\\x8a)Kf5\\xb9o\\xfec\\r\\xfe{U\\xc1\\xff\\x00\\x1f\\xad\\xfe\\xe0\\xfe\\xb4QY3DT\\xd5\\xfe\\xec_SE\\x14V\\x90\\xd8\\xce[\\x9f\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 268,
+              "size": 23700
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 671,
+              "size": 83995
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 940,
+              "h": 788,
+              "sizes": [
+                11929,
+                27127,
+                46705,
+                66090,
+                90766
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 59,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 76,
+          "length": 13
+        }
+      ],
+      "views": 1343,
+      "forwards": 4,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

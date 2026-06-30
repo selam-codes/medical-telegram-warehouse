@@ -1,0 +1,252 @@
+[
+  {
+    "message_id": 27,
+    "channel_name": "CheMed123",
+    "message_date": "2022-10-28T09:15:09+00:00",
+    "message_text": "ለተሟላ የተመጣጠነ ምግብ ፍላጎትዎ Ensure Vanilla Supplements\n\nከ20 በላይ አጥንት ለማጠንከር፣ ጡንቻዎችን ለማዳበር እና የበሽታ መከላከያ አቅም ለማሳደግ የሚረዱ ንጥረነገሮች የበለጸገ\n\nበተመጣጣኝ ዋጋ ከ CheMed \n\nለተጨማሪ መረጃ \nwww.chemeds.org \n+251 91 260 3463\n\nይደውሉ... ይዘዙን... ያሉበት ቦታ እናደርሳለን",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/27.jpg",
+    "views": 516,
+    "forwards": 2,
+    "raw": {
+      "_": "Message",
+      "id": 27,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-10-28 09:15:09+00:00",
+      "message": "ለተሟላ የተመጣጠነ ምግብ ፍላጎትዎ Ensure Vanilla Supplements\n\nከ20 በላይ አጥንት ለማጠንከር፣ ጡንቻዎችን ለማዳበር እና የበሽታ መከላከያ አቅም ለማሳደግ የሚረዱ ንጥረነገሮች የበለጸገ\n\nበተመጣጣኝ ዋጋ ከ CheMed \n\nለተጨማሪ መረጃ \nwww.chemeds.org \n+251 91 260 3463\n\nይደውሉ... ይዘዙን... ያሉበት ቦታ እናደርሳለን",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5969695789582236177,
+          "access_hash": -1847859717494242733,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x1bjC\\xa7\\xb9m\\xca\\xfc7\\xa9\\x0c\\x07\\xa6~\\xdc2\\x07\\xa5r)\\n'",
+          "date": "2022-10-28 09:15:09+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01!(\\xcc\\x8d\\x037<\\x0e\\xf4\\x850j\\xdd\\xacH\\xd1\\xb32\\x06\\xc1\\xee\\xd8\\xa9\\x1d\\xe0\\xc8Al2\\x7f\\xdb\\xa7\\xafa\\x19\\xe4T\\x9ff\\x9b\\x8f\\xdd\\x9ej\\xd7\\x96\\x81\\xdb\\xe4A\\x9c\\x00\\xacO\\x14\\xe96\\xb3\\x91\\xbc\\x12\\xa7 \\x17<z\\xd3\\x02\\x83F\\xc8\\xbf0 \\xf1\\x8f\\xa5\\x15-\\xce:\\xa8\\x00\\x10\\xbd\\x0e}h\\xa0\\x0b\\xfatbH\\x9f\\xe5RA\\xefW\\x04L\\xac2#U\\xc7E\\x1d\\xea\\x8d\\x84\\xe9\\x049\\xde\\xa5\\x98\\xf2\\xa7\\x8cT\\x92]opN\\xc1\\xee\\x18\\x1f\\xebKPD\\xd7\\xca\\xa6\\xdd\\xcb(\\x04\\x0c\\x83\\x8a\\xc72H\\xab\\xb5I\\x039\\xe2\\xad\\xdd\\\\$\\x8aA}\\xc7\\xb7\\x15\\x1a\\xea\\x13\\xaa\\x85\\x12m\\n\\x00\\x1c\\x0f\\xf0\\xa1&\\x81\\x95\\xa4\\x91\\xa4RX\\x01\\x8c\\x0e\\x06=h\\xa7\\\\N\\xf7\\x1f4\\x8f\\xb8\\x8c\\x0e\\x98\\xf5\\xa2\\x98\\x11\\x8a}\\x14P!\\xa6\\x98h\\xa2\\x80\\x12\\x8a(\\xa0g'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 268,
+              "size": 23752
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 671,
+              "size": 88707
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 940,
+              "h": 788,
+              "sizes": [
+                11276,
+                26297,
+                47758,
+                62914,
+                75267
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 160,
+          "length": 15
+        }
+      ],
+      "views": 516,
+      "forwards": 2,
+      "replies": null,
+      "edit_date": "2022-10-29 23:27:32+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 2,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26,
+    "channel_name": "CheMed123",
+    "message_date": "2022-10-28T06:49:36+00:00",
+    "message_text": "ለጤና ባለሙያዎች የቀረበ  አብሮ የመስራት ጥሪ\n\nታካሚዎች በየቀኑ በጤና ባለሙያ የታዘዙላቸዉን መድሀኒት ለማግኘት ብዙ ችግሮችን ይጋፈጣሉ፡፡\n\nከ CheMed ጋር አብሮ በመስራት ታካሚዎችዎ መድሀኒት በቀላሉ እንዲያገኙ ያግዙ፡፡\n\nየቀረበዉን ፎርም በመሙላት ይመዝገቡ የቢዝነስ አጋር ይሁኑ፡፡ \nhttps://forms.gle/FDWbwkYaW4dz21yo7",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/26.jpg",
+    "views": 1649,
+    "forwards": 14,
+    "raw": {
+      "_": "Message",
+      "id": 26,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-10-28 06:49:36+00:00",
+      "message": "ለጤና ባለሙያዎች የቀረበ  አብሮ የመስራት ጥሪ\n\nታካሚዎች በየቀኑ በጤና ባለሙያ የታዘዙላቸዉን መድሀኒት ለማግኘት ብዙ ችግሮችን ይጋፈጣሉ፡፡\n\nከ CheMed ጋር አብሮ በመስራት ታካሚዎችዎ መድሀኒት በቀላሉ እንዲያገኙ ያግዙ፡፡\n\nየቀረበዉን ፎርም በመሙላት ይመዝገቡ የቢዝነስ አጋር ይሁኑ፡፡ \nhttps://forms.gle/FDWbwkYaW4dz21yo7",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5965149330476218255,
+          "access_hash": -7858198964953317971,
+          "file_reference": "b\"\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x1ajC\\xa7\\xb9Q3&\\xf5\\xae@V'\\x1a\\x94\\x10\\xd2\\x8c\\xca\\xa3$\"",
+          "date": "2022-10-26 13:26:08+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01!(\\xd3yQ\\x17\\x9f\\xca\\xab\\x0b\\x85\\x7fLTV\\x92\\x1b\\x96\\x940\\x1b\\x91\\xba\\x1e\\x84\\x7f\\x90i\\xf3Y\\x92\\xc0\\xc1\\xb5=A\\xce>\\xb4\\x01_Q\\x8b\\xe4Y\\xd3\\xef!\\xab!\\xfc\\xd8\\x91\\xc7B*\\xd7\\x95\\x1bG\\xb5\\x93p\\xe8}\\xea\\x02\\x16\\xdc\\x94U\\xc2\\x83\\x95\\x03\\xfc\\xfdh\\x01\\xac=\\xb8\\xa2\\x9a&v$\\x1e=2(\\xa7a]>\\xa5-9\\xca_;\\x15*\\x8e\\x0fQ\\x8cV\\x94\\xa4:`L\\x14w5N\\x16\\xd8;\\x1c\\xfa\\xd4\\xae\\xc1\\xbd:Qb\\x14\\xc9\\xe2e\\xf3C\\xab*\\xa8\\x04\\x1ez\\xff\\x00\\xfa\\xa9\\xd7/\\x1b&\\xe0\\xc0\\x95\\xec\\rS\\x8b)\\x9c\\x91\\x8c\\xf1\\xc7J\\x97\\xcdS\\xc1#\\xf2\\xa2\\xc1\\xceV\\x17+\\x18`#s\\xcf\\x1cQR<\\x8b\\x82\\xbd\\x7f\\n(\\xb0\\xb9\\xc8\\xd3\\xa1\\xa54QL\\xccQQ\\x8f\\xbf\\xf8\\xd1E\\x00\\x0f\\xf7\\x8d\\x14Q@\\xcf'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 268,
+              "size": 23928
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 671,
+              "size": 102077
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1280,
+              "h": 1073,
+              "sizes": [
+                18925,
+                50681,
+                80893,
+                131644,
+                183933
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 184,
+          "length": 35
+        }
+      ],
+      "views": 1649,
+      "forwards": 14,
+      "replies": null,
+      "edit_date": "2022-10-28 07:16:35+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

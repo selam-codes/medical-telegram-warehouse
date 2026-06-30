@@ -1,0 +1,24 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.DS_Store
+
+# dbt
+medical_warehouse/target/
+medical_warehouse/dbt_packages/
+medical_warehouse/logs/
+medical_warehouse/.user.yml
+
+# session files / secrets
+*.session
+*.session-journal
+
+# logs
+logs/*.log
+
+# keep data lake folder structure but ignore large pulled artifacts if you decide not to commit raw data
+# (left uncommented so the populated data lake is part of the repo deliverable)

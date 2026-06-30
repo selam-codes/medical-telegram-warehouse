@@ -1,0 +1,115 @@
+[
+  {
+    "message_id": 22,
+    "channel_name": "CheMed123",
+    "message_date": "2022-10-18T07:57:36+00:00",
+    "message_text": "በቤት ውስጥ የደም ግፊት መጠን መለካትና ለውጦችን በመመዝገብ መከታተል የህክምና ባለሙያዎች በቀላሉ መረጃ ላይ ተመስርተው የመድሃኒትዎን መጠን ለማስተካከል ወይም  ለመለወጥ እንዲወስኑ ይረዳል።\n\nባቀረብንልዎ ቅናሽ በመጠቀም የራስዎን እና የቤተሰብዎን የደም ግፊት መጠን በየቀኑ ይከታተሉ።\n\n\nwww.chemeds.org\n+251912603463",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/22.jpg",
+    "views": 528,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 22,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-10-18 07:57:36+00:00",
+      "message": "በቤት ውስጥ የደም ግፊት መጠን መለካትና ለውጦችን በመመዝገብ መከታተል የህክምና ባለሙያዎች በቀላሉ መረጃ ላይ ተመስርተው የመድሃኒትዎን መጠን ለማስተካከል ወይም  ለመለወጥ እንዲወስኑ ይረዳል።\n\nባቀረብንልዎ ቅናሽ በመጠቀም የራስዎን እና የቤተሰብዎን የደም ግፊት መጠን በየቀኑ ይከታተሉ።\n\n\nwww.chemeds.org\n+251912603463",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5942760722524125295,
+          "access_hash": 5110445269430348527,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x16jC\\xa7\\xb9\\x97\\xcd\\xe5\\x1cgc\\x92\\xb9N!}\\xfe\\xcd\\xfe6\\xf3'",
+          "date": "2022-10-18 07:57:36+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01!(\\x84\\x9cu\\xa5\\xe4\\xaeQY\\xcf`\\x05:4/*\\x80@=9\\xab\\xe5\\x1e\\x18p\\xa4g\\xa9\\xabl\\xe7\\x84\\x14\\xb52\\xb7H\\x8d\\x89c(}\\xf8\\xfet\\xbej\\x13\\x8c\\xe0\\xd5\\xb9\\x98\\xddZL\\x0f.\\x9f0\\xac\\x80\\x1aF\\x01FO\\xb5M\\xcd\\x1d(\\xb2\\xf6sE\"!E\\nz\\x8a*\\xd1\\xce\\xf4v$F\\xdaC\\x0e\\xa2\\xb4\\x83y\\xb6\\xc1\\xf6\\x93\\x95\\xce\\xd1Y\\xaa\\x06\\x0f\\xafnjH\\xeed\\x8dv\\xa9\\x18\\xf7\\x14\\x9a4\\xa7.]\\xcb\\x96\\xca>f0\\x98\\xfd\\xc9\\xebT\\xbc\\xb8\\x8c\\x8cv\\x93\\x83\\xc6\\xdal\\x92\\\\JNd\\xca\\xfat\\xfe\\x94\\x88\\xdeX;\\xc0c\\xdb\\x9e\\x94\\xac9J\\xe1 \\n\\xd8P@\\xf7\\xa2\\x95\\x9dX}\\xcc\\x1f\\\\\\xd1Td\\xc8\\xe9h\\xa2\\x81\\x05%\\x14P\\x01E\\x14P\\x07'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 268,
+              "size": 19373
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 671,
+              "size": 68839
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 940,
+              "h": 788,
+              "sizes": [
+                9444,
+                22438,
+                36369,
+                53273,
+                73783
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 184,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 200,
+          "length": 13
+        }
+      ],
+      "views": 528,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

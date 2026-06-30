@@ -1,0 +1,206 @@
+[
+  {
+    "message_id": 20,
+    "channel_name": "CheMed123",
+    "message_date": "2022-10-12T14:14:52+00:00",
+    "message_text": "“ከነማ ፋርማሲዎች ድርጅት እና ክፍያ ፋይናንሺያል ቴክኖሎጂስ ኃ.የተ.የግ.ማ፡ የመድኃኒት ዘርፍ ዲጂታላይዜሽን አጋርነት ተፈራረሙ”\n\nየክፍያ ፋይናንሺያል ቴክኖሎጂስ እና ከነማ ፋርማሲዎች ድርጅት በሚከተሉት ነጥቦች ላይ በትብብር ለመስራት የጋራ መግባቢያ ሰነድ ተፈራርመዋል፡፡ ይህ ትብብር፤\n\n1. ከነማ ፋርማሲዎች ድርጅትን የኢንቬንቶሪና የንብረት አስተዳደር ስርዓቱን ዲጂታል ለማድረግ የሚያደርገውን ጥረት ለማገዝ፣\n2. የመድሃኒት ግዢ ሂደትን በማዘመን በመረጃ ላይ እና በፍላጎት ላይ የተመሰረተ ለማድረግ;\n3. የዲጂታል መድሃኒት ግብይትና ዴሊቨሪን የሚያሳልጥ መተግበሪያን ማቅረብን ያካትታል፡፡\n\nይህ አጋርነት ከነማ ፋርማሲዎችዎች ድርጅትድርጅት የሚገኝበትን የለውጥ ሂደት የሚደግፍ እና ደንበኞች Chemed መተግበሪያን በመጠቀም ከከነማ ፋርማሲዎች በቀላሉ እና በተመቻቸ ሁኔታ መድሀኒቶችን እንዲያገኙ የሚያስችል ነው።",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/20.jpg",
+    "views": 699,
+    "forwards": 3,
+    "raw": {
+      "_": "Message",
+      "id": 20,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-10-12 14:14:52+00:00",
+      "message": "“ከነማ ፋርማሲዎች ድርጅት እና ክፍያ ፋይናንሺያል ቴክኖሎጂስ ኃ.የተ.የግ.ማ፡ የመድኃኒት ዘርፍ ዲጂታላይዜሽን አጋርነት ተፈራረሙ”\n\nየክፍያ ፋይናንሺያል ቴክኖሎጂስ እና ከነማ ፋርማሲዎች ድርጅት በሚከተሉት ነጥቦች ላይ በትብብር ለመስራት የጋራ መግባቢያ ሰነድ ተፈራርመዋል፡፡ ይህ ትብብር፤\n\n1. ከነማ ፋርማሲዎች ድርጅትን የኢንቬንቶሪና የንብረት አስተዳደር ስርዓቱን ዲጂታል ለማድረግ የሚያደርገውን ጥረት ለማገዝ፣\n2. የመድሃኒት ግዢ ሂደትን በማዘመን በመረጃ ላይ እና በፍላጎት ላይ የተመሰረተ ለማድረግ;\n3. የዲጂታል መድሃኒት ግብይትና ዴሊቨሪን የሚያሳልጥ መተግበሪያን ማቅረብን ያካትታል፡፡\n\nይህ አጋርነት ከነማ ፋርማሲዎችዎች ድርጅትድርጅት የሚገኝበትን የለውጥ ሂደት የሚደግፍ እና ደንበኞች Chemed መተግበሪያን በመጠቀም ከከነማ ፋርማሲዎች በቀላሉ እና በተመቻቸ ሁኔታ መድሀኒቶችን እንዲያገኙ የሚያስችል ነው።",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5922761533727816163,
+          "access_hash": -6382218031413728817,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x14jC\\xa7\\xb9\\xca\\xae]\\x10=\\xc6\\x80\\xcdm\\x82H\\x88\\xae+\\x19d'",
+          "date": "2022-10-12 14:14:19+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01\\x1e(q\\x1c\\'\\xd2\\x80\\r5\\xe3W\\n\\xa4\\x03\\xb4`qP\\x88\\xa3\\x17!6\\x1c\\x1f\\xe2\\xcf\\x1f\\x95jAg\\x06\\x8cR\\x18#\\x00\\x11\\xd4r\\x08\\xa8\\xe5H\\x93\\x96\\x07\\xf0\\x14\\x00\\xf7;P\\x93\\xd8QP=\\xbc{w\\xa9=\\x8f\\xb5\\x15\\x9c\\x93\\xb9\\xa4y-\\xa8N\\xfc\\x95\\xed\\xde\\x86O.5p\\xc7\\'\\xf4\\xa0\\x10f\\r\"\\xee\\x19\\xe4z\\xd4\\xb3\\x98Y\\x940`\\x07e\\xa7\\xcc\\x98r5\\xa0\\xad.\\xcbP\\xff\\x00\\xc4x\\x1fZ\\xac\\',\\x8d\\xbeC\\xbf\\x1c\\x03V\\x1dc_.3\\xb9\\x95Xpj[\\xc1\\x1c\\x8a\\x1c\\xa0\\xdc\\xbd\\xf1E\\xc4\\xa2\\xf4 \\x8ao6\\x02\\x0e\\x03\\x02\\x07\\x14T{@b\\xc0\\x01\\xec(\\xa8rE:\\x12?'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 240,
+              "size": 27593
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 600,
+              "size": 116194
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1280,
+              "h": 960,
+              "sizes": [
+                20744,
+                56418,
+                96846,
+                158520,
+                214467
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 699,
+      "forwards": 3,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 19,
+    "channel_name": "CheMed123",
+    "message_date": "2022-10-12T14:14:19+00:00",
+    "message_text": "KENEMA PHARMACIES ENTERPRISE and CHEMED BY KIFIYA FINANCIALTECHNOLOGIES PLC: A partnership for pharmaceutical sector digitalization\n\nWe are excited to announce that Chemed, a subsidiary of Kifiya Finacial Technologies, is partnering up with Kenema Pharmacies Enterprise. Our collaboration will focus on the following;\n\n1. Enhance Kenema's digitalization of its inventory and warehouse management system;\n2. Make medication purchase data-driven and need-based;\n3. Provide a digital medication matchmaking and delivery platform;\n\nThis partnership will boost Kenema's current reforms and enable an alternative platform for clients to access medications from Kenema easily and conveniently.'",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/19.jpg",
+    "views": 731,
+    "forwards": 6,
+    "raw": {
+      "_": "Message",
+      "id": 19,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-10-12 14:14:19+00:00",
+      "message": "KENEMA PHARMACIES ENTERPRISE and CHEMED BY KIFIYA FINANCIALTECHNOLOGIES PLC: A partnership for pharmaceutical sector digitalization\n\nWe are excited to announce that Chemed, a subsidiary of Kifiya Finacial Technologies, is partnering up with Kenema Pharmacies Enterprise. Our collaboration will focus on the following;\n\n1. Enhance Kenema's digitalization of its inventory and warehouse management system;\n2. Make medication purchase data-driven and need-based;\n3. Provide a digital medication matchmaking and delivery platform;\n\nThis partnership will boost Kenema's current reforms and enable an alternative platform for clients to access medications from Kenema easily and conveniently.'",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5922761533727816163,
+          "access_hash": -6382218031413728817,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x13jC\\xa7\\xb9L\\xe4F;\\xd9\\x14>\\xd3\\x9bU\\xf2\\xec\\x16\\xd4\\xcc\\x14'",
+          "date": "2022-10-12 14:14:19+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01\\x1e(q\\x1c\\'\\xd2\\x80\\r5\\xe3W\\n\\xa4\\x03\\xb4`qP\\x88\\xa3\\x17!6\\x1c\\x1f\\xe2\\xcf\\x1f\\x95jAg\\x06\\x8cR\\x18#\\x00\\x11\\xd4r\\x08\\xa8\\xe5H\\x93\\x96\\x07\\xf0\\x14\\x00\\xf7;P\\x93\\xd8QP=\\xbc{w\\xa9=\\x8f\\xb5\\x15\\x9c\\x93\\xb9\\xa4y-\\xa8N\\xfc\\x95\\xed\\xde\\x86O.5p\\xc7\\'\\xf4\\xa0\\x10f\\r\"\\xee\\x19\\xe4z\\xd4\\xb3\\x98Y\\x940`\\x07e\\xa7\\xcc\\x98r5\\xa0\\xad.\\xcbP\\xff\\x00\\xc4x\\x1fZ\\xac\\',\\x8d\\xbeC\\xbf\\x1c\\x03V\\x1dc_.3\\xb9\\x95Xpj[\\xc1\\x1c\\x8a\\x1c\\xa0\\xdc\\xbd\\xf1E\\xc4\\xa2\\xf4 \\x8ao6\\x02\\x0e\\x03\\x02\\x07\\x14T{@b\\xc0\\x01\\xec(\\xa8rE:\\x12?'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 240,
+              "size": 27593
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 600,
+              "size": 116194
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1280,
+              "h": 960,
+              "sizes": [
+                20744,
+                56418,
+                96846,
+                158520,
+                214467
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 731,
+      "forwards": 6,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "message_id": 34,
+    "channel_name": "CheMed123",
+    "message_date": "2022-11-22T08:15:47+00:00",
+    "message_text": "ለተሟላ የተመጣጠነ ምግብ ፍላጎትዎ Ensure Vanilla Supplements\n\nከ20 በላይ አጥንት ለማጠንከር፣ ጡንቻዎችን ለማዳበር እና የበሽታ መከላከያ አቅም ለማሳደግ የሚረዱ ንጥረነገሮች የበለጸገ\n\nበተመጣጣኝ ዋጋ ከ CheMed \n\nለተጨማሪ መረጃ \nwww.chemeds.org \n+251 91 260 3463\n\nይደውሉ... ይዘዙን... ያሉበት ቦታ እናደርሳለን",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/34.jpg",
+    "views": 454,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 34,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-11-22 08:15:47+00:00",
+      "message": "ለተሟላ የተመጣጠነ ምግብ ፍላጎትዎ Ensure Vanilla Supplements\n\nከ20 በላይ አጥንት ለማጠንከር፣ ጡንቻዎችን ለማዳበር እና የበሽታ መከላከያ አቅም ለማሳደግ የሚረዱ ንጥረነገሮች የበለጸገ\n\nበተመጣጣኝ ዋጋ ከ CheMed \n\nለተጨማሪ መረጃ \nwww.chemeds.org \n+251 91 260 3463\n\nይደውሉ... ይዘዙን... ያሉበት ቦታ እናደርሳለን",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 6046630396294183883,
+          "access_hash": -3142116528890176431,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\"jC\\xa7\\xb9\\xa2\\x13\\xfag%i\\xb8\\x0bYY>\\xd3V\\xa4<0'",
+          "date": "2022-11-22 08:15:12+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01!(\\xcc\\x8d\\x037<\\x0e\\xf4\\x850j\\xdd\\xacH\\xd1\\xb32\\x06\\xc1\\xee\\xd8\\xa9\\x1d\\xe0\\xc8Al2\\x7f\\xdb\\xa7\\xafa\\x19\\xe4T\\x9ff\\x9b\\x8f\\xdd\\x9ej\\xd7\\x96\\x81\\xdb\\xe4A\\x9c\\x00\\xacO\\x14\\xe96\\xb3\\x91\\xbc\\x12\\xa7 \\x17<z\\xd3\\x02\\x83F\\xc8\\xbf0 \\xf1\\x8f\\xa5\\x15-\\xce:\\xa8\\x00\\x10\\xbd\\x0e}h\\xa0\\x0b\\xfatbH\\x9f\\xe5RA\\xefW\\x04L\\xac2#U\\xc7E\\x1d\\xea\\x8d\\x84\\xe9\\x049\\xde\\xa5\\x98\\xf2\\xa7\\x8cT\\x92]opN\\xc1\\xee\\x18\\x1f\\xebKPD\\xd7\\xca\\xa6\\xdd\\xcb(\\x04\\x0c\\x83\\x8a\\xc72H\\xab\\xb5I\\x039\\xe2\\xad\\xdd\\\\$\\x8aA}\\xc7\\xb7\\x15\\x1a\\xea\\x13\\xaa\\x85\\x12m\\n\\x00\\x1c\\x0f\\xf0\\xa1&\\x81\\x95\\xa4\\x91\\xa4RX\\x01\\x8c\\x0e\\x06=h\\xa7\\\\N\\xf7\\x1f4\\x8f\\xb8\\x8c\\x0e\\x98\\xf5\\xa2\\x98\\x11\\x8a}\\x14P!\\xa6\\x98h\\xa2\\x80\\x12\\x8a(\\xa0g'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 268,
+              "size": 23710
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 671,
+              "size": 88628
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 940,
+              "h": 788,
+              "sizes": [
+                11297,
+                26311,
+                47703,
+                62887,
+                75129
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 160,
+          "length": 15
+        }
+      ],
+      "views": 454,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": "2022-11-22 08:18:18+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

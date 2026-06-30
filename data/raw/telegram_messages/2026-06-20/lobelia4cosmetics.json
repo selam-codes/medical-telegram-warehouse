@@ -1,0 +1,3100 @@
+[
+  {
+    "message_id": 26480,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T14:08:04+00:00",
+    "message_text": "Folic Acid  250 tablets \nPrice 6000 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26480.jpg",
+    "views": 1804,
+    "forwards": 7,
+    "raw": {
+      "_": "Message",
+      "id": 26480,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 14:08:04+00:00",
+      "message": "Folic Acid  250 tablets \nPrice 6000 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5888752771501067671,
+          "access_hash": -3111533748889704160,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gpjC\\xa8N\\xfe\\xe82\\x05\\xb1B\\x18#\\x13\\x9e\\x01\\xf3m\\x8eI\\xbd'",
+          "date": "2026-06-20 14:08:04+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xd9\\xa8\\xa7p\\x91\\x16'\\x00T\\xb5\\x9f\\xa9\\x99X,h\\xdbP\\x8c\\xb1\\xa9\\x96\\xaa\\xc3C\\xfe\\xd5\\x16\\xdf\\xbe\\x7f#V-\\xdc<A\\x81$\\x1e\\x95\\x89\\xe4\\x1c}\\xf3\\xf9\\xd5\\xfd0\\xca\\xbb\\xa3s\\x94\\x03+Y\\xc2\\x9a\\x8b\\xbd\\xc6\\xdd\\xcd\\x1a(\\xa2\\xb6$*\\xa5\\xda\\xab\\x10\\x1b \\x11\\xda\\xad\\xd5[\\x92\\x04\\xa8O\\xa5gSb\\xa3\\xb9\\x00\\xb7\\x83f\\xe0\\xcf\\xe9\\x8c\\x0f\\xf0\\xa9m\\x15Q\\xd9W8\\x03\\xbd!\\x9d\\x15F\\x019\\xe3\\x14\\xb6\\xb2o\\x99\\xbeR0*\\x13m\\xa1\\xb9te\\xca(\\xa2\\xb7 *\\x8d\\xfe\\xf5*\\xcb\\x1b:\\xe3\\x92\\x06qE\\x152WC\\x8b\\xb3)<\\xbb\\x80\\x1b$\\x04\\x1f\\xee\\xd5\\xbd9d\\xde\\xee\\xe8\\xca\\x08\\xc0-\\xde\\x8a*`\\xac\\x12J\\xf74(\\xa2\\x8a\\xd0G\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 256,
+              "h": 256,
+              "size": 7753
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 11,
+          "length": 40
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 51,
+          "length": 30
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 51,
+          "length": 30
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 81,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 128,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 128,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 138,
+          "length": 268
+        }
+      ],
+      "views": 1804,
+      "forwards": 7,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26479,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T14:05:55+00:00",
+    "message_text": "Nature Made Iron 365 tablets \nPrice 7500 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26479.jpg",
+    "views": 426,
+    "forwards": 2,
+    "raw": {
+      "_": "Message",
+      "id": 26479,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 14:05:55+00:00",
+      "message": "Nature Made Iron 365 tablets \nPrice 7500 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-19 13:58:13+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 26456,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5884249171873697397,
+          "access_hash": -6744449771730695353,
+          "file_reference": "b\"\\x02cT\\xa8\\xf8\\x00\\x00gojC\\xa8N\\xf8\\x01\\xfa\\x94&\\x0e\\x13\\xc7\\xe5'\\r\\xd6'\\xef\\xb9&\"",
+          "date": "2026-06-19 13:58:12+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd9\\xa8._\\xcb\\x01\\x89!{\\xe2\\xa7\\xac\\xadG\\xce\\x9ac\\x12\\xe7\\xcb\\x18\\xe0\\x0e\\xb52WV\\x1a\\'\\xfb\\\\X\\xff\\x00X\\x7f#SZ\\xbf\\x98\\x0b\\x02J\\xf6\\xcdb\\xfd\\x9f\\xb7~\\x95sN\\xf3\\xa2\\x98D\\xd9\\xf2\\xcex#\\xa5g\\x1aJ.\\xf7\\x1bw5\\xa8\\xa2\\x8a\\xd8\\x90\\xaaw\\x10\\x89\\xa4*N0A\\xfd*\\xe5R\\x99\\xf6\\\\\\xb1\\'\\x8cVU6*\\x1b\\x91}\\x96?\\xbad?M\\xb5-\\xbcB\\x19UA\\xcf$\\xf4\\xf6\\xa4yv\\x80\\xc3qc\\xdb4\\xd8&i.P\\x15\\xc7^\\xfe\\xd5\\t\\xb9Z\\xc3s\\xd7\\x95\\x9a\\x14QEt\\x10\\x15\\x9dy\\xe7$\\xe5\\x96&d=\\xd4\\xd1EL\\x92kR\\xa2\\xec\\xca\\xaf1p\\x01\\x8d\\xf8\\xa9\\xac\"\\x94\\xdc\\t\\x0c,\\x8a\\x01\\xe5\\x8d\\x14T\\xc5$\\x12KsV\\x8a(\\xad\\t?'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 18577
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 71390
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1280,
+              "h": 1280,
+              "sizes": [
+                13374,
+                29054,
+                41676,
+                56331,
+                94036
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 29,
+          "length": 27
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 56,
+          "length": 30
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 56,
+          "length": 30
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 86,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 133,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 133,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 143,
+          "length": 268
+        }
+      ],
+      "views": 426,
+      "forwards": 2,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26478,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T14:05:55+00:00",
+    "message_text": "Postnatal \nPrice 8500 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school ALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26478.jpg",
+    "views": 628,
+    "forwards": 3,
+    "raw": {
+      "_": "Message",
+      "id": 26478,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 14:05:55+00:00",
+      "message": "Postnatal \nPrice 8500 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school ALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-16 05:24:19+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 26373,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5875454710939061682,
+          "access_hash": 439873978259342310,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gnjC\\xa8N\\xda\\xff\"*1\\xa8/\\xed\\x91\\xb2\\x03\\x84?\\xeb\\x8d\\xb6'",
+          "date": "2026-06-16 05:24:18+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xd5ip\\xdbqMi\\xb6\\x8c\\xed\\xac\\xdb\\xe9^[\\x82\\xa9\\xf2\\x848\\xc8=j\\x00d\\x8d\\xd5\\xf7\\x16\\xc1\\xce\\t\\xebY8\\xce\\xfa1\\xdd\\x1b\\xf4VT\\xc5\\xee\\x18J\\x83\\x82\\xa3\\xbdE\\xe5\\xc9\\xe8\\x7f:\\xddDF\\xd5\\x15\\x93n\\xb2$\\xe8y\\x18`\\r\\x14\\x9a\\xb0\\x13\\xcf\\x1e\\xf9\\x0eX\\xaa\\xe7\\x9e\\t\\x15\\x19\\x84)\\x04H\\xd9\\xe3\\xa2\\x91\\xfdjV8\\x95\\xd4\\x8c\\x82i$p\\xa7\\x82\\xa3\\x1cV<\\x92-O\\xa1\\x14\\x98\\x12\\xf3\\x8e\\x07\\x1f6*<\\xf3\\xc1\\x18\\x1f\\xed\\x9aYG\\x98\\xeb\\x8c\\x93\\xb6\\x9a!'\\xb1\\xeb\\x8e\\xa2\\xbab\\xad\\x14C\\xdc\\x966\\x06X\\xc0?\\xc6?\\x8b9\\xa2\\x99\\nl\\xb8\\x8f \\x8f\\x98QJ@]\\x96\\xd1\\x9d\\xcb\\xa4\\xc5s\\xd8\\xaej?\\xb0\\xc8O\\xcdq\\xc7\\xb2\\x01E\\x15\\x16\\x02sk\\x0b*\\xab.\\xed\\xa3\\x00\\x93\\xcd'\\xd8\\xad\\xff\\x00\\xe7\\x9f\\xeah\\xa2\\x8b\\xb0\\x15m!V\\x0c\\xa9\\x829\\x1c\\x9a(\\xa2\\x8b\\x81\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 23435
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 86270
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1280,
+              "h": 1280,
+              "sizes": [
+                14867,
+                32694,
+                52747,
+                70549,
+                113547
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 37
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 37,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 37,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 54,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 101,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 101,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 111,
+          "length": 267
+        }
+      ],
+      "views": 628,
+      "forwards": 3,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26477,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T14:05:55+00:00",
+    "message_text": "PRENATAL150 SOFTGELS \nPrice 7500 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school ALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26477.jpg",
+    "views": 281,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 26477,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 14:05:55+00:00",
+      "message": "PRENATAL150 SOFTGELS \nPrice 7500 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school ALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-04-27 15:18:19+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 25361,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 6017301829865114827,
+          "access_hash": -2919497478989226577,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gmjC\\xa8N(\\xc4YI7+\\x8f\\xbc\\x96\\xa2\\xc3\\x88\\x17\\xd7:\\x00'",
+          "date": "2026-04-27 15:18:19+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01( \\xb2TyJGZA\\x19#\\x8az\\xf2\\x80w\\xaa\\xcc\\xcc\\xf2\\xb6\\x1bj\\xa7Oz\\xe6Qoc[\\x93\\x8d\\xa1pW-\\x9e\\xb4\\x80\\xa0\\')\\x9a\\xafh\\xff\\x00\\xbd\\xd8N\\x14\\xfa\\xf3V\\x18\\x0c\\x9c\\x1e\\x87\\x14\\xdd\\xd0\\x95\\x89\"\\x1c\\x82i\\x8e\\x9b\\x9d\\x8eH\\x1fJ\\x10\\x8c\\x8c\\xd2\\xef\\x01\\xcf?\\xa58.`\\x93\\xe5 \\x820\\xb3\\x8c\\x13\\x8f\\xa5X\\x94\\x00j\\x05\\x97t\\x8b\\xceO\\xd2\\xa5v\\xc9\\xa54\\xd6\\xe5\\x10\\x02q\\xc1\\xc5F\\xf0HN\\xe5`\\t\\xeb\\xefE\\x14D\\x18\\xc8\\xad\\xdcJ\\t~\\x95;\\x1eh\\xa2\\x89\\x02?'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 258,
+              "h": 320,
+              "size": 23395
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 646,
+              "h": 800,
+              "size": 96871
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1033,
+              "h": 1280,
+              "sizes": [
+                16037,
+                35260,
+                53272,
+                74195,
+                127341
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 21,
+          "length": 27
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 48,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 48,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 65,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 112,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 112,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 122,
+          "length": 267
+        }
+      ],
+      "views": 281,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26476,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T14:05:55+00:00",
+    "message_text": "FISH OIL 300 SOFTGELS \nPrice 10500 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school ALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26476.jpg",
+    "views": 406,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 26476,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 14:05:55+00:00",
+      "message": "FISH OIL 300 SOFTGELS \nPrice 10500 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school ALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-05-16 10:39:26+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 25690,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5782691384509795993,
+          "access_hash": -7447674434847736288,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gljC\\xa8N\\x9e\\xdf\\n\\x8cm\\xbb\\x9dq\\xe2P5Z\\xe2\\xa6\\xeeW'",
+          "date": "2026-05-16 10:39:25+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xd9\\xa8\\xa7\\x90E\\x0b6@ q\\xcfZ\\x96\\xb35$w\\x95rp\\x80z\\xf7\\xa4\\xc0g\\xf6\\x99\\xc7\\xdc\\xe7\\xfd\\xea\\xd2\\x82A,*\\xd9\\x04\\x91\\xcf5\\x8b\\xb0c\\xaf\\x1e\\xb5oMVI[\\x04\\x14#\\xb1\\xcf51\\x8a\\x8e\\xc3w\\xeci\\xd1E\\x15b\\n\\xabp\\x81\\xdf\\x04g\\xa7\\x19\\xabUR\\xe1\\xf6K\\xf8z\\xd4\\xca.Z!\\xa7mH\\x84*rv\\xb6A\\xe8jke\\x0b'\\xca1\\xc7CU\\xee$\\xd8\\xa8A\\xdaI\\xe4\\xe74\\xb62\\xb4\\x97\\x04\\x17\\xdc\\x02\\xfaT4\\xee^\\xf1\\xb9\\xa3E\\x14V\\xa6aY\\xf7\\xf1\\xdc\\x19C\\xc4\\xbb\\x97n\\x0e0\\x7fJ(\\xa0\\n\\x85nN3\\x13\\xf1\\xff\\x00L\\xff\\x00\\xfa\\xd5kO\\x86d\\x95\\x9eT\\xda\\xa4`t\\x14QJ\\xc8\\xab\\xe9cF\\x8a(\\xa6I\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 17436
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 63715
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1280,
+              "h": 1280,
+              "sizes": [
+                12731,
+                26400,
+                38370,
+                50750,
+                81974
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 50
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 50,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 50,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 67,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 114,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 114,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 124,
+          "length": 267
+        }
+      ],
+      "views": 406,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26475,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T11:39:20+00:00",
+    "message_text": "GLUCERNA FOR DIABETES 400GM\nPrice 5000 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26475.jpg",
+    "views": 332,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 26475,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 11:39:20+00:00",
+      "message": "GLUCERNA FOR DIABETES 400GM\nPrice 5000 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-19 13:57:17+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 26454,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5884249171873697396,
+          "access_hash": -2010908931862387888,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gkjC\\xa8N\\xe9\\xc9_qUA\"\\x9e\\xcf\\xbfSi\\xd8\\x8e\\x883'",
+          "date": "2026-06-19 13:57:17+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xca\\x821$\\xa1\\x0fCZ\\x0be\\x17B\\x9f\\xa9\\xaaV_\\xf1\\xf4\\x9f\\x8f\\xf2\\xadxJn\\xe6\\xb3\\x9d\\xefdR\\xb5\\xb5#]:\\x13\\xfc\\x03\\xf35\\x1c\\x960\\xaf\\xf0\\xfe\\xa6\\xb4<\\xc5U\\x05FA\\xe9\\xdb5\\x04\\x8d#\\xe0\\x85\\x18>\\xd9\\xf5\\xff\\x00\\n9%\\xdc9\\x91\\x8du\\x12\\xc56\\xd59\\x18\\xcd\\x15&\\xa41v@\\xf4\\x1f\\xca\\x8a\\xd1^\\xc4\\xb1\\xb6\\x1f\\xf1\\xf9\\x1f\\xe3\\xfc\\xabV(\\xf1\\x83#c\\x1c`~\\x1f\\xe1YV9\\xfbZc\\xaf?\\xc8\\xd5\\xf2e\\x0f\\xb9\\x97\\x8f\\xce\\x9aZ\\x89\\xb2\\xcb\\x10\\x87\\xe4\\xc6\\xdf\\xe5P\\xc8\\xc5\\x98|\\xd9'\\x8f\\xf3\\x9a\\x8b\\xcc\\xe1\\x81\\xef\\xedVa\\x896+\\x0c\\x9c\\xf3\\xcfj\\xb7h\\xab\\x90\\xae\\xcc\\xbdH\\xe6\\xf1\\xcf\\xd2\\x8a5,}\\xb1\\xb1\\xe8(\\xac\\xcd\\x08\\xed]c\\xb8Wc\\x803\\xcf\\xe1Z\\xd1\\\\\\xc0\\x7f\\xe5\\xb2\\xfex\\xa2\\x8aLh\\x9f\\xcf\\xb7#\\x99\\x10\\xfe5\\x1b\\xdc\\xdb\\x86\\x07\\xce^;\\x03E\\x14\\xac\\x06M\\xfc\\x89-\\xc9x\\xdbp s\\x8a(\\xa2\\xa9\\x08\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 23629
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 102995
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1000,
+              "h": 1000,
+              "sizes": [
+                10970,
+                22447,
+                34197,
+                46813,
+                88189
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 54
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 54,
+          "length": 30
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 54,
+          "length": 30
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 84,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 131,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 131,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 141,
+          "length": 268
+        }
+      ],
+      "views": 332,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26474,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T11:39:20+00:00",
+    "message_text": "ENSURE 850GM\nPrice 5000 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school ALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26474.jpg",
+    "views": 383,
+    "forwards": 3,
+    "raw": {
+      "_": "Message",
+      "id": 26474,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 11:39:20+00:00",
+      "message": "ENSURE 850GM\nPrice 5000 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school ALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-08-19 14:17:06+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 19264,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5841727123033803234,
+          "access_hash": -1470289506547986639,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gjjC\\xa8N\\xa90X\\xc0\\x04\\xfb\\xb0\\xc4f\\xf3Y\\nU\\xf6\\xb8\\x12'",
+          "date": "2025-08-18 07:58:48+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd7\\x90\\x95\\x8d\\x88\\xea\\x06Ef\\x8b\\x9b\\x82p[\\xf4\\x15\\xa5\\'\\xfa\\xb6\\xfa\\x1a\\xcb\\x8b\\x078\\x04\\x9aj\\xddIw\\xe8?\\xed2\\xee\\xda\\\\\\xe6\\x9e\\xd3\\xca\\xa9\\x91!\\xfc\\x85B!}\\xc4\\x91\\x81\\xeejp\\x89\\xc2\\xb1\\xc9\\xf4\\xa4\\xd2cZ\\x17\"b\\xd1+7R3E9>\\xe8\\xfaQ@\\xc4\\x7f\\xb8\\xdfJ\\xcf^\"m\\x83\\xe6=>\\xb5\\xa0\\xff\\x00q\\xbe\\x95\\x99\\xb5\\x89\\\\u\\x07?\\xa5=\\x04\\xeeH#/\\xbcI!\\xda\\xdd\\x00\\x1f\\xe7\\xd6\\x88\\x84bA\\x83\\x96\\xc7\\xf8\\xd2\\x08\\\\r3\\x9e;\\xd2\"\\x14#\\x9001\\x81LF\\x92}\\xc1\\xf4\\xa2\\x92?\\xb8\\xbfJ*J\\x07\\x04\\xa3\\x01\\xd4\\x8a\\xa2!\\x95O\\xcc\\x87\\xf0\\xa2\\x8aM\\x01.\\x1b\\x1fu\\xbf*b\\xc1&\\xee\\xff\\x00\\x96(\\xa2\\x95\\x86]Q\\x85\\x00\\xd1E\\x15B?'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 22002
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "x",
+              "w": 554,
+              "h": 554,
+              "sizes": [
+                3725,
+                8714,
+                13503,
+                20246,
+                32005
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 12,
+          "length": 27
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 39,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 39,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 56,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 103,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 103,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 113,
+          "length": 267
+        }
+      ],
+      "views": 383,
+      "forwards": 3,
+      "replies": null,
+      "edit_date": "2026-06-21 13:24:05+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👨‍💻"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26473,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T11:39:20+00:00",
+    "message_text": "Aptamil No.2\nPrice 6000 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26473.jpg",
+    "views": 429,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 26473,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 11:39:20+00:00",
+      "message": "Aptamil No.2\nPrice 6000 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-16 14:26:59+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 26385,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5875454710939061944,
+          "access_hash": 5936063511302619146,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gijC\\xa8N\\xd4&y\\xf6\\x83\\xf4\\xd6\\xea=\\x81%1\\x08%\\x9b\\x84'",
+          "date": "2026-06-16 14:26:59+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01( H\\xa5b@2H\\x7f\\xe0F\\xa7\\xde1\\x82d\\xc8\\xf4c\\xfe5\\r\\xba|\\x9dz\\x9c\\x11\\x8a\\xb3%\\xaa1!A\\xc0\\xeb\\xc9\\xad]\\x8c\\xd1\\x14\\x84\\xb7\\xdc\\x91\\xd4\\xfad\\xf3U\\xa4k\\x84\\xced~\\x0e>\\xfd[[D\\x07\\x90\\xdf\\xf7\\xd1\\xa6\\\\\"\\xad\\xb6\\x07\\\\\\xe74\\x94\\x95\\xec6\\x89mS\\x16\\xfea\\x19\\xe6\\xa4o,JK\\x8c\\xe7\\xdf\\xa5Ao$\\x89n\\xcaA\\x00\\x0c\\x8c\\x8a\\x04\\xe8\\x1d^O\\x97>\\xb4\\x9a\\xd5\\x8f\\xa1:\\xaca\\xb2\\x8b\\x8c\\x03\\x8ej\\x0b\\xa1\\x88\\x01=i~\\xd0\\xbb\\x99\\xa3\\xdc\\xe1G@*;\\xa6wER\\x84\\xb7S\\xc7Oj\\x94\\x9f0\\xde\\xc5\\xb3\\x1e\\xe5#\\xa7\\x14\\xc3\\x1aya$]\\xf8=H\\xcd\\x14Qq\\xd8\\x92 \\x89\\xf7S\\x8fLb\\x9ac\\xe4\\xe4\\x9a(\\xa4\\x07'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 253,
+              "h": 320,
+              "size": 25496
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 632,
+              "h": 800,
+              "size": 99482
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1012,
+              "h": 1280,
+              "sizes": [
+                16702,
+                35945,
+                54384,
+                76710,
+                129140
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 41
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 41,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 41,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 58,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 105,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 105,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 115,
+          "length": 267
+        }
+      ],
+      "views": 429,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26472,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T11:39:20+00:00",
+    "message_text": "NIDO 1.8kg\nPrice 7000 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26472.jpg",
+    "views": 217,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 26472,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 11:39:20+00:00",
+      "message": "NIDO 1.8kg\nPrice 7000 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-04-27 15:40:23+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 25366,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 6017301829865114829,
+          "access_hash": 2396694401162156713,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00ghjC\\xa8N\\xf3\\xd8(\\xcd\\xef\\xdc36\\xf0y\\xe1\\xc4\\xd4\\xf7y\\x1a'",
+          "date": "2026-04-27 15:40:23+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01( r\\xaejU\\x88c%\\xb8\\xf5\\x034\\xb1`)8\\xe7\\xa0\\xa73\\x14\\x88\\x04\\xf5\\xf5\\xef\\\\\\xca\\xddMX\\xc1\\t#\\x8f\\xd4TL\\xb8854RI\\xf3\\x03\\x9cb\\x89W 7\\xe1CJ\\xd7@\\x98\\xb1/\\xc8M$\\xca|\\xb5 \\x80\\x07\\'4\\xebv\\x18+\\xebD\\xa7\\xe5\\xc62:Rz-\\x00\\xaf\\x03\\x1f3\\x1b\\x81\\xcfj\\x9aC\\xc6*8\\xa3\\xfd\\xe6\\xe1\\xdf\\xb5O\\xe5d\\xf3\\xd3\\x14\\xd5\\xda\\xb2\\x07d@\\xb8\\xfe\\xf6)\\xc5Q\\xb9\\xde\\t\\xfaQE$\\xec!\\xeb\\x98\\xf9#\\x8aS8#\\x01O=\\xe8\\xa2\\xb7Z\"Y'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 258,
+              "h": 320,
+              "size": 23914
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 644,
+              "h": 800,
+              "size": 96221
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1031,
+              "h": 1280,
+              "sizes": [
+                15688,
+                34143,
+                51059,
+                72115,
+                123244
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 10,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 39,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 39,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 56,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 103,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 103,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 113,
+          "length": 267
+        }
+      ],
+      "views": 217,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26471,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T11:39:20+00:00",
+    "message_text": "NIDO 2.2kg\nPrice 10000 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26471.jpg",
+    "views": 221,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 26471,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 11:39:20+00:00",
+      "message": "NIDO 2.2kg\nPrice 10000 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-04-11 12:48:59+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 25059,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5967592728784735528,
+          "access_hash": 6564462498627720524,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00ggjC\\xa8N\\x11%\\xa6\\xaa\\r\\xfd\\xfds|\\xd8N\\x14\\\\\\xf8\\x832'",
+          "date": "2026-04-11 12:48:59+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xa3a\\x02\\xdcO\\xe5\\xbf\\xa6j\\xcb\\xd8\\xc6\\x1c(L\\x02q\\x9c\\x9a\\xad\\xa7\\x12.\\t\\x07\\x04\\x0f\\xea+a\\x98+|\\xa8\\t\\xf5\\xcfz\\xceN\\xc6\\x91i-H?\\xb1\\xe2\\xfe\\xf7\\xe9I\\xfd\\x97\\x02\\x90\\t\\xce~\\xb5t\\\\.\\xdc\\x86R\\x07S\\x9az\\x15u\\xdc\\xa74\\x94\\x93\\xd8.s\\xb7\\xd0\\xa4\\x13\\xecZ*M_\\xfe?O\\xd2\\x8a\\xd1\\x10\\xc6\\xe9\\xa3\\xf7\\xed\\xec\\xb9\\xfdEl\\x98\\xd4\\xb6\\xe0O<\\xf4\\xf7\\xac\\x9d'\\x9b\\xb3\\xfe\\xe9\\xadff\\x89O\\xcaYGLv\\xacj7\\xd0\\xb8\\xab\\xab\\x11$j\\xae\\x15Y\\xb7\\x8e\\x87\\xe9\\xff\\x00\\xeb\\xa7\\xac\\xbeW\\xee\\xd0|\\xa3\\xbf\\xbdV\\x92\\xe8\\x92v\\xa8\\\\\\xf5=\\xe8\\x88\\x828\\xcf\\xe7D\\x16\\xb7`\\xe0\\xf6H\\xa3\\xa91{\\xad\\xc7\\xb8\\xa2\\x8d@\\x118\\xcf\\xf7\\x7f\\xa9\\xa2\\xb7[\\x11-\\xc3M\\x9a8.wJp\\xb8\\xc6q\\x9a\\xd4:\\x8d\\xa7is\\xff\\x00\\x014QQ()n\\t\\xd8k_Z0\\xe6A\\xff\\x00|\\xd1\\x1d\\xfd\\x9a\\xff\\x00\\xcbl\\x7f\\xc0\\x0f\\xf8QEB\\xa5\\x14S\\x93\\xb1\\x9b\\xa8\\xcd\\x1c\\xf7;\\xa3m\\xca\\x063\\x8cQE\\x15\\xb2VD\\x9f\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 24074
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "x",
+              "w": 720,
+              "h": 720,
+              "sizes": [
+                6594,
+                15197,
+                23004,
+                31880,
+                51617
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 10,
+          "length": 28
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 38,
+          "length": 30
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 38,
+          "length": 30
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 68,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 115,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 115,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 125,
+          "length": 268
+        }
+      ],
+      "views": 221,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26470,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T11:39:20+00:00",
+    "message_text": "Aptamil No.3\nPrice 5500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26470.jpg",
+    "views": 248,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 26470,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 11:39:20+00:00",
+      "message": "Aptamil No.3\nPrice 5500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-03-29 08:08:58+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 24782,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5929321464916020592,
+          "access_hash": 7718346148995933557,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gfjC\\xa8N\\x02\\n6\\x7f\\xfa\\xf5\\x87\\xaa\\xdbm\\xfa7B\\xfb\\x81\\x00'",
+          "date": "2026-03-29 08:08:58+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd9\\xac\\xff\\x00.y97.3\\xe8\\xb8\\x15\\xa1TV\\\\`\\x15\\xdc\\xa4\\x80j\\xa2K#\\xfb<\\xbd~\\xd9/\\xe7F\\xd9\\xe3 \\x8b\\x96?Q\\x9a\\xb2\\xcf\\xb8\\xa11\\xb6I\\x1cd\\x8cTN\\xf9\\x90\\xfe\\xefo\\x19\\xa1\\xdd\\xec\\x1b\\x17\\xa8\\xa2\\x8a\\x92\\x82\\xb3#\\x91\\x87\"\\xb4\\xeb\\x1dQ\\xb6}\\xf0\\t\\xce\\x063U\\x16\\x96\\xe4\\xb5r\\xea\\xdd\\xe5\\x0eW\\xe6\\x1d\\xfbUy&,z\\xd4\\x8aQ-v\\x1c\\x03\\x82[>\\xb5VB\\xbfCT\\xac\\'sf\\x8a(\\xac\\xcb\\n\\xc9\\x8f\\xcfF\\x01\\xe2\\x90\\x80{.h\\xa2\\x9a\\x13\\x07W\\x92Vf\\xb7\\x97\\x9e\\x9c\\x1e)\\xad\\x14\\x8f\\xc7\\x91&}H\\xa2\\x8aw\\x11\\xb1E\\x14T\\x94\\x7f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 19223
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "x",
+              "w": 350,
+              "h": 350,
+              "sizes": [
+                1897,
+                4435,
+                6679,
+                9183,
+                14837
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 41
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 41,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 41,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 58,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 105,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 105,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 115,
+          "length": 267
+        }
+      ],
+      "views": 248,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26469,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T11:39:20+00:00",
+    "message_text": "Aptamil No.1\nPrice 5500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26469.jpg",
+    "views": 416,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 26469,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 11:39:20+00:00",
+      "message": "Aptamil No.1\nPrice 5500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-03-29 08:08:35+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 24780,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5929321464916020590,
+          "access_hash": -1423124429388323201,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gejC\\xa8Nr\\xe7\\xc6\\xb4\\x9d%\\x9e\\xde&S\\xc3\\x9e\\xcd4W>'",
+          "date": "2026-03-29 08:08:35+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01(\\x1f\\xc7\\x00\\xb1\\xc0\\x194\\xef-\\x87o\\xd6\\xac\\xe9X\\xfbj\\xe7\\xd0\\xd6\\xf0e+\\x94+\\x8e\\xde\\xf4\\xd5\\x84r\\xfe[z~\\xb4\\xd20pk\\xaa\\xdd\\x81\\xf3\\xed\\x19\\xf45\\xce_\\x7f\\xc7\\xe4\\xbf\\xefP\\xc0\\x93L\\xc1\\xbb\\x00\\xf4 \\xd6\\xe2\\xac!\\xc6\\xe5\\xc1=\\x0eM`\\xe9\\xe4\\x0b\\x9eN\\x06\\x0f5\\xb7\\x02\\xa6\\xec\\x92\\x08\\xc6G\\xbdRZ\\x12\\xdd\\x99+\\xa4\\\\\\x00\\xb8\\x0b\\xd3\\x9a\\xe7/\\x7f\\xe3\\xee_\\xf7\\xab~V\\xc3\\xe0\\x0c\\xd6\\x05\\xdf\\xfc}I\\xfe\\xf5&\\xb4\\x04\\xee\\xc2\\xd5\\xd5&\\xcb\\x9c\\x0c\\x11\\x9a\\xd2\\xfbe\\xb8\\x81Q%\\xc3\\x80\\x06p\\x7f\\xc2\\x8a(OA\\xb5q\\x86\\xf1\\x7f\\xe7\\xe0\\x1f\\xf8\\x0f\\xff\\x00Z\\xb3\\xa7`\\xf3;\\x03\\x90OZ(\\xa1\\xbb\\x82V?'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 246,
+              "h": 320,
+              "size": 14338
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 616,
+              "h": 800,
+              "size": 56500
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 985,
+              "h": 1280,
+              "sizes": [
+                10734,
+                21159,
+                32576,
+                44576,
+                73853
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 12,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 41,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 41,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 58,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 105,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 105,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 115,
+          "length": 267
+        }
+      ],
+      "views": 416,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26468,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T11:39:20+00:00",
+    "message_text": "Replace 850gm For Diabetes \nPrice 9500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26468.jpg",
+    "views": 241,
+    "forwards": 2,
+    "raw": {
+      "_": "Message",
+      "id": 26468,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 11:39:20+00:00",
+      "message": "Replace 850gm For Diabetes \nPrice 9500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-06-17 12:34:41+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 26410,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5877706510752747186,
+          "access_hash": -1689427930754245795,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gdjC\\xa8NWI>\\xaad=);\\x83}\\x03\\xc5_\\x03\\x07D'",
+          "date": "2026-06-17 12:34:40+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xc8@\\x19\\xc0'\\x00\\x9e\\xb5w\\xecp\\xaf\\xdfw\\x19\\xe9\\xc5S\\x88\\x13*\\x81\\xc9$V\\xc26!\\xda\\xe8K'+\\x91\\xdb\\xbd\\\\Q\\x12l\\xa9\\xf6Ko\\xf9\\xea\\xdf\\x954\\xda\\xdb\\xe0\\xed\\x91\\xcf\\xe1Ww\\r\\x83l8\\xcf\\xb7jB\\x92\\xba7\\x00\\x03UdM\\xd9\\x8c\\xe0+\\x10\\x0e@\\xefE,\\xa3\\x120=\\x89\\xa2\\xb2f\\xa3\\xed\\x7f\\xe3\\xee\\x1f\\xf7\\xd7\\xf9\\xd7I ]\\xdd>a\\\\\\xd5\\xb7\\x171\\x7f\\xbe?\\x9dt\\x0c\\xccW\\xe6\\xebI\\x81$\\x98\\xf2\\x8b\\x1eJ\\xf6\\xcd@\\xaeH;QG\\xe0MJ\\xb2q\\xb7\\x92[\\xd2\\xa3v@\\x08\\xc6\\x7f\\x1aM\\x89\\xa3\\x06\\xe7\\xfe>e\\xff\\x00|\\xff\\x00:)'9\\x9eC\\xfe\\xd1\\xa2\\xa8b#\\x14uq\\xd5NEh\\xff\\x00j\\xee\\\\4x>\\xa0\\xe6\\x8a)X\\x07\\x9dR=\\x80a\\xf3\\x8e\\xbbFj\\x07\\xd4\\x17\\x18T'\\xeah\\xa2\\x8b (\\xb3nb\\xc7\\xa99\\xa2\\x8a)\\x81\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 22216
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 83560
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                11603,
+                25360,
+                37169,
+                51869,
+                85235
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 14
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 27,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 56,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 56,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 73,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 120,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 120,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 130,
+          "length": 267
+        }
+      ],
+      "views": 241,
+      "forwards": 2,
+      "replies": null,
+      "edit_date": "2026-06-22 15:33:18+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "❤"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26467,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T05:49:46+00:00",
+    "message_text": "GLUCOSAMINE AND CHONDROITIN COMPLEX\nPrice 8000 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26467.jpg",
+    "views": 401,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 26467,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 05:49:46+00:00",
+      "message": "GLUCOSAMINE AND CHONDROITIN COMPLEX\nPrice 8000 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-04-21 13:52:57+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 25259,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5999351104245796144,
+          "access_hash": -6860409049210967414,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gcjC\\xa8N\\x1c]r\\x01\\xc0\\xaa4\\x19y\\x9f\\x8f\\xf5\\xf3m\\x0c\\xd1'",
+          "date": "2026-04-21 13:51:54+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01(\\x1d\\x93Z\\xeb\\x0f>\\xbf\\xd2\\xb3\\xe0b$\\x07'\\xadi\\xea\\xe3\\x88[\\xea+3%d\\xe2\\x80\\x1drNG\\xccO\\x1d\\xcej5\\xe7<\\x9a\\x92lm\\xc8\\x18\\xa4\\xb3B\\xfb\\xf3\\xdb\\x14\\x01\\xa9\\xac\\x0f\\xf4x\\xcf\\xa3\\xe3\\xf45\\x93\\xf3\\x15S\\x8c\\xd6\\xc6\\xae3h=\\x9c\\x7fZ\\xcc\\x85\\xc3D3\\x80\\x07\\xb9\\xa0\\x08df*\\x06*\\xfe\\x8a\\x81\\xbc\\xfc\\xfa\\x8f\\xebUf\\x98\\x0e\\x14\\xee\\x07\\x8cd\\xff\\x00\\x8d]\\xd0\\xbf\\xd5\\xcc}XP\\x05\\xadI\\x1aKB\\xa8\\xa5\\x8eA\\xc0\\x15\\x8f\\x1cn\\xa8\\xca\\xd1\\xb2\\x9c\\xf7\\x06\\x8a(\\x02?-\\xdc\\xe1cb}\\x81\\xcdk\\xe8\\xf1<V\\xee$FB[\\xa1\\x18\\xa2\\x8a\\x00\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 236,
+              "h": 320,
+              "size": 17651
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 591,
+              "h": 800,
+              "size": 73410
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 887,
+              "h": 1200,
+              "sizes": [
+                10769,
+                22545,
+                35402,
+                53109,
+                87512
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 35,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 64,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 64,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 81,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 128,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 128,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 138,
+          "length": 267
+        }
+      ],
+      "views": 401,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26466,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T05:49:46+00:00",
+    "message_text": "HAIR, SKIN & NAIL\nPrice 5000 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26466.jpg",
+    "views": 334,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 26466,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 05:49:46+00:00",
+      "message": "HAIR, SKIN & NAIL\nPrice 5000 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-05-13 05:26:17+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 25656,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5774095892230114744,
+          "access_hash": -6435574036721266518,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gbjC\\xa8N\\xe7\\x88\\x9cI\\xba]\\xe8\\x8d\\x9eP\\xd4j\\xaaG3\\xf9'",
+          "date": "2026-05-13 05:26:17+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01(\\x1b\\xd3a!s\\x83\\x8fCLe\\x9cd\\xf9\\xc0\\x0f\\xf7i\\xee\\xcd\\xbb\\x02\\x91\\xb7\\xb4g\\xd78\\xa0v\\x15\\x1c\\xec\\x00\\xb0-\\xdc\\xfa\\xd3\\xb6\\xa9\\xe4\\xe75\\\\n\\x04\\x1f\\x97\\x83\\xfd\\xea\\xb23\\xfd\\xe1@?!\\x0f\\xde4>\\x14(\\xf54`\\xee=9\\xa8n\\xd5\\xde!\\xb3\\xef\\x03\\x9e(\\x05\\xb8l\\xdd\\xc3s\\x8a\\x93>\\xc7\\xf2\\xa6+0@\\n\\xb9>\\xe2\\xa6\\xda=(\\x1b2\\xe4\\xd4\\x90J\\xc4Bw\\x0f\\x97v\\xef\\x7fJ`\\xd4O?/^\\xbf\\xe7\\x14QA*Lrj\\x9b~\\xf4{\\xbd9\\xc7\\xf4\\xab\\x90\\xdf,\\x91\\x07\\xf2\\xc8\\xcfl\\xd1E\\x01{\\x9f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 213,
+              "h": 320,
+              "size": 24948
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 533,
+              "h": 800,
+              "size": 106906
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 853,
+              "h": 1280,
+              "sizes": [
+                13463,
+                36598,
+                61040,
+                88508,
+                145816
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 46
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 46,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 46,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 63,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 110,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 110,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 120,
+          "length": 267
+        }
+      ],
+      "views": 334,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26465,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T05:49:46+00:00",
+    "message_text": "Coconut oil 2L\nPrice 8500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26465.jpg",
+    "views": 362,
+    "forwards": 2,
+    "raw": {
+      "_": "Message",
+      "id": 26465,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 05:49:46+00:00",
+      "message": "Coconut oil 2L\nPrice 8500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-05-15 13:50:13+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 25686,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5780439584696110929,
+          "access_hash": 5410455911512701070,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00gajC\\xa8Nm\\xed\\xb2-\\x84DkD\\x8d[K\\xed\\xb9{\\xe8\\xee'",
+          "date": "2026-05-15 13:50:13+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01(#\\xd6\\x94\\x13\\x19\\x0b\\xd6\\xaa\\xf9O\\xfeMO$\\x8a\\xaewt\\x14K/\\x96\\x81\\x82\\x96\\xc9\\xec3R\\xe2\\x99JM\\x15\\xccO\\x8a\\x92\\xd1\\x1d]\\xcb\\x1e)\\xabtY\\xc2\\xf9N2q\\x9c\\x1f\\xf0\\xa6\\xcf9A\\xe9\\xce9\\xa4\\xa2\\x90\\xdc\\xdbV/QH\\xbc\\xa8\\xfaQVA\\x04\\x983\\x10pG\\x1c\\x11H\\xdb\\x19\\xc6pM,\\x80\\x99\\x8f\\xd2\\xa9\\xdd\\xcb$s\\x07\\x03\\x800})1\\xa2\\xcb #$\\x0c\\n\\x86A\\xbb\\x03\\xf2\\xa6\\x8b\\xb8\\xca\\x0f\\x9b\\x04\\xf6\\xc51%\\xde\\xe01\\xce\\x0f\\xa5\\x00\\xcdU\\xfb\\xa3\\xe9E(\\xe9E1\\x10\\xc8\\xad\\xe6n\\x00\\x91\\x8e\\xd5\\x0b\\xc6\\x8c~`sE\\x14\\x98\\x11\\x98#\\xf44,\\x04\\xb7\\xc8\\x87\\xebE\\x14\\x80\\xd0\\xa2\\x8a*\\x80'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 281,
+              "h": 320,
+              "size": 27087
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "x",
+              "w": 435,
+              "h": 495,
+              "sizes": [
+                2899,
+                7584,
+                14110,
+                22716,
+                38449
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 14,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 43,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 43,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 60,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 107,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 107,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 117,
+          "length": 267
+        }
+      ],
+      "views": 362,
+      "forwards": 2,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26464,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T05:49:46+00:00",
+    "message_text": "Aquaphor Baby 396 gm\nPrice 6500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26464.jpg",
+    "views": 326,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 26464,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 05:49:46+00:00",
+      "message": "Aquaphor Baby 396 gm\nPrice 6500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-04-30 12:26:23+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 25441,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 6023884726239693951,
+          "access_hash": 5904411342934751179,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00g`jC\\xa8N6\\x1e\\xaa\\xdf5\\x19/8\\x85\\xf4\\x10cQ9\\xe2\\x18'",
+          "date": "2026-04-30 12:26:23+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xd3\\xb9\\xb8[h\\xbc\\xc7\\xc9\\x19\\xc6\\x05R\\xfe\\xd8N\\xa2&\\xc7\\xd6\\xad\\xde[\\x0b\\xa8\\xc2\\x16+\\x83\\x9e*\\x97\\xf66\\x06\\x05\\xc7\\xfe9\\xff\\x00\\xd7\\xa6\\xad\\xd4\\x03\\xfbm\\x7f\\xe7\\x89\\xff\\x00\\xbe\\xbf\\xfa\\xd4\\xbf\\xdbq\\xf7\\x88\\xfe\\x7f\\xfdj\\x88\\xe8\\xa7\\xfe~?\\xf1\\xcf\\xfe\\xbd4\\xe8\\xf8<\\xcf\\xff\\x00\\x8e\\x7f\\xf5\\xe9\\xe8\\x06\\x9d\\xa5\\xda]\\xa9(\\x08#\\xa84TZ}\\xb0\\xb6\\xde\\x03\\x96\\xce;QR\\xc0\\xba{Tr\\x82S\\n\\t9\\xecqO=8\\xa6\\x1f3o\\xcaF}\\xc5\\x00Td\\x98\\x8c\\x11!\\xf5\\xf9\\xc59C\\xe1\\x81\\xdc\\x0f\\xab\\x1c\\xd4\\xa5d=B\\xe6\\x98\\xc1\\xff\\x00\\xfdT\\xc2\\xe4\\xb6\\xc0\\x85994S\\xa0\\x04'4R\\x02JL{\\xd1E\\x00!_zO,\\x1e\\xa4\\xd1E\\x00<\\x00\\x06\\x05\\x14Q@\\x1f\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 15278
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 60588
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1200,
+              "h": 1200,
+              "sizes": [
+                10158,
+                19443,
+                29438,
+                40020,
+                64137
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 20,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 49,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 49,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 66,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 113,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 113,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 123,
+          "length": 267
+        }
+      ],
+      "views": 326,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26463,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T05:49:46+00:00",
+    "message_text": "COFFEE Mate \nPrice 4500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26463.jpg",
+    "views": 186,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 26463,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 05:49:46+00:00",
+      "message": "COFFEE Mate \nPrice 4500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-03-28 06:03:33+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 24760,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5927269703204146871,
+          "access_hash": -6353278599082590236,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00g_jC\\xa8Nm\\xec*\\x8f&\\x9c\\xef\\xe2\\xa5x)\\x15\\xfc\\xc5\\x1eg'",
+          "date": "2026-03-28 06:03:33+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01( \\xa9\\x13\\x12\\xbbV0\\xde\\xa0\\x9a\\x97\\xcd\\x91H>J\\x03\\xf4\\xa9\\xad\\x96h\\xb7,gj\\x93\\xd7\\x1c~uh\\xa9\\xce\\xd6\\x9d\\x8b\\x1f@\\x06*\\x0e\\x87dc\\xcd\\xb8\\xbeJ\\x05\\xe3\\xa0\\xa6\\x04f\\xe8\\xa4\\xfe\\x15\\xa9q\\x17\\x99*)\\xe5\\x94`\\xfb\\xd3\\xde\\x05\\x88\\x01\\xde\\x95\\xc6\\xda\\xb14EU\\x0e\\xfc\\xe2\\x91\\xe7\\x80\\xb7\\xcaF\\xf3\\xdf\\x14\\xa5\\xf2\\nm\\xf9\\xb1\\xd0\\x0e\\xd5I\\xa1\\x7f3#\\x9e})\\\\\\xce\\xc5\\xf0\\xc8\\xa4\\xb62\\xc7\\xa5W\\x91\\xf71$\\xd42\\xc8\\xe1F\\t\\x07\\xbd9wI\\x1eH\\xe7\\x14\\x98\\x17\\x02\\xa8s \\x041\\x18$S2T\\xe43\\xf1E\\x14\\xd3\\x11\\x03@\\x0bd\\xee\\xa9\\x12\\x10\\xab\\xc14QC\\x0b\\xea\\x7f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 258,
+              "h": 320,
+              "size": 23563
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 646,
+              "h": 800,
+              "size": 96976
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1034,
+              "h": 1280,
+              "sizes": [
+                15487,
+                35353,
+                52875,
+                75807,
+                127851
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 12,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 41,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 41,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 58,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 105,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 105,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 115,
+          "length": 267
+        }
+      ],
+      "views": 186,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26462,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T05:49:46+00:00",
+    "message_text": "Jamaican caster oil\nPrice 4000 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26462.jpg",
+    "views": 358,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 26462,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 05:49:46+00:00",
+      "message": "Jamaican caster oil\nPrice 4000 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-05-20 05:16:55+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 25736,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5796490349927665142,
+          "access_hash": -5274868469213248033,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00g^jC\\xa8N4\\x12\\xee\\xabPHV\\xf0U\\x94\\x9a\\xc9\\xe5\\xd0\\xd8K'",
+          "date": "2026-05-20 05:16:55+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01(\\x1e\\xb4K\\x81\\x93\\xf7iN:\\x9e\\x00\\xa5\\xc4\\x9d\\x9b\\x8fB*\\x0b\\xd9\\xd2(\\xcaH>g^\\x95\\x0c\\xb4\\nS\\xccf.\\n\\xf6\\xc5\\x0b\\x0e]\\x989\\xc1\\xed\\x8a\\x86\\xc5\\xe3\\xdb\\xb3g'\\xa7\\xbd]V?\\xdc\\xc5!\\xa1I\\x90\\xb6\\x17?\\\\UK\\xe5Sp\\x9en1\\xb4u\\xfa\\xd5\\x91#\\xfa\\xd6~\\xa53\\t\\xd4\\x8c}\\xdf\\xebM\\x89\\x13E\\x1c?# Tq\\xd7\\x1c\\xe2\\xaeG\\x8eF\\xfd\\xc7\\xbdgYN\\xef*o\\x00\\xae\\x0f\\x03\\xf1\\xad\\x15t\\xc9\\xfd\\xde\\r+\\x05\\xc6c=zTr\\xda\\xc567\\xafOz(\\xaa$H\\xedc\\x84\\xe5\\x06\\t\\xef\\x9a\\x94\\x03E\\x14\\x01\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 240,
+              "h": 320,
+              "size": 13258
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 600,
+              "h": 800,
+              "size": 52762
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 960,
+              "h": 1280,
+              "sizes": [
+                12423,
+                20395,
+                25160,
+                36557,
+                67581
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 46
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 46,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 46,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 63,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 110,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 110,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 120,
+          "length": 268
+        }
+      ],
+      "views": 358,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 26461,
+    "channel_name": "lobelia4cosmetics",
+    "message_date": "2026-06-20T05:48:53+00:00",
+    "message_text": "Tums 200 Chewable Tablets \nPrice 4500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/26461.jpg",
+    "views": 451,
+    "forwards": 2,
+    "raw": {
+      "_": "Message",
+      "id": 26461,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "date": "2026-06-20 05:48:53+00:00",
+      "message": "Tums 200 Chewable Tablets \nPrice 4500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2026-05-12 05:23:44+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 25647,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5771573904613772904,
+          "access_hash": -6803479634621483140,
+          "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00g]jC\\xa8N\\x05\\x9a\\x9a\\x1b\\x1f\\xf3d%\\xad\\xe2\\x8d\\xbf\\x8c\\x0ey\\x97'",
+          "date": "2026-05-12 05:23:44+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01(\\x1b\\xa5\\x8f/\\t*\\x11\\xea\\x08\\xc1\\xa7\\xc6!\\x7f\\x94B\\xec}\\x89\\xad\\xd0s\\xc1S\\xd7\\xb8\\xac\\xbb\\xc9n\\x92\\xe1\\x95\\x1c\\xa8\\xcf\\x00P\\x916\\x19\\x1e\\x9b,\\x92\\x12G\\x96\\x9e\\xe7&\\xaf\\r>\\xd5F\\n\\x02Gr\\xc7\\xfci\\xd6\\xa6F\\xb6S(%\\xbd}EK\\xb7<\\xe2\\x81\\xd8Q\\x80\\xc7\\x96\\xeb\\xde\\xa8]H\\xde{\\xa1\\x04\\xaf\\x1d\\x1b\\x18\\xad\\x1eA\\'9\\x07\\xd6\\xb3n\\xed\\xe6{\\x86h\\xc1*h\\xd3\\xa8k\\xd0\\x98\\x12m\\xe3&`\\x87\\xd5\\x88\\xe6\\xad\"\\xb6\\xc1\\x86\\xdc1\\xd7\\x8ej\\x99\\xb4\\x91\\xed\\xe1P@e\\x079?J\\xb9\\n\\xf9p\\xa26\\tP\\x01\\xa5mJ\\xbb3N\\xac\\xc4s\\x1a\\xfef\\x93\\xfbK#\\xfdZ\\xff\\x00\\xdfF\\x8a(3\\xb8\\rP\\xaf\"%\\xfc\\xcd/\\xf6\\xc3\\x7f\\xcf\\x11\\xff\\x00}QE\\x01s'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 213,
+              "h": 320,
+              "size": 23829
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 533,
+              "h": 800,
+              "size": 98801
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 853,
+              "h": 1280,
+              "sizes": [
+                13485,
+                32571,
+                55404,
+                80118,
+                133012
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 9
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 26,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityMention",
+          "offset": 55,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 55,
+          "length": 17
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 72,
+          "length": 47
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 119,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 119,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 129,
+          "length": 267
+        }
+      ],
+      "views": 451,
+      "forwards": 2,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": 8035200,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

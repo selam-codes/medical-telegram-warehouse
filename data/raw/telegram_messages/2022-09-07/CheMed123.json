@@ -1,0 +1,127 @@
+[
+  {
+    "message_id": 10,
+    "channel_name": "CheMed123",
+    "message_date": "2022-09-07T09:16:40+00:00",
+    "message_text": "Why spend time searching for medications? Visit www.chemeds.org to have your medication delivered to your door.",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/10.jpg",
+    "views": 612,
+    "forwards": 3,
+    "raw": {
+      "_": "Message",
+      "id": 10,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-09-07 09:16:40+00:00",
+      "message": "Why spend time searching for medications? Visit www.chemeds.org to have your medication delivered to your door.",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5818812527616834923,
+          "access_hash": -2547151845621242256,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\njC\\xa7\\xb9#\\t\\x9d\\xa3\\x98*\\xfe\\xf2\\x8c\\xb3U\\xbf\\x06f\\x92\\x1a'",
+          "date": "2022-09-07 09:16:40+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xb2\\xd5\\x0b1\\xdc\\x15O'\\xf4\\xa73\\xa7\\xf7\\xd7\\xf3\\xa8\\xc0\\r `\\xc3\\x03\\xaf5\\x84t\\xdc\\xb6\\x06!\\xe6\\x94\\x92M\\xa4c\\x18\\xe75\\x0c\\xd042d\\xb7\\x1e\\xbe\\xb5l\\xa4\\x19<68'\\xa5U\\xbc8\\xeb\\x93\\xed[\\xa6\\xb6FV}H\\xb8\\xeeqED%#\\x83\\xcd\\x15@>\\x0c`\\xe4\\xa0\\xff\\x00y3OeF;\\x84\\xaa\\x87\\xa6\\x15H\\xa8\\xe2\\x95\\xe3\\x04+\\x15\\xcflT\\x9fi\\x93\\x18\\xdez\\xe7\\xee\\x8f\\xf0\\xa0\\x05$\\xe7\\x06\\xe4\\x7f\\xdf\\x1f_\\xf1\\xa8\\xe3\\x1ee\\xc0Rwd\\xf55\\x1b\\x92\\xef\\x92I4\\xa3\\xdd9\\x03\\xad\\t%\\xb0\\\\IT\\x07 \\x0cQJ\\xc4\\x10p\\x984S\\x03l\\x08\\xc8\\xfd\\xe2\\x06\\xfa\\x80j\\x19'\\xb2\\x8d\\xca4+\\x91\\xfe\\xc0\\xa2\\x8a\\xe7\\xa6\\xf5\\xb1l\\x8d\\xae\\xecH#\\xc9\\x1d?\\xb8+7\\x1c\\xe6\\x8a+tH\\xb4QE\\x00\\x7f\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 28607
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 105482
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                16367,
+                38230,
+                66292,
+                102574,
+                142624
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 48,
+          "length": 15
+        }
+      ],
+      "views": 612,
+      "forwards": 3,
+      "replies": null,
+      "edit_date": "2022-09-16 08:47:18+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

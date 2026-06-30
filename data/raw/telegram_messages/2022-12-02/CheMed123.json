@@ -1,0 +1,227 @@
+[
+  {
+    "message_id": 43,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-02T13:44:41+00:00",
+    "message_text": "የChe-Med የመድሃኒት መረጃ ማዕከል በቅርብ ቀን!\n\nwww.chemeds.org\n0912603463",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/43.jpg",
+    "views": 938,
+    "forwards": 4,
+    "raw": {
+      "_": "Message",
+      "id": 43,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-02 13:44:41+00:00",
+      "message": "የChe-Med የመድሃኒት መረጃ ማዕከል በቅርብ ቀን!\n\nwww.chemeds.org\n0912603463",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5787534338089401147,
+          "access_hash": -7383861365954263284,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00+jC\\xa7\\xb96\\xad#\\xde\\xea\\xe3\\x00]\\xee\\x08\\xae\\xb9\\xb6\\xaf\\x03\\x83'",
+          "date": "2022-12-02 13:44:40+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xb7om\\x18\\x81\\x1eE,\\xed\\x8e\\xe7\\x8at\\xf0C\\xbb\\x04\\x0c\\x9a\\xad\\x15\\xe9\\x8a\"$@\\xea\\x07\\x078\\xa6\\xac\\xadq\\x1f\\x98@\\x07\\xb2\\xfa\\nOA\\xa5vE<\\x01\\xe5(\\xa4\\x85\\x8f\\xdf\\xa9<\\xd5\\x13#A?\\xcayS\\xc6Eh\\x02\\x0eI=\\xceH\\xac\\xf9\\xb6\\x99\\x9d\\xb3\\xd0\\xf0=jb\\xee\\xcb\\x94RF\\xb28($\\'\\x00\\xd1Y\\x8a\\xccc\\x01\\x8fJ*\\xacfHp\\xe1c\\xf3cl\\xf5\\x00\\xd4R\\xdc2\\xb1X\\xf8\\x1d+F{(\\x9b3\\xdb\\x8c6\\t\\xc0\\xe8k,[I\\x92]v\\xa8\\xeaO\\x14z\\x8dy\\x12[\\xa3\\xbc%\\xb2\\xf8\\xc9\\xe8G8\\x19<T\\xb1Y\\x06\\x01\\xc1\\xe3\\xa8\\xf9\\x87<\\xe2\\x99\\x15\\xca\\xc2\\x92\\xc6\\xa4\\x00I\\xday8\\xe3\\x15-\\xb4\\xeb\\x10\\xdd\\x9c\\xa8P\\xa0s\\xf5\\xfey\\xa6!%\\x80\\xa4L\\xff\\x007\\x1e\\xb8\\xe3\\x9c\\x7f:)\\'\\xbd\\x0f\\x03DpX\\x9c\\x93\\xcf\\xaezz\\xd1@\\x17\\xac\\xeePa%\\xc0\\x1d\\x88\\xe0U\\xab\\x88\\xd2EQ\\xb00>\\x834QH\\n\\xcdo\\x00\\xff\\x00\\x96\\n=2\\x82\\xa4\\x8f\\xc9\\xf36\\xb8@1\\xdf\\x03\\xd2\\x8a)\\x81\\x9b\\xaa\\xc7l\\x93(\\x80\\r\\xfd[\\x07\"\\x8a(\\xa0\\x0f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 30776
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 103622
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                19908,
+                81757,
+                123462,
+                128807
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 35,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 51,
+          "length": 10
+        }
+      ],
+      "views": 938,
+      "forwards": 4,
+      "replies": null,
+      "edit_date": "2022-12-02 13:44:56+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 41,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-02T06:06:12+00:00",
+    "message_text": "Order your Antipains from Che-Med. It will be delivered to you with in 30 minutes.\nwww.chemeds.org\n+251912603463",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/41.jpg",
+    "views": 885,
+    "forwards": 3,
+    "raw": {
+      "_": "Message",
+      "id": 41,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-02 06:06:12+00:00",
+      "message": "Order your Antipains from Che-Med. It will be delivered to you with in 30 minutes.\nwww.chemeds.org\n+251912603463",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5785282538275715727,
+          "access_hash": 1095784541839253304,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00)jC\\xa7\\xb9E\\x9f~k\\x89U\\xe7\\xb5r~\\xb7\\x051\\x95\\xe6/'",
+          "date": "2022-12-02 06:06:12+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xcc]\\xc4\\x10\\x06Tz\\xd5\\xa8\\xec\\xae%\\x84<q\\xee\\x07\\x91\\x92\\x05C\\n\\x9d\\xc4\\x01\\x9c\\xf6\\xab\\xcd3\\xc3\\x1ch\\x87k\\x1e1\\xe9V\\xa3r\\\\\\xacC\\xf6\\x0b\\xbc\\x93\\xe5\\x01\\x9f\\xf6\\xc7\\xf8\\xd5B\\xe0\\x122H\\xf6\\xae\\x843\\xc6\\xab\\xb8\\xb3\\xe4~\\x1f\\xca\\xa0\\x8a\\xca\\xdb~D\\x18\\xc7\\xa9\\xcf\\xf55\\x05X\\xc3\\xde0\\xdd\\xbd(\\xab\\xba\\xaa\\xa2\\x18\\x95\\x11W\\x00\\xe7\\x03\\x19\\xa2\\xa8EufC\\xb9z\\x8ad\\xd2\\xc9\\'\\xdf#\\xf2\\xad[\\x9b8\\x18\\x89!o\\xdd\\xff\\x00\\x18S\\x9c\\x0fQT.b\\x8dW\\x11\\x92p2I\\x1dist\\x1f-\\xf5\\x1f\\r\\xdc\\xcd\\x18_1T(\\xc6qI\\xe7\\xce\\xa4\\xb0\\x9f\\xe6\\x19\\xedPF\\xea\\x83\\xa9\\xcd>5i~X\\xa3w\\xf5\\xc0\\xa2\\xc89\\x99\\x14\\xd3I;n\\x95\\xb7\\x1a(\\x9a\\x17\\x89\\xb0\\xf1\\xba\\x7f\\xbc(\\xa6#\\xa7\\xd8\\x15\\x02\"\\xe1Ga\\xe9Q\\xb5\\x9c\\x0e\\xfb\\xda>q\\x8e\\xb4QHd3iV\\xd2/\\xc8\\xbe[z\\x8f\\xf0\\xa9\\xe3\\x8b\\xc9P\\x91\\x06T\\x1d\\x00\\xc5\\x14P\\x00\\xf0\\t\\xa3))b\\xa7\\xa88\\xa2\\x8a(\\x03'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 30004
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 109379
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                17015,
+                61676,
+                118040,
+                130605,
+                142840
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 83,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 99,
+          "length": 13
+        }
+      ],
+      "views": 885,
+      "forwards": 3,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

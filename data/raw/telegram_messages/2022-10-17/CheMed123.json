@@ -1,0 +1,104 @@
+[
+  {
+    "message_id": 21,
+    "channel_name": "CheMed123",
+    "message_date": "2022-10-17T14:02:40+00:00",
+    "message_text": "በሀኪም የታዘዙ መድሀኒቶች፤ ያለሀኪም ትእዛዝ የሚሸጡ የህመም ማስታገሻ መድሀኒቶች፡ ሰውነት ለመገንባት/ ለማዳበር የሚረዱ መድሀኒቶች፡እንዲሁም እንደ ስኳር መጠን መለኪያ ያሉ የህክምና መሳሪያዎችን በሰከንዶች ፍጥነት በስልክዎ ርቀት እናገኝልዎታለን፡፡ የመድሀኒቱን ስሪት፤ ሀገር፤ ዋጋ አማርጠው ማዘዝ ይችላሉ፡፡",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/21.jpg",
+    "views": 462,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 21,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-10-17 14:02:40+00:00",
+      "message": "በሀኪም የታዘዙ መድሀኒቶች፤ ያለሀኪም ትእዛዝ የሚሸጡ የህመም ማስታገሻ መድሀኒቶች፡ ሰውነት ለመገንባት/ ለማዳበር የሚረዱ መድሀኒቶች፡እንዲሁም እንደ ስኳር መጠን መለኪያ ያሉ የህክምና መሳሪያዎችን በሰከንዶች ፍጥነት በስልክዎ ርቀት እናገኝልዎታለን፡፡ የመድሀኒቱን ስሪት፤ ሀገር፤ ዋጋ አማርጠው ማዘዝ ይችላሉ፡፡",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5938122321053202766,
+          "access_hash": -203354210866543397,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x15jC\\xa7\\xb9\\x1a\\x9dJ\\xef\\xd9\\xb7\\xf6\\xea1\\xed\\x08\\x80V\\xa8G\\xb0'",
+          "date": "2022-10-17 14:01:50+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xd9\\xa6\\x86\\x04\\xe3<\\xd2\\x96\\x03\\xa9\\x02\\xab\\xc6\\x19fb\\xe4c'\\x1c\\xfa\\xff\\x00\\xfa\\x8d\\x02'v*2\\x17q\\xec*\\x13q0$}\\x92C\\xee\\x19\\x7f\\xc6\\xa6$\\x12\\xb8=\\xff\\x00\\xa5G\\x84R\\x08\\x03\\x8e\\x01\\xcf\\xff\\x00^\\x81\\x8eI\\x19\\x89VB\\x84\\x0c\\xf2A\\xa2\\x81\\xfe\\xbc\\xff\\x00\\xb8?\\x9d\\x14\\x00\\xb2`!lg\\x03\\xa7\\xadWWI\\x1dT\\xc43\\xfe\\xf7J\\x9af\\xf9vs\\x96\\x07\\x18\\xc5UB\\x8a\\xea\\xfb\\x98\\x91\\xf4\\xe7\\xf5\\xa0WE\\xdd\\xa1v\\x8003\\xfd)9\\xc9\\xf98\\xf5\\xcd2B$\\x87 \\x1e{TP\\xaf\\x96K\\x14flq\\xc0\\xc8\\xfdh\\x198\\xff\\x00\\x8f\\x83\\xfe\\xe8\\xfef\\x8aj6\\xe9\\xdb\\x8201\\xcf\\xd6\\x8a\\x00{yM\\x8d\\xc5N=i\\x85`\\x03\\x9f,~TQA;\\x8d\\x91\\xe21\\x15YP`q\\x86\\x15H\\x08\\xc8\\\\\\x0e{\\xf1E\\x14\\nQL\\xb5h\\x15#\\xc9l\\x13\\xd8\\x9e\\x82\\x8a(\\xa0\\xb8\\xad\\x0f\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 21549
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 74863
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                11175,
+                28790,
+                54005,
+                73423,
+                101089
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 462,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

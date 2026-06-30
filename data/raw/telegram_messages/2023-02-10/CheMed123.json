@@ -1,0 +1,150 @@
+[
+  {
+    "message_id": 97,
+    "channel_name": "CheMed123",
+    "message_date": "2023-02-10T12:23:06+00:00",
+    "message_text": "⚠️Notice!\nDear esteemed customers,\nDue to four-day motorbike movement restrictions, we have limited our services to matchmaking,drug information, and medical consultation only.\n\nN.B. \n🔅We will make deliveries for those for whom the medications are urgent.\n🔅You can book deliveries starting from Monday, February 13, 2023",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/97.jpg",
+    "views": 1424,
+    "forwards": 2,
+    "raw": {
+      "_": "Message",
+      "id": 97,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-02-10 12:23:06+00:00",
+      "message": "⚠️Notice!\nDear esteemed customers,\nDue to four-day motorbike movement restrictions, we have limited our services to matchmaking,drug information, and medical consultation only.\n\nN.B. \n🔅We will make deliveries for those for whom the medications are urgent.\n🔅You can book deliveries starting from Monday, February 13, 2023",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2023-02-10 12:22:53+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerUser",
+          "user_id": 339373129
+        },
+        "from_name": null,
+        "channel_post": null,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5994407541049769840,
+          "access_hash": -2656007110244478699,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00ajC\\xa7\\xb9&\\xde\\x9bu\\xd3\\xebN:\\x00|\\x98\\xce\\x81K\\xdb\\x8b'",
+          "date": "2023-02-10 12:22:53+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd7;\\xb208\\xefN\\xa2\\xaa\\xdd\\\\\\x08\\xe3eG\\xc4\\x98\\xe3\\x8c\\xe2\\x816\\x96\\xe4\\xe6DW\\x08X\\x06# {Uy\\xafUx\\x8b\\xe6>\\xbd\\xab6I\\xdevG\\x94\\x8c\\xaf@\\xa2\\x8d\\xdc\\xf3\\xd3\\xb5RFS\\xa8\\xf6D\\x8f#H\\xd9s\\x93E7\\xad\\x15G;\\xbb/^I4jH\\x1bc\\x1f\\xc4*\\x87\\x12\\x01\\xcf\\x06\\xac\\xdd\\t\\xee\\x8b\\xc0\\xa3\\x18\\xc1\\xc1\\xe3\\x14\\x96\\x962\\xacL$\\x01[<\\x0c\\xe4\\x1f\\xadBgL\\xe1}H|\\x91\\xfeA\\xa3\\xc9\\x03\\xa7\\xf5\\xa9]Z3\\x87\\x8c\\x01\\xeb\\x8an\\xf1\\xe8?*\\xa3\\x11\\x856\\x8fo\\xa5\\x14\\xa5\\xf21\\xb5h\\xa6C\\xb1\\xad\\xe5\\xaf\\x9b\\xe6\\x7f\\x166\\xfe\\x14\\xfa(\\xac\\xce\\xe1\\xac\\xa1\\xd4\\x86\\x00\\x83\\xd8\\xd59\\xac\\xbf\\x8a/\\xfb\\xe4\\xd1E;\\x93(\\xa9nSe(\\xc40 \\x8e\\xd4QEY\\xc8\\xf4g'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 20074
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 67251
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                9789,
+                26401,
+                43844,
+                59784,
+                84627
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 2,
+          "length": 8
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 178,
+          "length": 6
+        }
+      ],
+      "views": 1424,
+      "forwards": 2,
+      "replies": null,
+      "edit_date": "2023-03-11 15:41:17+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 3,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

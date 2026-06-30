@@ -1,0 +1,115 @@
+[
+  {
+    "message_id": 91,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-26T18:27:53+00:00",
+    "message_text": "Che-Med Trivia #1\nThe U.S. pharmaceutical industry is the largest in the world, making up about 40% of the worldwide drug development, manufacturing, and revenue generation. And half of the world’s top 10 pharmaceutical companies are in America, including the headquarters for Johnson & Johnson, Pfizer, Merck and Co., AbbVie, Eli Lilly and Co., and Abbott Laboratories. In fact, Johnson & Johnson’s revenue alone reached $82.6 billion in 2020.",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/91.jpg",
+    "views": 638,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 91,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-26 18:27:53+00:00",
+      "message": "Che-Med Trivia #1\nThe U.S. pharmaceutical industry is the largest in the world, making up about 40% of the worldwide drug development, manufacturing, and revenue generation. And half of the world’s top 10 pharmaceutical companies are in America, including the headquarters for Johnson & Johnson, Pfizer, Merck and Co., AbbVie, Eli Lilly and Co., and Abbott Laboratories. In fact, Johnson & Johnson’s revenue alone reached $82.6 billion in 2020.",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5951853739520407777,
+          "access_hash": -8763929202096156437,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00[jC\\xa7\\xb9\\xdb\\xd9\\xce>@\\x91\\xe7\\xe7\\xab\\xfb\\xab\\xa3\\x9f\\xcc,\\xc5'",
+          "date": "2023-01-26 18:27:52+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((N6\\xfb\\xd2QH$\\xdaN3\\x9e\\x9d*\\xdf\\x91\\xc4\\xb5\\x16\\x8aEl\\xfa\\xd3\\xf8)\\xd3\\x9c\\xf5\\xa6!\\x0fSE\\x0c9\\xcfcE\\x00\\xc0c\\xbd\\x06(\\xc9'\\x07\\xf3\\xab\\x1fb\\x93\\xfb\\xcbG\\xd9d\\x07\\x1eb\\x83\\xf5\\xa5sE\\tv \\x08\\x8b\\xc0\\xcf\\xe7J\\xbf{\\x83\\xc5Jm_\\xa9t\\xfc\\xe9E\\xab\\x8e\\x8e\\x94]\\x07$\\xbb\\x10?\\\\~\\xb4T\\xcde#8l\\xaf\\x14Qt\\x0e\\x9c\\xbb\\x16\\xd9\\x9c9\\xc2\\xe4c\\x8f~=i\\x84\\xcaI&\\xd8\\x7f\\xdfB\\x8a*Y\\xd2\\x98\\x93\\x12\\x98\\xdb\\x1a\\xfa\\xe7ny\\xa9#.b\\r\\xe5\\xa8oa\\x8a(\\xa1\\xad\\x04\\x9b\\xb8\\xe4is\\x86Q\\xf5\\xa2\\x8a)\\x16\\x7f\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 22936
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 74412
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                10418,
+                30515,
+                51313,
+                65603,
+                98460
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 18
+        },
+        {
+          "_": "MessageEntityUnderline",
+          "offset": 0,
+          "length": 18
+        }
+      ],
+      "views": 638,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": "2023-01-26 18:29:26+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "message_id": 71,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-30T15:45:35+00:00",
+    "message_text": "Che-Med at Smart city symposium, National science museum.\n \nLike share and subscribe our tiktok vlog.\n👇👇👇👇👇👇👇👇👇👇👇👇👇\nhttps://vm.tiktok.com/ZMFcHq5Xk/",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/71.jpg",
+    "views": 15080,
+    "forwards": 4,
+    "raw": {
+      "_": "Message",
+      "id": 71,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-30 15:45:35+00:00",
+      "message": "Che-Med at Smart city symposium, National science museum.\n \nLike share and subscribe our tiktok vlog.\n👇👇👇👇👇👇👇👇👇👇👇👇👇\nhttps://vm.tiktok.com/ZMFcHq5Xk/",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5870831852951026374,
+          "access_hash": 4019669382088038338,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00GjC\\xa7\\xb9\\x93\\x1f\\xf0\\x95\\xd3zE\\xd1M\\xa6deob\\xdb$'",
+          "date": "2022-12-30 15:45:35+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01(\\x12\\x90i\\x11\\x81\\x8d\\x83\\xf3\\xa0i\\x11\\xff\\x00p~ut]FP\\xb1p0psU\\xad\\xf5\\x02\\xf32\\xbe\\x02\\x8ezP\\x04\\x7f\\xd9\\x11\\xff\\x00t~tU\\xdf\\xb4\\xc7\\xfd\\xf1E;\\x01J\\xe6(\\xd2\\x06*0~\\xb4\\xcb\\x15S\\xbd\\x8f\\xae\\x07=\\xaaI\\\\yM\\x9eF)\\xb1\\x14U\\xf9:\\x13H\\x0b&4\\xcf\\xde\\x14TM'\\xccy\\xef\\xea(\\xa0\\x0c\\xf3r\\x84\\x1f\\x9b\\xa0\\xcd#J#b\\xb9\\x00\\x8fC\\x9a(\\xa0\\x06\\xfd\\xa4\\x7f\\x7f\\xf4\\xa2\\x8a)\\x81\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 144,
+              "h": 320,
+              "size": 16674
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 360,
+              "h": 800,
+              "size": 72479
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 576,
+              "h": 1280,
+              "sizes": [
+                11404,
+                32740,
+                59718,
+                101179,
+                135486
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 129,
+          "length": 32
+        }
+      ],
+      "views": 15080,
+      "forwards": 4,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

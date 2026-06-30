@@ -1,0 +1,28 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    description: Raw landing zone loaded directly from the Telegram data lake JSON files.
+    tables:
+      - name: telegram_messages
+        description: One row per scraped Telegram message, exactly as extracted by Telethon.
+        columns:
+          - name: message_id
+            description: Telegram message ID (unique within a channel, not globally).
+          - name: channel_name
+            description: Username of the source Telegram channel.
+          - name: message_date
+            description: Timestamp the message was posted, as reported by Telegram.
+          - name: message_text
+            description: Raw text content of the message.
+          - name: has_media
+            description: Whether the message contained any media attachment.
+          - name: image_path
+            description: Relative path to the downloaded image, if any.
+          - name: views
+            description: View count at scrape time.
+          - name: forwards
+            description: Forward count at scrape time.
+          - name: raw_payload
+            description: Full original Telethon message payload, preserved as JSONB.

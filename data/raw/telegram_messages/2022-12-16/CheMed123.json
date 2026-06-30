@@ -1,0 +1,125 @@
+[
+  {
+    "message_id": 52,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-16T12:21:01+00:00",
+    "message_text": "The First pharmacy in Addis Ababa\n\nIn the early 20th century, Paul Merab (real name, Petre Merabishvili) was the personal physician of Emperor Menelik II and opened the very first pharmacy in Addis. He was born in 1876 in Ude, South Georgia in a Roman Catholic community.\n\nIn 1910 Paul Merab founded the first pharmacy in Addis Ababa which he called Pharmacies de la Georgie (after the country of his birth).",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/52.jpg",
+    "views": 1158,
+    "forwards": 4,
+    "raw": {
+      "_": "Message",
+      "id": 52,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-16 12:21:01+00:00",
+      "message": "The First pharmacy in Addis Ababa\n\nIn the early 20th century, Paul Merab (real name, Petre Merabishvili) was the personal physician of Emperor Menelik II and opened the very first pharmacy in Addis. He was born in 1876 in Ude, South Georgia in a Roman Catholic community.\n\nIn 1910 Paul Merab founded the first pharmacy in Addis Ababa which he called Pharmacies de la Georgie (after the country of his birth).",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5827756981694350132,
+          "access_hash": -7169401817483830963,
+          "file_reference": "b\"\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x004jC\\xa7\\xb9\\x06\\xa3\\x1fZa\\xfe\\xf7*\\xa6\\xd2B\\x07\\xb7\\xfb,'\"",
+          "date": "2022-12-16 12:21:01+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xcbT\\xdc\\xacy\\xcfl\\x0e\\xb5\\x19\\x18<\\xd4\\x9b\\x1c\\x8e\\x01\\xa6\\x98\\xdc\\xf3\\xb4\\xd0\\x03+V\\xda\\x0b}\\xbb\\xd4\\xa9?\\xeft\\xac\\xf8\\xa1i%\\xf2\\xf8S\\xdc\\x9e\\x82\\xac\\x08\\xa4\\xb6\\x91\\x908\\xf7\\xc8\\xe2\\x8b\\x93$\\xda\\xd0\\xb1{\\x04?eiG\\xdf\\x1d\\r\\x15Vo6E9`Tv\\x14P\\xd8EYY\\x8c\\x18\\n7)<q\\x80)\\x87\\x7f\\xf7G\\xfd\\xf2)C\\xb2\\xf4b)\\xbb\\xdf\\xd4\\xd0=I \\x91\\xe2\\x948\\x00\\x121\\xd2\\xac\\xb3\\xb1\\x90\\tNI#5R9?z\\x9ec\\x1d\\x80\\xf3V&\\x9a&\\xb9\\xf3\\x15\\xf2\\xb9\\xe9\\x83I\\x8d\\x16e+\\x1a\\r\\xa39\\x14UInU\\x81\\xe7\\xa7A\\x8a)\\x0c\\xb9\\x04\\xd6B\\x14\\x12\\x18w\\x01\\xcea\\xc9\\xcf\\xd6\\x9f\\xe7\\xd8\\x7fz\\x0f\\xfb\\xf0h\\xa2\\xa8B\\x8b\\x8d0gx\\x84\\xfd!?\\xe1D\\x97:Y\\x8d\\xb6,[\\xb1\\xc7\\xee\\xbf\\xfa\\xd4Q@\\x14\\xeeg\\xb6h\\x1dc\\x11\\xee?t\\x84\\xc1\\xeb\\xf4\\xa2\\x8a(\\x03'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 24913
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 86597
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                14769,
+                92827,
+                98864
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 35
+        }
+      ],
+      "views": 1158,
+      "forwards": 4,
+      "replies": null,
+      "edit_date": "2022-12-16 12:39:02+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 3,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

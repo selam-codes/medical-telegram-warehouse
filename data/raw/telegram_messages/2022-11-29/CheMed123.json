@@ -1,0 +1,115 @@
+[
+  {
+    "message_id": 38,
+    "channel_name": "CheMed123",
+    "message_date": "2022-11-29T07:43:06+00:00",
+    "message_text": "የኢንሱሊን ሲሪንጅ በቅናሽ ከChe-Med ይዘዙ። ካሉበት ቦታ ሆነው ይዘዙ ያሉበት ቦታ እናደርስልዎታለን።\n\nwww.chemeds.org\n+251912603463",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/38.jpg",
+    "views": 1179,
+    "forwards": 10,
+    "raw": {
+      "_": "Message",
+      "id": 38,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-11-29 07:43:06+00:00",
+      "message": "የኢንሱሊን ሲሪንጅ በቅናሽ ከChe-Med ይዘዙ። ካሉበት ቦታ ሆነው ይዘዙ ያሉበት ቦታ እናደርስልዎታለን።\n\nwww.chemeds.org\n+251912603463",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5778261005481131108,
+          "access_hash": 1438390756707532643,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00&jC\\xa7\\xb9[\\xadm.\\xa1\\x85c\"\\xf2\\x00@?!\\x9e\\xd5G'",
+          "date": "2022-11-29 07:43:06+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01!(\\xa7\\x1af\\xa51\\xf1O\\xb7\\x89Z0\\xdb\\xf2\\xdd\\x91FMH\\xe4'\\x07\\n}:\\x9a\\xa1\\x14$Z\\x8e\\xad\\xba\\x17\\x90\\x806\\x93\\xfd\\xee\\xb4\\xf8\\xac\\xa3\\x92=\\xc3\\xcdop8\\xa9\\xe6\\xb1N:\\x15\\xd1\\xc2\\xe3\\x06\\x8a\\x88\\x82\\x8cA\\x04\\x11\\xebEQ$\\xf6\\xb3\\xecm\\xa5\\xdc!\\xea\\x13\\xa9\\xab[D\\xa0yD '\\xee\\x8eX}MJ4\\xf8bc\\xfceF~bG\\xf2\\xa9\\xe3\\x90 \\x01DJ;\\x00\\x08\\xc5+\\x85\\x8c\\xb9\\x8a\\x86\\xf2\\xd1J\\xa8\\xe4\\x96\\x1c\\xb59%\\x98\\x00\\xa9(\\xe3\\xa0\\x08+BvI\\xe2)&\\xc3\\x9eF3\\x91Q\\xc5\\xa4\\xacr\\x8731\\x03\\xb0\\x18\\xa0f\\\\\\xa8\\xe0\\x96m\\xc4\\x9e\\xa7\\x18\\xa2\\xb7g\\xb3\\x8ah\\x8ar\\xbe\\x84\\x1a)\\xdcD\\xfd\\xe9h\\xa2\\xa4aE\\x14P\\x01E\\x14P\\x07\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 268,
+              "size": 23529
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 671,
+              "size": 93464
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 940,
+              "h": 788,
+              "sizes": [
+                10153,
+                25101,
+                51079,
+                77125,
+                103251
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 68,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 84,
+          "length": 13
+        }
+      ],
+      "views": 1179,
+      "forwards": 10,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

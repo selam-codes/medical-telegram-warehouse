@@ -1,0 +1,132 @@
+[
+  {
+    "message_id": 30,
+    "channel_name": "CheMed123",
+    "message_date": "2022-11-09T08:53:25+00:00",
+    "message_text": "የ24 ሰዓት የመድሀኒት ዴሊቨሪ አገልግሎት ከ CheMed\n\nwww.chemeds.org\n0912603463",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/30.jpg",
+    "views": 443,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 30,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-11-09 08:53:25+00:00",
+      "message": "የ24 ሰዓት የመድሀኒት ዴሊቨሪ አገልግሎት ከ CheMed\n\nwww.chemeds.org\n0912603463",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 6005813569733638038,
+          "access_hash": 2433356604363041023,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x1ejC\\xa7\\xb9\\x0b\\xa9\\xf3\\xcd\\xd9\\x87\\xbe\\x89\\x9b&\\x9c_8\\x15\\t\\xdd'",
+          "date": "2022-11-09 08:53:25+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01!(\\xc8\\xa9\\xd2\\x16\\x966\\x91B\\xfc\\xa3$T#\\xa8\\xe9\\xf8\\xd6\\x82\\xaf\\x97k\"E\\x9d\\xce3M\\x92\\xda[\\x99\\xf9\\x01\\x81\\xda8\\xedJ\\xa0\\xb9\\n\\x89\\x92{\\n\\xb9\\x0e\\x9c%\\x85d\\xf3\\x08\\xc8\\xce1H7BDi\\'\\x94\\x00$\\xb88-\\x82@\\xfe])&\\x99V\\xb1H\\x82\\xa4\\x820Gj*I\\xc0\\x12\\xb6\\x1f\\x7f\\xabz\\xd1T\\x02:\\xeclw\\xab\\xf1\\x10\\xd1/\\xa8\\x15M\\x98;\\x12Xg\\xe9Q\\xa1&E\\x00\\xe3$Rfs\\x8f2%\\x13L\\\\/\\x98\\xcb\\x93\\x8e8\\xa9^\\x13\\x1e\\x15\\xa4G\\x04\\xf4?\\xc2i\\x93(3\\xae\\x18\\x03\\xeex\\xa5\\xef\\x80\\xf1\\x03\\xeb\\x93\\xc7\\xf9\\xcd2\\xd6\\xc4N\\x83n\\xe0\\xcb\\xf4\\x14S\\xdc\\x9d\\x84\\x03\\x161\\xda\\x8a\\x00\\x82\\x90}\\xea(\\xa4\\xc6)\\xebE\\x14U\\x08(\\xa2\\x8a\\x00'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 268,
+              "size": 20427
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 671,
+              "size": 68594
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 940,
+              "h": 788,
+              "sizes": [
+                8793,
+                20688,
+                38515,
+                55358,
+                74529
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 37,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 53,
+          "length": 10
+        }
+      ],
+      "views": 443,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": "2022-11-09 08:55:24+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

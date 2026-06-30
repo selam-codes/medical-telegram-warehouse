@@ -1,0 +1,157 @@
+[
+  {
+    "message_id": 77,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-04T05:58:02+00:00",
+    "message_text": "Nature Made Vitamin supplements\n\nChe-Med በደምበኞቻችን ፍላጎት መሰረት Nature made vitamin supplement ይዞላችሁ መጧል።\n\nበቁጥር ውስን ስለሆኑ ቀድመው ይዘዙን።\n\nለማዘዝ፦\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\n\nFollow our channel and stay tuned\nhttps://t.me/CheMeds\n\nChe-Med the best way to find your meds!",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/77.jpg",
+    "views": 13789,
+    "forwards": 7,
+    "raw": {
+      "_": "Message",
+      "id": 77,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-04 05:58:02+00:00",
+      "message": "Nature Made Vitamin supplements\n\nChe-Med በደምበኞቻችን ፍላጎት መሰረት Nature made vitamin supplement ይዞላችሁ መጧል።\n\nበቁጥር ውስን ስለሆኑ ቀድመው ይዘዙን።\n\nለማዘዝ፦\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\n\nFollow our channel and stay tuned\nhttps://t.me/CheMeds\n\nChe-Med the best way to find your meds!",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5884429508956764897,
+          "access_hash": -2394510888102864656,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00MjC\\xa7\\xb9\\t\"\\xc9\\xca\\xe0\\xec4E\\xa8\\x07\\x1dR!\\xa5LG'",
+          "date": "2023-01-04 05:58:02+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xb9Mg+\\xca`\\xb0=\\r\\x12M\\x1cX\\xdf\\xde\\xa3\\xf3-\\xa4\\xf9\\xc9\\x03'\\x1c\\xd7\\x9f\\x14\\xd6\\xb66%\\x12]\\x1c\\xb0\\xdaG\\xa7\\x18\\xfeuqNG8\\xcfp*\\x88\\x92\\x15\\x02BF\\xcfZ\\xb1\\x14\\x90\\xf9bT\\xc0S\\xc6k\\xae\\x13Mjg$L3\\xb8\\xfaQB8u\\x05NA\\xa2\\xb5\\xdc\\x93>HVF\\x0cN\\x08\\x1e\\x99\\xa8\\xbe\\xc8\\xad\\x9d\\xa4\\x12:\\xe4\\x11R4\\x9b$\\x07\\x0c>\\x835\\x1aN\\xe0\\x92C\\x9c\\x8fJ\\xe6\\x83\\x95\\xadr\\xe5\\xa7A~\\xc61\\x8c\\xaeG=N1G\\xd9@R\\xa4\\xe7<\\x90\\t\\xa6+\\xcc\\x1f+\\x19bz\\xe4\\xe2\\xa6\\x8e+\\x87;\\x8a(=\\xb2kE\\xcc\\x17V-\\xd9\\xa0H\\x02\\x8e\\x80\\x9a)\\xd6\\xea\\xe8\\x98\\x93\\x19\\xceh\\xad\\x11\\x0c\\xa4\\xdea\\x90\\xed\\xe9\\xc6)ci\\x0b\\x00\\xca1\\x8eN;\\xd1Ep9i\\xb1\\xafR\\xccX-\\xb4\\x8c\\x83UZy\\x81\\xf9md\\x03\\xd0\\x13\\xff\\x00\\xc4\\xd1EuPo\\x94\\x89n:\\xdeiL\\xe8\\x1e\\x19\\x11\\x7f\\xbc\\xc4\\xe0\\x7f\\xe3\\xa2\\x8a(\\xad\\x89?\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 31822
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 117346
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                15876,
+                45754,
+                85432,
+                109441,
+                158468
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 33
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 150,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 151,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 151,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 183,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 201,
+          "length": 6
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 241,
+          "length": 20
+        }
+      ],
+      "views": 13789,
+      "forwards": 7,
+      "replies": null,
+      "edit_date": "2023-01-06 06:19:29+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 2,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

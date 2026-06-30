@@ -1,0 +1,104 @@
+[
+  {
+    "message_id": 44,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-04T12:35:18+00:00",
+    "message_text": "",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/44.jpg",
+    "views": 377,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 44,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-04 12:35:18+00:00",
+      "message": "",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5794031274988518047,
+          "access_hash": -1563944445209615032,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00,jC\\xa7\\xb9q0\\xbd,\\x01#\\xc6\\x89\\xb3s\\x11DrG\\x1f\\x88'",
+          "date": "2022-12-04 12:35:18+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01\\x17(\\xd5'\\x18\\xa1\\x9dQr\\xe4\\x01\\xefL\\x96x\\xe2\\x1f1\\xe7\\xd2\\xb2\\xae\\xae\\xfe\\xd0\\xe3\\x03\\xe5\\x1d\\x05\\x0c\\x12\\xb9\\xa6\\x18\\xdc\\x02`\\x97h^\\xe0\\x03\\x9at>`\\x0c%eb\\x0e\\x01Q\\x8c\\xd4h\\x05\\xad\\xa7\\xde\\x04\\xaa\\xe7\\xeai\\x10\\xa2\\xa2\\xf9\\xa7\\x0e\\xd98$g\\x93@\\x16\\xa8\\xa8?u\\x9c\\x0e\\xb4P#\\x05\\xa5,\\xc6\\xaei\\x90G6\\xf3*\\xe7\\x18\\xc74QH\\xa2[\\xd6D\\x91Q\\x14\\x00\\xb9\\x18\\x03\\xbe*\\xdd\\x9c\\xa1\\xedS\\xa9 `\\xd1E%\\xb8\\xde\\xc2\\xbc\\xac\\x08;\\x18\\x0f\\xa8\\xa2\\x8a*\\x89?\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 180,
+              "size": 14044
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 451,
+              "size": 53564
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1280,
+              "h": 721,
+              "sizes": [
+                11798,
+                27215,
+                44143,
+                69191,
+                94951
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 377,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

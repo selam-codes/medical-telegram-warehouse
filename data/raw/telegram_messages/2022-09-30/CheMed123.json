@@ -1,0 +1,110 @@
+[
+  {
+    "message_id": 15,
+    "channel_name": "CheMed123",
+    "message_date": "2022-09-30T07:33:42+00:00",
+    "message_text": "For more information contact our pharmacists at 0912603463\n\nYou can still schedule orders and get information about medications.",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/15.jpg",
+    "views": 487,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 15,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-09-30 07:33:42+00:00",
+      "message": "For more information contact our pharmacists at 0912603463\n\nYou can still schedule orders and get information about medications.",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5886651153805065204,
+          "access_hash": -7577369697927206411,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x0fjC\\xa7\\xb9\\x93\\x8f\\xd7\\x0f\\xcc5a/\\xcd\\xe9\\xfe#c\\xb9\\xdc\\xe8'",
+          "date": "2022-09-30 07:31:13+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\x14\\x0c\\x12z\\x0e\\xd4e\\x7f\\xb9\\xfa\\xd0?\\xd5\\x9f\\xa8\\xfe\\xb4\\x83\\xeb\\x8a\\xd0\\xe2\\x1d\\x81\\xfd\\xcf\\xd6\\x90\\x90?\\x83\\xf5\\xa3?\\xed\\nC\\xf5\\xcd\\x00+\\x01\\x80GC\\xda\\x8a\\x0f\\xfa\\xb1\\xf5?\\xd2\\x8a\\x00\\x07\\xdc?Q\\xfdiA$\\xe0d\\x9f\\xad \\xff\\x00V\\xdfQO\\x85\\x15\\x95\\xc9p\\xa4\\x0e\\x87\\xbd&5\\xab\\x17c\\xfa7\\xebL$\\x83\\x82\\x18~4\\x00\\x07B\\x83\\xfe\\x03\\xff\\x00\\xd6\\xa6\\x9aK\\x9b\\xa8\\xe5\\xcb\\xd0S\\xf7\\x07\\xd4\\xff\\x00J(?\\xea\\xd7\\xeah\\xaa$@H9\\x07\\x06\\x97\\xccoZ(\\xa0W\\xb0ez\\xe3\\xe6\\xfd(\\xde\\xfe\\xb4Q@\\\\W\\xe7\\x9fny\\xa2\\x8a(\\x06\\x7f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 18946
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 69432
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                9772,
+                27580,
+                48118,
+                62531,
+                89831
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityPhone",
+          "offset": 48,
+          "length": 10
+        }
+      ],
+      "views": 487,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": "2022-09-30 08:03:16+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

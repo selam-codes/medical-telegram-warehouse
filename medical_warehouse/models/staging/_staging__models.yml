@@ -1,0 +1,34 @@
+version: 2
+
+models:
+  - name: stg_telegram_messages
+    description: >
+      Cleaned, standardized Telegram messages. Casts types, drops records with no
+      date or no usable content, and adds calculated fields (message_length, has_image).
+    columns:
+      - name: message_id
+        description: Telegram message ID, scoped to its channel.
+        data_tests:
+          - not_null
+      - name: channel_name
+        description: Source channel username.
+        data_tests:
+          - not_null
+      - name: message_date
+        description: Timestamp the message was posted.
+        data_tests:
+          - not_null
+      - name: message_text
+        description: Cleaned message text content.
+      - name: has_media
+        description: Whether the message contained media.
+      - name: image_path
+        description: Relative path to the downloaded image, if any.
+      - name: views
+        description: View count, coalesced to 0.
+      - name: forwards
+        description: Forward count, coalesced to 0.
+      - name: message_length
+        description: Character length of message_text.
+      - name: has_image
+        description: True if an image was downloaded for this message.

@@ -1,0 +1,122 @@
+[
+  {
+    "message_id": 18,
+    "channel_name": "CheMed123",
+    "message_date": "2022-10-06T09:23:46+00:00",
+    "message_text": "በቀን ሁለት ጊዜ፣ ሶስት ጊዜ ወይም አራት ጊዜ መድሃኒት ሲታዘዝልን አንዴት መዉሰድ ይኖርብናል? \n\n\nwww.chemeds.org \n0912603463",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/18.jpg",
+    "views": 479,
+    "forwards": 3,
+    "raw": {
+      "_": "Message",
+      "id": 18,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-10-06 09:23:46+00:00",
+      "message": "በቀን ሁለት ጊዜ፣ ሶስት ጊዜ ወይም አራት ጊዜ መድሃኒት ሲታዘዝልን አንዴት መዉሰድ ይኖርብናል? \n\n\nwww.chemeds.org \n0912603463",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5906958631058913399,
+          "access_hash": 60575096388842042,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x12jC\\xa7\\xb9\\xd8\\xd3K\\xbc\\x8f\\xde\\x95\\x02\\x03\\x01eB\\x14\\x17\\xc0\\xb7'",
+          "date": "2022-10-06 09:23:46+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01!(\\xa0\\xa8H$\\x0e\\x05(\\xab6\\xe6\\xd4E\\x99FXu\\x18\\xce~\\x95\\\\\\x15\\xc0\\xf9O\\xe5Vea\\xe8\\x01<\\xf0*@\\x17x\\xc7N\\xfc\\xd41\\x03\\xcf\\x07\\xf2\\xa9\\x80>\\x94\\x10\\xdd\\xb4%p\\x80|\\xb8\\xcd\\x14\\xdd\\xb8\\x00\\xfa\\xd1L\\xcd\\xb2\\xbaFYI\\x00\\x9cz\\nAZVP\\xcf\\xe5\\x0f\\xdd\\xa2\\xe3\\xee\\x97\\x1c\\xd3F\\x97(\\x18\\xf3\\x13\\xf257:9nV\\x85\\xc2\\x83\\x9a\\x93\\xcc\\x04t\\xabPZ\\xcbk\\x1b\\r\\xdb\\xcb\\x1e\\xc350O\\x95H\\n\\xad\\x8er\\xa34\\\\\\x87L\\x8c/\\xda\\x14\\x85B\\xa0\\x9c\\xee=\\xbe\\x94U\\x88\\xcb\\x86\\xf9\\x9c\\x11\\xe8(\\xa4Z\\x82{\\x93QE\\x14\\x8d\\x02\\x93\\xf8\\xbf\\n(\\xa0\\x05\\xa2\\x8a(\\x03'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 268,
+              "size": 23836
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 671,
+              "size": 95556
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 940,
+              "h": 788,
+              "sizes": [
+                9681,
+                26349,
+                53323,
+                73950,
+                101922
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 64,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityPhone",
+          "offset": 81,
+          "length": 10
+        }
+      ],
+      "views": 479,
+      "forwards": 3,
+      "replies": null,
+      "edit_date": "2022-10-07 10:28:34+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

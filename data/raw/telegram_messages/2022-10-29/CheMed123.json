@@ -1,0 +1,104 @@
+[
+  {
+    "message_id": 29,
+    "channel_name": "CheMed123",
+    "message_date": "2022-10-29T20:26:28+00:00",
+    "message_text": "",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/29.jpg",
+    "views": 539,
+    "forwards": 2,
+    "raw": {
+      "_": "Message",
+      "id": 29,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-10-29 20:26:28+00:00",
+      "message": "",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5969961235740998606,
+          "access_hash": 6648146521988546339,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x1djC\\xa7\\xb9\\x0c\\x81\\xc0\\xc7\\xb8\\x90\\x8f\\xc4O\\xe1UB\\x14v\\xdf\\xf1'",
+          "date": "2022-10-28 13:01:23+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01(\\x1cs\\x13\\xb4\\xe3\\x93\\xda\\x98\\xbe`\\xff\\x00XT\\xfd\\r2\\xe9\\xde5\\x1c`\\x1e\\xf4\\xb06\\xe0\\x01\\xe7\\x1e\\xa6\\xab\\xd0\\xc2\\xd6\\x8e\\xa5\\xebYU\" \\xb0\\x07vj\\xbd\\xcb\\x07\\x9d\\x99H \\xe3\\xf9R\\xfe\\xec\\xf6_\\xfb\\xea\\xa2\\x93\\x1b\\xce1\\xf8\\x1av!\\xc9\\xda\\xc4\\xeb\\x043\\xe1\\xe4]\\xc7\\xb74\\xc9\\xed\\xe3\\x84o\\x8f*3\\x82:\\xd0\\'\\x11\\x92K\\x00\\xbd\\xa9\\x93],\\x91f>H<\\xfeU\\x92\\xb9\\xd7+1\\xd1m\\x0b\\xd07\\xbfJk\\x91\\xbc\\xf0\\x07\\xe3M\\x8aW\\x12*D\\xdc?84\\xb2\\xb1\\xf3\\x0e\\xf2\\x0b{V\\x89\\x9c\\xb3\\x83/\\xb5\\x9c\\x05\\xc01\\x02\\xb4\\xef\\xb0\\xdb\\xaa\\xfc\\xb0\\x8a(\\xa9:l5-\"C\\x95\\xb7\\xda}s\\xff\\x00\\xd7\\xa7\\x8bXXe\\xe3\\xe7\\xdc\\xff\\x00\\xf5\\xe8\\xa2\\x80\\xb1'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 226,
+              "h": 320,
+              "size": 22441
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 566,
+              "h": 800,
+              "size": 86371
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 905,
+              "h": 1280,
+              "sizes": [
+                18161,
+                46751,
+                70818,
+                104490,
+                145001
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 539,
+      "forwards": 2,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

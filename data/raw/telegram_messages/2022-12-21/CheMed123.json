@@ -1,0 +1,145 @@
+[
+  {
+    "message_id": 57,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-21T15:13:27+00:00",
+    "message_text": "Please follow our tiktok channel\nhttps://vm.tiktok.com/ZMFnaVcq2/",
+    "has_media": true,
+    "image_path": null,
+    "views": 1293,
+    "forwards": 5,
+    "raw": {
+      "_": "Message",
+      "id": 57,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-21 15:13:27+00:00",
+      "message": "Please follow our tiktok channel\nhttps://vm.tiktok.com/ZMFnaVcq2/",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2022-12-21 15:12:55+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerUser",
+          "user_id": 376955035
+        },
+        "from_name": null,
+        "channel_post": null,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaWebPage",
+        "webpage": {
+          "_": "WebPage",
+          "id": 7536475596643577619,
+          "url": "https://vm.tiktok.com/ZMFnaVcq2/",
+          "display_url": "tiktok.com/@chemed_official/video/7179617653093403909?_t=8YMjYvfaxFd&_r=1",
+          "hash": 0,
+          "has_large_media": true,
+          "type": "photo",
+          "site_name": "TikTok",
+          "title": "Che-Med on TikTok",
+          "description": "በ9798 በመደወል ያግኙን_Che-Med #ethiopian_tik_tok #habeshatiktok #fypethiopia #adissabeba #tiktokethiopia #ethiopia #fyp #viral",
+          "photo": {
+            "_": "Photo",
+            "id": 5910227277264826262,
+            "access_hash": 8623935276924794529,
+            "file_reference": "b'\\x00jC\\xa7\\xb9T<\\xc6#D\\xf4\\x06]O?\\xcbD%\\x078N'",
+            "date": "2023-01-12 12:42:25+00:00",
+            "sizes": [
+              {
+                "_": "PhotoStrippedSize",
+                "type": "i",
+                "bytes": "b'\\x01\\x17(\\xad\\xfc\\x14\\xebq\\x99@\\xfa\\xff\\x00*`?->\\xd4\\xe2\\\\\\xd2\\x19z\\t?\\xe5\\x9b\\x1c\\xe4\\x0c\\xd5[\\x9c\\x0b\\x96\\xfa\\xd4\\xd10\\xdd\\x80\\x8c\\x1b\\xaeMW\\xb8\\xe6\\xe1\\x89\\xeajvc\\x1aH\\x00\\x1c\\xd1QM\\xcaQN\\xe2\\xb0\\x12BS\\xed\\x03}\\xa1I\\xe9\\xcfz(\\xaa\\x0e\\xa6\\x98\\xeb\\x93\\xf4\\xaa\\x17\\x0735\\x14R\\x02\"3E\\x14R\\x03'"
+              },
+              {
+                "_": "PhotoSize",
+                "type": "m",
+                "w": 320,
+                "h": 180,
+                "size": 14494
+              },
+              {
+                "_": "PhotoSize",
+                "type": "x",
+                "w": 800,
+                "h": 450,
+                "size": 59355
+              },
+              {
+                "_": "PhotoSize",
+                "type": "y",
+                "w": 1280,
+                "h": 720,
+                "size": 84493
+              }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+          },
+          "embed_url": null,
+          "embed_type": null,
+          "embed_width": null,
+          "embed_height": null,
+          "duration": null,
+          "author": null,
+          "document": null,
+          "cached_page": null,
+          "attributes": []
+        },
+        "force_large_media": false,
+        "force_small_media": false,
+        "manual": false,
+        "safe": true
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 33,
+          "length": 32
+        }
+      ],
+      "views": 1293,
+      "forwards": 5,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

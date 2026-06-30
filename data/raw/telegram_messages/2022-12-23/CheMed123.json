@@ -1,0 +1,141 @@
+[
+  {
+    "message_id": 60,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-23T06:26:15+00:00",
+    "message_text": "ቀጠሮ ያስይዙ!\nበ ጥሪ ማዕከላችን 9798 በመደወል የዕንቅርት ህመም መቆጣጠርያ መድሃኒት በየወሩ ለማስመጣት Che-Med ላይ ይመዝገቡ። እኛ ወሩን ጠብቀን መድሃኒትዎን በርዎ ድረስ እናደርሳለን።\n\nChe-Med is the best way to find your meds!\n\n*****\nFollow our telegram channel\nhttps://t.me/CheMed123\n👆👆👆👆👆👆👆👆👆",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/60.jpg",
+    "views": 379,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 60,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-23 06:26:15+00:00",
+      "message": "ቀጠሮ ያስይዙ!\nበ ጥሪ ማዕከላችን 9798 በመደወል የዕንቅርት ህመም መቆጣጠርያ መድሃኒት በየወሩ ለማስመጣት Che-Med ላይ ይመዝገቡ። እኛ ወሩን ጠብቀን መድሃኒትዎን በርዎ ድረስ እናደርሳለን።\n\nChe-Med is the best way to find your meds!\n\n*****\nFollow our telegram channel\nhttps://t.me/CheMed123\n👆👆👆👆👆👆👆👆👆",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2022-12-23 06:25:47+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerUser",
+          "user_id": 376955035
+        },
+        "from_name": null,
+        "channel_post": null,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5848294540346243993,
+          "access_hash": 3262903951505502867,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00<jC\\xa7\\xb9\\x08\\xa8H\\x13\\xb2\\x0f4\\xe2\\xd3\\xab\\xfcx9\\xb0\\\\\\xea'",
+          "date": "2022-12-23 06:25:47+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd9\\xe9TuK\\x7f\\xb4\\xda\\xfe\\xef\\xe6t9\\x00w\\xa5\\x98\\x9f<\\x8d\\x8cy\\xeb\\xcdC(\\xc4d\\xedl\\x8f\\xf6\\x8d\\x00a\\x81\\xf3\\x00Gz\\xb8c\\xb6`HGS\\x8e\\x01q\\x8au\\xdcN\\xe6&#\\xe5-\\xb7>\\x94\\xac\\xa9\\x1c\\x9b\\x0c\\x99\\x00\\x13\\x85Q\\xc6=q\\xf4\\xa6\"\\t\\x12\\x11\\x1b\\x15W\\xdc\\x0f\\x19`F(\\xa5p\\xcd\\x1c\\x99n\\x15\\x03}\\xd1\\xceH\\xff\\x00\\x1a)\\x81\\xbc\\xff\\x00|\\xfdj\\xa4\\xd7\\n\\xd2\\x08\\x90\\xe7\\xb9\\xa7=\\x98\\x96Wm\\xce\\xa4\\xb18#\\x8ad\\xf6\\xf0\\xed \\xfe\\xe5\\xfb\\x11\\x9c\\x1a\\x8dF=\"/m0u88)\\x8e\\xbcw\\xfc\\xeb\\x11\\xc4\\x91\\xc8\\xdb\\x89\\xdcs\\x93\\xeb\\x9a\\xdf[\\xa8\\xb6gv=\\xaa\\x84\\x81%\\'p\\x18\\'5i\\x19\\xcavfy\\x96C\\x17\\x97\\xbc\\xec\\xf4\\xa2\\xac5\\xa4d\\xfc\\xacG\\xebE\\x16\\x0fi\\x13\\xa2\\xf9\\xb7\\xff\\x00\\xb3\\x8f\\xd6\\xaa\\\\\\xdb\\x19%\\xdcX\\xe3\\xa0\\x01I\\xc7\\xe5E\\x15%\\xb4\\x9a\\xd4\\x8b\\xec#\\xfb\\xe7\\xfe\\xf84\\x9fb\\x00\\xfd\\xf3\\x9f\\xf7\\r\\x14S\\xb9>\\xce\"\\x1b<d\\x878\\x1c\\xe3a\\x14QE;\\x91($\\xcf'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 27819
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 87945
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                14052,
+                89615,
+                105561
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 10
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 22,
+          "length": 4
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 169,
+          "length": 4
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 203,
+          "length": 22
+        }
+      ],
+      "views": 379,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

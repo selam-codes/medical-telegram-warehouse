@@ -1,0 +1,227 @@
+[
+  {
+    "message_id": 49,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-09T12:28:53+00:00",
+    "message_text": "በChe-Med የመድሃኒት መረጃ ማዕከል 9798 በመደውል መድሃኒትዎን ይዘዙ። በተጨማሪም ስለጤናዎ መረጃ ይጠይቁ። \n\nእኛ በ30 ደቂቃ መድሃኒትዎን እናደርሳለን።\n\n📞9798\n\nJoin our telegram channel to join our Che-Med community.\nhttps://t.me/CheMed123",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/49.jpg",
+    "views": 3382,
+    "forwards": 10,
+    "raw": {
+      "_": "Message",
+      "id": 49,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-09 12:28:53+00:00",
+      "message": "በChe-Med የመድሃኒት መረጃ ማዕከል 9798 በመደውል መድሃኒትዎን ይዘዙ። በተጨማሪም ስለጤናዎ መረጃ ይጠይቁ። \n\nእኛ በ30 ደቂቃ መድሃኒትዎን እናደርሳለን።\n\n📞9798\n\nJoin our telegram channel to join our Che-Med community.\nhttps://t.me/CheMed123",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5807823080695905561,
+          "access_hash": -3708202596762343772,
+          "file_reference": "b\"\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x001jC\\xa7\\xb9\\xe6\\xa7\\x87\\xd6'8\\xb2\\x11l(\\x9d\\x98\\xf4\\x96I\\x80\"",
+          "date": "2022-12-09 12:28:53+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd6f!\\xc7\\xf7{\\xf1Q\\xccA\\x7f\\xc2\\x9a\\',H\\x1d\\xa9\\xbc\\x9e\\xb4\\xd0\\x98\\x9b\\xb9\\xe3\\x9aPO\\xa5B\\x0eQ\\x83\\x85\\xf3Np3\\xcf\\xb7\\xf4\\xa8\\xd2\\x12\\xef\\xbaM\\xc1\\x9b\\x04\\x8e\\xc0\\xe3\\xd7\\xf1\\xfd(\\x11yI\\'\\xa1\\x14U;X<\\xa9U\\xb79\\xf9J\\xe0\\xaf\\x1dsE\\x03,QE4\\xbe8\\xe7\\xfe\\xf9\\xa0\\t\\x04H\\xd8\\xde\\x01=\\xb8\\xe9M\\xf2\\xd0q\\x81\\xc7\\xb5&\\xf3\\x9c\\xf2>\\x8ai28\\xce\\xe3\\xf8\\x1a5\\r\\tUTr\\x00\\x07\\xe9E\"\\xb8\\'\\x1c\\xfeF\\x8a\\x00ni\\x8c\\x88\\xc7%Ns\\x9a(\\xa6  \\xe4\\xe3\\xa7\\xd2\\x9a\\x03z\\x8f\\xcb\\xff\\x00\\xafE\\x14Y\\x00\\xf4\\x04\\x1c\\x93\\x9f\\xc2\\x8a(\\xa2\\xc0\\x7f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 22622
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 76444
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                14627,
+                58077,
+                67303,
+                87909,
+                95648
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 74
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 103,
+          "length": 6
+        },
+        {
+          "_": "MessageEntityItalic",
+          "offset": 103,
+          "length": 6
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 168,
+          "length": 22
+        }
+      ],
+      "views": 3382,
+      "forwards": 10,
+      "replies": null,
+      "edit_date": "2022-12-12 10:06:08+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 48,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-09T04:09:49+00:00",
+    "message_text": "Che-Med ዛሬ Dec 9,2022 በተለያዩ የFM ጣቢያዎች ራሱን ያስተዋውቃል ።\n\nበዚህም ከሚሠጣቸው አገልግሎቶች በተጨማሪ ስራ ስለጀመረው አዲሱ የመድሃኒት መረጃ የጥሪ ማዕከላችን 9798 ሲያበስር ደስታ ይሠማዋል።",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/48.jpg",
+    "views": 914,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 48,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-09 04:09:49+00:00",
+      "message": "Che-Med ዛሬ Dec 9,2022 በተለያዩ የFM ጣቢያዎች ራሱን ያስተዋውቃል ።\n\nበዚህም ከሚሠጣቸው አገልግሎቶች በተጨማሪ ስራ ስለጀመረው አዲሱ የመድሃኒት መረጃ የጥሪ ማዕከላችን 9798 ሲያበስር ደስታ ይሠማዋል።",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5805445485585087401,
+          "access_hash": -6042991253630907553,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x000jC\\xa7\\xb9]w\\x0b\\xcc6\"\\xb62B\\xbb\\x06F\\x8b^S;'",
+          "date": "2022-12-09 04:09:42+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd5\\x91\\xb6\\xa9\\xc7Zz\\xb0a\\x90sLgpN\"c\\xe9\\x82(Wc\\xd66\\x1f\\x88\\xa0\\x06\\\\\\xc3\\xe7G\\x81\\x8d\\xc3\\xa5e\\x10A \\x8c\\x11[Y?\\xdd?\\xa5R\\xbd\\x83\\xfeZ\\xa8\\xfa\\x8a\\x08\\x96\\x9a\\xa2\\x8d\\x14QS`L\\xda\\x90\\xe0\\x7f\\xf5\\xcf\\xf4\\xa6\\x06\\'\\xa0\\xfdMU\\x8bU\\x85\\x87\\xefU\\xa3?\\x98\\xab\\x1f\\xbb\\xb8\\x8d\\xb6\\xcaYXc\\x83TX\\xed\\xc7\\xd3\\xf5o\\xf0\\xa7l\\xc8\\x00\\x8e;\\xfc\\xc6\\x9d\\xb7\\xe6\\xce\\xe6\\xfaUi\\xaf\\xa0\\x8aS\\x14\\x99\\xcf~8\\x14\\x01R\\xe2\\x13\\x0c\\x84c\\xe5=(\\xab\\x1edW+\\xe5,\\x81\\x89\\xe5\\t\\xeb\\xf4\\xa2\\x9e\\x8c\\xc6Qi\\xe8d:\\xf1H\\xb9B\\x19X\\x83\\xea\\x0e(\\xa2\\xa53f\\x8bQj7\\t\\xf7\\x88q\\xe8ECq/\\xda&iq\\xb7v8\\xa2\\x8a\\x18\\'a\\xbbI\\xda#B[\\xfd\\x9esE\\x14R\\xb1w?'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 35771
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 153943
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                16873,
+                53758,
+                103376,
+                162201,
+                216036
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 914,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

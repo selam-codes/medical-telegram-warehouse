@@ -1,0 +1,306 @@
+[
+  {
+    "message_id": 82,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-13T12:48:47+00:00",
+    "message_text": "Nature's Bounty Supplement Products are here!\n\nChe-Med Nature's Bounty Supplement Products ይዞላችሁ መጧል።\n\nበቁጥር ውስን ስለሆኑ ቀድመው ይዘዙን።\n\nለማዘዝ፦\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\n\nChe-Med the best way to find your meds!",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/82.jpg",
+    "views": 411,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 82,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-13 12:48:47+00:00",
+      "message": "Nature's Bounty Supplement Products are here!\n\nChe-Med Nature's Bounty Supplement Products ይዞላችሁ መጧል።\n\nበቁጥር ውስን ስለሆኑ ቀድመው ይዘዙን።\n\nለማዘዝ፦\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\n\nChe-Med the best way to find your meds!",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2023-01-13 12:48:29+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+          "_": "PeerChannel",
+          "channel_id": 1655039529
+        },
+        "from_name": null,
+        "channel_post": null,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+      },
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5913275767742118493,
+          "access_hash": -3248416689288739448,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00RjC\\xa7\\xb9\\xe0\\x18pi\\x1c\\xb7r%;#%\\xd1\\x18\\xa0\\xee\\xec'",
+          "date": "2023-01-13 12:48:29+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xa1N\\xd9\\xfe\\xd2\\xfet\\xcap8\\xed\\x9a\\x00P\\xb9\\x1fx\\x0f\\xa9\\xa3g_\\x99x\\xf7\\xa5\\xe7\\x19\\xd9\\xc7\\xae)\\xa4\\xe7\\xb6(\\x01(\\xa2\\x8a\\x00J\\x9e\\x18\\x1eH\\x99\\xd4\\x03\\x83\\x8ej \\x87\\xd2\\xad\\xda\\xc92@\\xca\\x90\\x92\\xa4\\xe7q\\x1d)0\\x1cl\\xa4\\xc2s\\xc6*\\xbc\\xf04_x\\x01\\xce8\\xab-~\\xf8\\x0b\\xb1r;\\xd4\\x177\\x0fpFS\\xa7\\xa5\\x08V+QN\\xd8}(\\xa62\\xd8@F*x\\xe6\\xd8\\xab\\x19\\xce7u\\xf64QI\\x80\\xb2\\xaa*\\x1f!2I\\xf5\\xff\\x00\\x1f\\xc6\\xa2p\\xfeNv\\xfc\\xfe\\x94Q@!\\x85~@O\\xde\\xee(\\xa2\\x8a`\\x7f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 20042
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 76329
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                12885,
+                30044,
+                52212,
+                69860,
+                103670
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 35
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 36,
+          "length": 11
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 55,
+          "length": 35
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 150,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 151,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 151,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 183,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 201,
+          "length": 6
+        }
+      ],
+      "views": 411,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 81,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-13T09:44:14+00:00",
+    "message_text": "Nature's Bounty Supplement Products are here!\n\nChe-Med Nature's Bounty Supplement Products ይዞላችሁ መጧል።\n\nበቁጥር ውስን ስለሆኑ ቀድመው ይዘዙን።\n\nለማዘዝ፦\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\n\nChe-Med the best way to find your meds!",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/81.jpg",
+    "views": 1793,
+    "forwards": 5,
+    "raw": {
+      "_": "Message",
+      "id": 81,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-13 09:44:14+00:00",
+      "message": "Nature's Bounty Supplement Products are here!\n\nChe-Med Nature's Bounty Supplement Products ይዞላችሁ መጧል።\n\nበቁጥር ውስን ስለሆኑ ቀድመው ይዘዙን።\n\nለማዘዝ፦\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\n\nChe-Med the best way to find your meds!",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5911231294589746294,
+          "access_hash": 3936846942249974311,
+          "file_reference": "b\"\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00QjC\\xa7\\xb9\\xac\\xfe\\xb5\\xd0\\xf7Z\\xb0\\x12'\\x85\\xf1Q\\xad\\xa7\\x8d\\x17\"",
+          "date": "2023-01-13 09:43:56+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xc9\\xc0\\t\\x82\\x0esL\\xad\\x19bIWvpO\\xfb9\\xaa\\xedl\\xa3?\\xbcc\\x8f\\xf6\\r+\\x81\\x1a@Z\\xdd\\xe5\\xfe\\xe9\\xa8kF \\xcbjP\\xa9\\xe7\\xaf\\x15@\\xa9\\xdd\\x8a`%\\x15j\\x04T!\\x8f&\\x8a\\x00\\x9a&\\x89\\xa3]\\xccs\\xdf\\x82qPH71#%I\\xe0\\xfa\\xd5\\xa8lf6\\xc1\\x81\\xdaI\\xce2*G\\xb0`\\x14/\\xd7\\xebJ\\xe2\\xbb*\\xed\\xc2\\x0c\\xc8\\xa3=\\xb9\\xa8\\x8cl\\x0eqZR\\xd86\\x06\\xd1\\xc2\\xf3\\xd4S%\\xb3<\\x15n\\x01\\xce\\t\\x1d(\\xb8\\\\\\xa0\\xc5\\x82\\xe7\\x07\\x14U\\xcb\\xab'X\\xce\\xc3\\x9e1\\x8c\\x8fZ(\\xb8\\xd6\\xa4\\x89\\xa9\\x08\\xe3\\t\\xe5\\xabc\\xa1\\xcd;\\xfbMZ1\\xf2\\x1d\\xdd\\x06\\x0fJ(\\xa9*\\xc4\\x87R\\x84\\xc6\\x1ba\\xdd\\x8eE5\\xb5(\\xf6\\xf0\\xbc\\xf1E\\x14\\x05\\x88\\xe5\\xd4\\xb7\\xae\\xcd\\xa0g\\xa9\\xa2\\x8a(\\x19\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 29162
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 116055
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                16676,
+                44962,
+                80538,
+                109059,
+                160595
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 35
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 36,
+          "length": 11
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 55,
+          "length": 35
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 150,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 151,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 151,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 183,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 201,
+          "length": 6
+        }
+      ],
+      "views": 1793,
+      "forwards": 5,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

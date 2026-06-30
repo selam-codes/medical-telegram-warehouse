@@ -1,0 +1,145 @@
+[
+  {
+    "message_id": 90,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-23T10:39:20+00:00",
+    "message_text": "CVS Daytime & Nighttime Cold and Flu Relief\n\nለሰሞኑ ጉንፋን ማስታገሻ በአንደኝነት ተመራጭ የሆነውን CVS Daytime & Nighttime Cold and Flu Relief Che-Med ይዞላችሁ መጧል።\n\nበቁጥር ውስን ስለሆኑ ቀድመው ይዘዙን።\n\nለማዘዝ፦\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\nOur website: www.chemeds.org\n\nChe-Med is the best way to find your meds!",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/90.jpg",
+    "views": 664,
+    "forwards": 2,
+    "raw": {
+      "_": "Message",
+      "id": 90,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-23 10:39:20+00:00",
+      "message": "CVS Daytime & Nighttime Cold and Flu Relief\n\nለሰሞኑ ጉንፋን ማስታገሻ በአንደኝነት ተመራጭ የሆነውን CVS Daytime & Nighttime Cold and Flu Relief Che-Med ይዞላችሁ መጧል።\n\nበቁጥር ውስን ስለሆኑ ቀድመው ይዘዙን።\n\nለማዘዝ፦\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\nOur website: www.chemeds.org\n\nChe-Med is the best way to find your meds!",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5942836077725334173,
+          "access_hash": 5713193467668185991,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00ZjC\\xa7\\xb9\\xc1\\xaa\\xe8Fh\\x82Y\\x06\\x1b\\\\Q\\xeeJ\\x13KP'",
+          "date": "2023-01-23 10:39:20+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd1\\xba\\x9f\\xc8\\x8bx]\\xc78\\x02\\xa1\\x86\\xff\\x00}\\xbc\\xb22\\x00c\\xec\\x0fZn\\xa5\\x99\\x15Q\\x03\\x129$\\x0e*\\x9a#%\\xad\\xc4d\\x1d\\xce\\x06\\x06GcP\\xe4\\x93\\xb5\\xcd\\x94\\x17%\\xcb\\xb6\\x9a\\x87\\xda&\\xf2\\xca\\x05$g\\x83V\\xc8oN+\\x12\\xc8I\\r\\xdco$M\\xb0g%F{V\\xf1\\xe4U&g4\\xaf\\xa1\\x12\\xb7$\\x1e\\x08\\xa2\\x9c\\xc9\\xca\\xfbQTfE3\\x98\\xdf \\x03\\x9fZ\\xa9<\\xd3\\xc5\\x16\\xed\\xe0\\x92q\\x82?\\xc2\\xaeL3 \\xfaUMEY!\\x07\\x82\\xb9\\xeb\\\\\\xea\\xee\\xa5\\x91\\xae\\x8a$V\\xf7\\xb2\\xbd\\xc2\\x87)\\x83\\x81\\xc05\\xaaY\\x87\\xf0\\x8cz\\xe6\\xb0\\xe1$M\\x19(0X\\x00sZ\\xb3E4\\x85Lr\\xed\\\\\\x0f\\x97\\xa5t8\\xd8\\xcd;\\x93+\\x92@ \\x0c\\xfb\\xd1U\\xa0Y\\x04\\xe0\\x19\\xf7`\\xf27\\x13E!\\x95\\xee\\'\\xb8\\xfbK\\x80\\xbbUN\\x17\\xe4\\xcej\\xa4\\xd3]L\\x9b\\x1e3\\x8c\\xe7\\x844QG,w\\xb6\\xa2\\xbb\\xb1\\x1a\\xfd\\xa1\\x08\"&\\xe3\\xfd\\x83WE\\xed\\xe6>\\xefo\\xf9\\xe7E\\x15M\\xdcKA-\\xee.\\x8d\\xc2\\xee\\x84`\\xb7?)\\x14QE!\\xdd\\x9f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 36767
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 146427
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                17031,
+                53721,
+                107249,
+                140480,
+                203186
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 45
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 80,
+          "length": 43
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 191,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 192,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 192,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 224,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 242,
+          "length": 5
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 260,
+          "length": 15
+        }
+      ],
+      "views": 664,
+      "forwards": 2,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

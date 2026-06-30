@@ -1,0 +1,92 @@
+version: 2
+
+models:
+  - name: dim_channels
+    description: One row per Telegram channel, with classification and posting stats.
+    columns:
+      - name: channel_key
+        description: Surrogate key (md5 hash of channel_name).
+        data_tests:
+          - unique
+          - not_null
+      - name: channel_name
+        description: Channel username.
+        data_tests:
+          - unique
+          - not_null
+      - name: channel_type
+        description: Derived classification — Pharmaceutical, Cosmetics, or Medical.
+      - name: first_post_date
+        description: Earliest message date scraped for this channel.
+      - name: last_post_date
+        description: Latest message date scraped for this channel.
+      - name: total_posts
+        description: Total number of messages scraped for this channel.
+      - name: avg_views
+        description: Average view count across all scraped messages for this channel.
+
+  - name: dim_dates
+    description: Date spine covering the full range of scraped message dates, with calendar attributes.
+    columns:
+      - name: date_key
+        description: Surrogate key in YYYYMMDD integer format.
+        data_tests:
+          - unique
+          - not_null
+      - name: full_date
+        description: Calendar date.
+        data_tests:
+          - not_null
+      - name: day_of_week
+        description: Day of week, 0 (Sunday) through 6 (Saturday).
+      - name: day_name
+        description: Full day name.
+      - name: week_of_year
+        description: ISO-ish week of year.
+      - name: month
+        description: Month number (1-12).
+      - name: month_name
+        description: Full month name.
+      - name: quarter
+        description: Calendar quarter (1-4).
+      - name: year
+        description: Calendar year.
+      - name: is_weekend
+        description: True if the date falls on Saturday or Sunday.
+
+  - name: fct_messages
+    description: One row per Telegram message, linked to its channel and date dimensions.
+    columns:
+      - name: message_key
+        description: Surrogate primary key (md5 of channel_key + message_id).
+        data_tests:
+          - unique
+          - not_null
+      - name: message_id
+        description: Telegram message ID (channel-scoped, not globally unique).
+        data_tests:
+          - not_null
+      - name: channel_key
+        description: Foreign key to dim_channels.
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('dim_channels')
+              field: channel_key
+      - name: date_key
+        description: Foreign key to dim_dates.
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('dim_dates')
+              field: date_key
+      - name: message_text
+        description: Cleaned message text content.
+      - name: message_length
+        description: Character length of message_text.
+      - name: views
+        description: View count.
+      - name: forwards
+        description: Forward count.
+      - name: has_image
+        description: True if an image was downloaded for this message.

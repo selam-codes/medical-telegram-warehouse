@@ -1,0 +1,132 @@
+[
+  {
+    "message_id": 93,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-30T09:45:25+00:00",
+    "message_text": "Che-Med Trivia #2\n\nእንደ Ciprofloxacin, Doxycycline, Levothyroxine, Iron supplement ያሉ መድሃኒቶችን ከወተት እና ከወተት ተዋፅዖዎች ጋር እንዲሁም ከእንቁላል ጋር መውሰድ መድሃኒቶቹ በሰውነታችን የሚፈለገውን ስራ እንዳይሰሩ ያደርጋቸዋል።\n\nይህም በወተት ተዋጽኦዎች ውስጥ ያለው ካልሲየም እነዚህ መድሃኒቶች በሰውታችን ወስጥ እንዳይዋህዱ ጣልቃ ስለሚገባ ነው።",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/93.jpg",
+    "views": 749,
+    "forwards": 2,
+    "raw": {
+      "_": "Message",
+      "id": 93,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-30 09:45:25+00:00",
+      "message": "Che-Med Trivia #2\n\nእንደ Ciprofloxacin, Doxycycline, Levothyroxine, Iron supplement ያሉ መድሃኒቶችን ከወተት እና ከወተት ተዋፅዖዎች ጋር እንዲሁም ከእንቁላል ጋር መውሰድ መድሃኒቶቹ በሰውነታችን የሚፈለገውን ስራ እንዳይሰሩ ያደርጋቸዋል።\n\nይህም በወተት ተዋጽኦዎች ውስጥ ያለው ካልሲየም እነዚህ መድሃኒቶች በሰውታችን ወስጥ እንዳይዋህዱ ጣልቃ ስለሚገባ ነው።",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5960942869571287950,
+          "access_hash": 1756872552479743658,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00]jC\\xa7\\xb9\\xa5\\x82\\xfc\\x9cAQ>K[\\x8e\\x83\\xff{]\\x02\\r'",
+          "date": "2023-01-30 09:44:56+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd6bA\\x18\\xf5\\xe7\\x8ax9\\x15\\x1c\\xf3,\\x10\\xb4\\xad\\xd1Ed}\\xbe\\xf6G/\\x10\\x1bG\\xf0\\xe0b\\x80H\\xdb\\xa6\\xba\\xe7\\x9e\\xe2\\xa3\\xb5\\x98\\xcfn\\xb2\\x15\\xda\\xc7\\x82\\xbe\\x86\\xa6\\xa0\\n\\xcc\\xa5fS\\xc8\\xcf\\x14T\\xac\\x03\\x82\\xbd\\xc7\\xe8h\\xa6\"\\x1dEw\\xd8\\xca\\x07\\xb1\\xfc\\x8dT\\x86=\\x90*\\xa7\\x1e\\xb9\\xebV\\xee&VF\\x8c\\x03\\xf3\\x02\\xb9\\xaa\\xcb\\xb64\\'\\xa2\\xa8\\xac\\xa4\\xcd`\\xad\\xb9b\\xdb?g\\n\\xa4\\xee\\x04\\xe7\\x18\\xe7\\xf3\\xa9\\xb0\\xfe\\xad\\xf9\\x0e*\\xbd\\xad\\xcaH\\xc1pW\\x8c\\x01\\xebWj\\xd6\\xc4=\\xc8\\x97~FC\\x9f\\\\\\xed\\xa2\\xa5\\xa2\\x98\\x8c\\xf9W\\x01\\x97\\xb84\\xd9\\x88hN?\\x8b\\x14QYu:#\\xa8\\xebx\\xc2L\\x87\\xfc\\xf4\\xab\\xae\\x1b\\x07\\x07\\xb7AE\\x15\\xa22\\xa9\\xb9\\x10\\r\\xb8`>3\\xd4\\x9f\\xfe\\xbd\\x14QL\\x83'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 24940
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 96281
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                13617,
+                36842,
+                64703,
+                88104,
+                132241
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 19
+        },
+        {
+          "_": "MessageEntityUnderline",
+          "offset": 0,
+          "length": 19
+        }
+      ],
+      "views": 749,
+      "forwards": 2,
+      "replies": null,
+      "edit_date": "2023-03-12 03:05:46+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

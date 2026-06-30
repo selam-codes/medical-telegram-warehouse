@@ -1,0 +1,376 @@
+[
+  {
+    "message_id": 87,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-16T13:41:35+00:00",
+    "message_text": "📻Che-Med held fruit-bearing discussion at ሳይበርኛ radio program on Fana 98.1FM about digital health care and privacy and security of E-commerce.\n\nWe discussed in details current trends in digital healthcare, It's benefits, challenges, and opportunities.\n\nYou can listen to us at 08:00PM tonight and increase your understanding about the current activities of digital health care and its future.\n\nChe-Med",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/87.jpg",
+    "views": 462,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 87,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-16 13:41:35+00:00",
+      "message": "📻Che-Med held fruit-bearing discussion at ሳይበርኛ radio program on Fana 98.1FM about digital health care and privacy and security of E-commerce.\n\nWe discussed in details current trends in digital healthcare, It's benefits, challenges, and opportunities.\n\nYou can listen to us at 08:00PM tonight and increase your understanding about the current activities of digital health care and its future.\n\nChe-Med",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5920387756842925251,
+          "access_hash": 7235097003346150045,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00WjC\\xa7\\xb9\\xe4<\\xd2N/\\xa4+\\x83\\x8b\\xbe$\\x80\\xa5\\x02\\xfa\\x93'",
+          "date": "2023-01-16 11:48:34+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd42\\xa2\\x9eI\\xeb\\x8e\\x94\\x86\\xe658$\\xe7\\xe9J\\xfb\\xb3\\xc1c\\xf4\\x14\\x80\\x90\\x07\\x12P\"PA\\xe9KQ\\x82\\xc4\\x91\\xf3\\x0fr\\x05E%\\xc0\\x8aB\\xa4\\xe4\\xfb\\xff\\x00\\xf5\\x85\\x00X\\xe7v{QL\\x8ah\\xe6\\xce\\xc6\\xce(\\xa0e-VWD\\x8fd\\x8c\\x99\\'88\\xfeU\\x9ag\\x9b<\\\\\\xc9\\xff\\x00}\\x1a\\xd4\\xbe\\xb7\\x92\\xe1S\\xcb#*s\\xc9\\xc5V6\\x17g\\xa9R:\\xfd\\xf3TIH\\xdc\\\\\\x8f\\xf9o)\\x1e\\xbb\\x8d\\\\b\\xeb\\x08\\xdeIc\\xd4\\x93\\xf37\\xff\\x00Z\\x87\\xd3\\xae\\xd8c+\\x8f\\xf7\\xcdH\\xb6\\xd2D\\x8a\\x84\\x93!\\xe0\\xf3\\xc1\\xf4\\xa4\\xc6\\x89t\\xc4\\xff\\x00Y\\'bv\\x8cQW!\\x89a\\x8c\"\\x8e\\x05\\x14\\x860\\x1c\\xf0Fi\\xf9\\xc7A\\x8a(\\xa6Bc\\xc1\\xaa\\xde[\\x9dCyo\\x94/\\x02\\x8a)\\x16Y\\xcf=\\r\\x14Q@\\x1f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 32515
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 109751
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                14329,
+                41728,
+                74984,
+                98467,
+                142276
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 9
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 43,
+          "length": 5
+        }
+      ],
+      "views": 462,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": "2023-01-16 14:00:10+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 86,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-16T10:13:42+00:00",
+    "message_text": "🔵Get GOFEN from Che-Med!\n\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\nWebsite: www.chemeds.org\n\nChe-Med the best way to find your meds!",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/86.jpg",
+    "views": 441,
+    "forwards": 3,
+    "raw": {
+      "_": "Message",
+      "id": 86,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-16 10:13:42+00:00",
+      "message": "🔵Get GOFEN from Che-Med!\n\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\nWebsite: www.chemeds.org\n\nChe-Med the best way to find your meds!",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5919991528929999778,
+          "access_hash": -868864020286046457,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00VjC\\xa7\\xb9:\\x9b\\xd3A\\x87\\xe0\\x90Zf\\xd1\\xb1\\xb7I\\xc1h\\x00'",
+          "date": "2023-01-16 10:13:42+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd8\\xe7w\\xb5-T\\xd4\\xe6xm\\tN\\t\\xef\\xe9Y\\x0bs~\\xb8q#\\x158\\xeaz\\xd0\\x07EL\\xf3S$g\\x91\\xd6\\x9a%\\x18P\\xe7\\xe7 d\\x01\\x9cU)\\xbc\\xcd\\xcc6\\x1cg\\xa6j\\xa2\\xaeD\\xa5m\\x8b\\x8bq\\x13\\x10\\x15\\xc1\\xa2\\xb3\\xe1\\x8f\\x13\\x0c\\xf0w\\x0e1\\xefE7\\x14\\x85\\t6R\\x9a\\xfe\\xe5\\xd8\\xeflc\\xf8p0*\\xce\\x9c\\xdfk\\x99RLb!\\x901\\xd6\\xa9\\xdcHe\\x99\\xa4t\\xd8[\\x9cS\\xf4\\xf9\\xbe\\xcdp\\x92\\xb6Dg*[\\x1f\\xe7\\xda\\xa0\\xd0\\xda\\xb82&Z 0z\\x909\\xa8\\x95.\\x19\\xc3\\x1c\\x8fv\\xff\\x00\\n\\xb2\\xdf:\\x07\\x8c\\xe7\\xb8\\xc1\\xeb\\xfa\\xd4\\x0f2\\xa3mv\\xc1\\x1d\\xb3\\xff\\x00\\xd7\\xa6K\\x8d\\xc9\\xc2>\\xe4\\xce\\xce\\x07\\xcd\\x81\\xdf\\xda\\x8a\\x81&C\"\\x85\\x90\\x9c\\x9f\\xef\\x7f\\xf5\\xe8\\xa4;\\x98\\xd3\\xc7s3\\x12\\xd1\\xb15b\\x1b\\x80\\xb6km-\\xb1`:\\xe7#\\xbd\\x14P1\\xd6\\x97&\\xd9\\xc2\\x8d\\xe6\"\\xdfp\\xf3\\x8a\\xd3\\x92\\x08]\\xd9\\x99_\\'\\xae\\x0b\\x0f\\xe5E\\x14\\x01\\x1a[\\xa2J\\xa5T\\x84\\x07\\x8c\\xb3\\xff\\x00\\xfa\\xa8\\xa2\\x8a\\x00'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 28657
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 109943
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                14663,
+                41589,
+                73141,
+                100761,
+                150803
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 2,
+          "length": 25
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 42,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 43,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 43,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 75,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 93,
+          "length": 5
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 107,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 107,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 122,
+          "length": 2
+        }
+      ],
+      "views": 441,
+      "forwards": 3,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 85,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-16T09:26:09+00:00",
+    "message_text": "⚠️Notice!\nDear esteemed customers,\nDue to four-days motorbike movement restrictions, we have limited our services to matchmaking,drug information and medical consultation only.\n\nN.B. \n🔅We will make deliveries for whom the medications are urgent.\n🔅You can book deliveries starting from Friday, Jan 20.",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/85.jpg",
+    "views": 400,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 85,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-16 09:26:09+00:00",
+      "message": "⚠️Notice!\nDear esteemed customers,\nDue to four-days motorbike movement restrictions, we have limited our services to matchmaking,drug information and medical consultation only.\n\nN.B. \n🔅We will make deliveries for whom the medications are urgent.\n🔅You can book deliveries starting from Friday, Jan 20.",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5920481881051216332,
+          "access_hash": -3908174552665347398,
+          "file_reference": "b\"\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00UjC\\xa7\\xb9\\xb9\\xc1'(\\xbd\\xd3w\\xc4\\x16\\xbeH\\x9cT\\xc4\\x950\"",
+          "date": "2023-01-16 09:17:57+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd7;\\xb208\\xefN\\xa2\\xaa\\xdd\\\\\\x08\\xe3`\\x8f\\x891\\xc7\\x19\\xc5\\x02m-\\xc9\\xcc\\x88\\xae\\x10\\xb0\\x0cF@\\xf6\\xaa\\xf3^\\xaa\\xf1\\x17\\xcc}{Vl\\x93\\xbc\\xec\\x8f)\\x19^\\x81E\\x1b\\xb9\\xe7\\xa7j\\xa4\\x8c\\xa7Q\\xec\\x89\\x1eF\\x91\\xb2\\xe7&\\x8aoZ*\\x8ewv^\\xbc\\x92h\\xd4\\x906\\xc6?\\x88U\\x0e$\\x03\\x9e\\rY\\xba\\x13\\xdd\\x17\\x80\\x0c\\x01\\x83\\x83\\xc6)-,eX\\x98H\\x02\\xb6x\\x19\\xc8?Z\\x84\\xce\\x99\\xc2\\xfa\\x90\\xf9#\\xfc\\x83G\\x92\\x07O\\xebR\\xba\\xb4g\\x0f\\x1a\\x81\\xeb\\x8aiq\\xe8?*\\xa3\\x01\\x856\\x8fo\\xa5\\x14\\xa5\\xf21\\xb5h\\xa6K\\xb1\\xad\\xe5\\xaf\\x9b\\xe6\\x7f\\x166\\xfe\\x14\\xfa(\\xac\\xce\\xe1\\xac\\xa1\\xd4\\x86\\x00\\x83\\xd8\\xd59\\xac\\xbf\\x8a/\\xfb\\xe4\\xd1E;\\x93(\\xa9nSe(\\xc5X\\x10Gj(\\xa2\\xac\\xe4z3'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 20196
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 67208
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                9635,
+                26318,
+                44531,
+                58340,
+                88448
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 2,
+          "length": 8
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 178,
+          "length": 6
+        }
+      ],
+      "views": 400,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

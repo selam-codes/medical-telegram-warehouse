@@ -1,0 +1,90 @@
+[
+  {
+    "message_id": 51,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-15T06:16:41+00:00",
+    "message_text": "https://vm.tiktok.com/ZMFs2H4ym/\n\nLike and follow our tiktok channel.",
+    "has_media": true,
+    "image_path": null,
+    "views": 1057,
+    "forwards": 3,
+    "raw": {
+      "_": "Message",
+      "id": 51,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-15 06:16:41+00:00",
+      "message": "https://vm.tiktok.com/ZMFs2H4ym/\n\nLike and follow our tiktok channel.",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaWebPage",
+        "webpage": {
+          "_": "WebPage",
+          "id": 7536475598218623385,
+          "url": "https://vm.tiktok.com/ZMFs2H4ym/",
+          "display_url": "tiktok.com/@chemed_official/video/7177012086243970310?_t=8YAnnoMpPHx&_r=1",
+          "hash": 0,
+          "has_large_media": false,
+          "type": "article",
+          "site_name": "TikTok",
+          "title": "የሐኪም ማዘዣዎን በ www.chemeds.org ይላኩልን እኛ መድሃኒትዎን በ30 ሰከንድ ውስጥ እናመጣለን። #et... | TikTok",
+          "description": "25 Likes, TikTok video from Che-Med (@chemed_official): \"የሐኪም ማዘዣዎን በ www.chemeds.org ይላኩልን እኛ መድሃኒትዎን በ30 ሰከንድ ውስጥ እናመጣለን። #ethiopian_tik_tok🇪🇹🇪🇹🇪🇹🇪🇹 #fyp #foryoupage #habesha🇪🇹\". Darm Yelat - Nahom Mekuria.",
+          "photo": null,
+          "embed_url": null,
+          "embed_type": null,
+          "embed_width": null,
+          "embed_height": null,
+          "duration": null,
+          "author": null,
+          "document": null,
+          "cached_page": null,
+          "attributes": []
+        },
+        "force_large_media": false,
+        "force_small_media": false,
+        "manual": false,
+        "safe": true
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 0,
+          "length": 32
+        }
+      ],
+      "views": 1057,
+      "forwards": 3,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

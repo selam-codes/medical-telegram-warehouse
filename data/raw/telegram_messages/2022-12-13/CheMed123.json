@@ -1,0 +1,127 @@
+[
+  {
+    "message_id": 50,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-13T05:55:18+00:00",
+    "message_text": "በየወሩ ሚታዘዝልዎትን አስፕሪን መንገላታት ሳይጠበቅብዎት ከChe-Med ይዘዙ።\n\nለተጨማሪ መረጃ፡\nበጥሪ ማዕከላችን 9798 ወይም\nwww.chemeds.org ያግኙን።",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/50.jpg",
+    "views": 983,
+    "forwards": 2,
+    "raw": {
+      "_": "Message",
+      "id": 50,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-13 05:55:18+00:00",
+      "message": "በየወሩ ሚታዘዝልዎትን አስፕሪን መንገላታት ሳይጠበቅብዎት ከChe-Med ይዘዙ።\n\nለተጨማሪ መረጃ፡\nበጥሪ ማዕከላችን 9798 ወይም\nwww.chemeds.org ያግኙን።",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5819151112773680016,
+          "access_hash": 1383695937515898256,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x002jC\\xa7\\xb9\\xe6\\xca4v\\xa8Z\\xf8u\\x8a\\x01n\\x85\\xca\\xd1\\xb6\\x86'",
+          "date": "2022-12-13 05:55:17+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xcd\\xc2\\xec9\\xfb\\xd5\\x15YDR\\x99 u\\xff\\x00=\\xe9<\\xa5\\x18\\xe8q\\xd7\\xfc\\xe6\\xa8Ez*\\xc1\\x89Oe\\x1e\\xff\\x00\\xe4\\xd3YQx8\\x19\\xe7?\\xe4\\xd0\\x04C\\xa1\\xa2\\x9evmlu\\xfa\\x7f\\xf5\\xe8\\xa0\\x07m\\xdc@\\x1dO\\x157\\xd8}d\\xc1\\xfaV\\xb3XY\\x0e6\\x85?\\xef\\x9e?Z\\xa5{\\x0c\\xf0)\\x92)w\\xc4;\\xf0H\\xa4\\x05u\\xd3\\x9eC\\x88\\xdc1\\xf7\\x18\\x15r=\\x1e\\x1eU\\xe6r\\xe3\\xae\\xd1\\x81PX\\xde\\xb0I\\x15\\x89$\\xf4\\xc0\\xe6\\xaf%\\xc7\\x19'\\x93@\\x19\\x97v\\rl\\xac\\xea\\xc2H\\xban\\x1d\\x8f\\xbd\\x15r\\xe6u1I\\x19\\xe1J\\xf4\\xe2\\x8a\\x00\\xd1h\\xcb1;\\xb1\\x9aQ\\x1f\\xc8\\xca\\xf8`}\\xa8\\xa2\\x80KR\\x8bi1\\xac\\x9b\\xe1r\\xbf\\xec\\xf5\\xa6\\x0b\\x0b\\x9c\\xfd\\xf1\\x8fJ(\\xa11J)\\x88\\xfau\\xc3F\\xca]I\\xc7\\x14QE\\x17\\x04\\xac\\x7f\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 24212
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 86280
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                13407,
+                90132,
+                93122,
+                96343,
+                97044
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 82,
+          "length": 15
+        }
+      ],
+      "views": 983,
+      "forwards": 2,
+      "replies": null,
+      "edit_date": "2022-12-14 13:59:17+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 2,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

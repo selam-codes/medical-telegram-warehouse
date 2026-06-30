@@ -1,0 +1,120 @@
+[
+  {
+    "message_id": 94,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-31T09:19:53+00:00",
+    "message_text": "Che-Med Trivia #3\n\nምግብና መጠጦች አንዳንድ መድሃኒቶች በደንብ እንዳይሰሩ ሊያደርጉ ይችላሉ። በዚህ ሁኔታ እነዚህን መድሃኒቶች ምግብ ከወሰድን ከ1 ሰዓት እስከ 2 ሰዓት ባለ ጊዜ ውስጥ መውሰድ ያስፈልግዎታል።\n\nከነዚህም ወስጥ የእንቅርት መድሃኒቶች፣Omeprazole፣Sildenafil(Viagra)፣Captopril እና Ampicillin ይጠቀሳሉ።\n\nመድሃኒትዎ ከምግብ ጋር ያለውን አወሳሰድ እርግጠኛ ካልሆኑ ሃኪምዎን ወይም ፋርማሲስትዎን ያማክሩ።",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/94.jpg",
+    "views": 868,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 94,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-31 09:19:53+00:00",
+      "message": "Che-Med Trivia #3\n\nምግብና መጠጦች አንዳንድ መድሃኒቶች በደንብ እንዳይሰሩ ሊያደርጉ ይችላሉ። በዚህ ሁኔታ እነዚህን መድሃኒቶች ምግብ ከወሰድን ከ1 ሰዓት እስከ 2 ሰዓት ባለ ጊዜ ውስጥ መውሰድ ያስፈልግዎታል።\n\nከነዚህም ወስጥ የእንቅርት መድሃኒቶች፣Omeprazole፣Sildenafil(Viagra)፣Captopril እና Ampicillin ይጠቀሳሉ።\n\nመድሃኒትዎ ከምግብ ጋር ያለውን አወሳሰድ እርግጠኛ ካልሆኑ ሃኪምዎን ወይም ፋርማሲስትዎን ያማክሩ።",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5965128001668627105,
+          "access_hash": 4423627769187250320,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00^jC\\xa7\\xb9\\xafXQ]\\x9b\\xab#a\\x81\\x81o\\rF2\\x03\\xc4'",
+          "date": "2023-01-31 09:19:52+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd3;\\xb7\\x0fJv)O\\x1c\\xd3|\\xcff\\xfc\\xa9\\x90.(\\xc57\\xcc\\x19\\xc6\\x1b\\xfe\\xf94\\xbe`\\xe7\\x86\\xe3\\xda\\x81\\x8e\\xa2\\x85;\\x94\\x1c\\x11\\xf5\\x14R\\x18\\x8c\\x7f\\n\\x8c\\xaa\\x05,s\\xc9\\xfe\\xf1\\xaa\\xa1\\xe7\\xb8\\x00\\xf9d\\xa9\\xfc\\x05\\t\\x04\\xe4\\xed\\x90\\x00\\x87\\xd0\\xd1q\\xf2\\xae\\xa5\\x82\\xb0\\xed\\xe7\\xa7\\xd4\\xd2\\x07\\x8de\\xe0\\x1c\\xf5\\xcej\\x19\\x95\\xa3\\xda\\x02\\xbe=A\\xa8T\\x96$\\xe1\\xf3\\x8e\\xf9&\\x976\\xb6\\x1f*\\xe8h\\xac\\xbb\\xca\\xec\\x19\\x04\\xf2}\\x05\\x15V\\xd6P\\xb2,l\\x0e\\xee\\x9fJ(\\xb84\\x91w\\xbd-\\x14U\\x10\\x00Q\\x86\\xcf\\x04\\x0f\\xc2\\x8a)\\x0c\\x8dA\\xdc\\x0e98\\xc9\\xdb\\xff\\x00\\xd7\\xa2\\x8a(\\x03'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 23039
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 84169
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                13396,
+                33478,
+                54810,
+                74456,
+                113042
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 19
+        },
+        {
+          "_": "MessageEntityUnderline",
+          "offset": 0,
+          "length": 19
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 150,
+          "length": 67
+        }
+      ],
+      "views": 868,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

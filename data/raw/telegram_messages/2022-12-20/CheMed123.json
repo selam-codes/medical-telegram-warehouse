@@ -1,0 +1,319 @@
+[
+  {
+    "message_id": 56,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-20T17:25:05+00:00",
+    "message_text": "",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/56.jpg",
+    "views": 1244,
+    "forwards": 6,
+    "raw": {
+      "_": "Message",
+      "id": 56,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-20 17:25:05+00:00",
+      "message": "",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5841707731256459578,
+          "access_hash": 4934858381282856493,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x008jC\\xa7\\xb9%\\xf0R1\\xf8\\x05\\x01AVZ\\xf8h\\x9a\\xbfr\\xf0'",
+          "date": "2022-12-20 08:58:15+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd2w \\x8ct\\xef\\xc58u\\xc8\\xefT\\xa7g\\xf3\\x8e\\x1c\\x8ez\\x06?\\xca\\x9d\\x0c\\xd3p\\x80+\\x1e\\xbc\\x93\\x9f\\xf3\\x8a\\x00\\xbbL\\xda\\xc1\\x89\\xdf\\xc7a\\x8a\\x8b\\xcd\\xb8\\x07,\\x91\\xed\\x1dz\\xd6m\\xf4\\x93\\x95\\xdc\\xd2\\x10\\t\\xfb\\xa3\\xa0\\xa2\\xe3\\xb35\\xbeq\\xd5\\xb3\\xf8QX\\x96\\x97\\xaf\\x14\\xa03\\xb1\\x8f\\xb8\\xa2\\x81\\x1arO\\x86d\\xf3\\x02\\x9c\\xf5\\xe7\\x8f\\xc2\\x95&28\\x01\\xd4\\xf5$d\\xf2?.\\xd4\\x92[\\x1d\\xff\\x00\\xeb\\xa4\\x189\\x01{~\\x95\\x14\\xef\\xf6h\\xbc\\xdf1\\x99\\x80!\\x03\\x01\\xdf\\xf0\\xa6+\\x12\\\\Hw\\x98\\xf0J\\xe3\\xb5Q\\xbd\\x18\\x81\\xb2N}=*\\x15\\xbce\\x8d\\xdbq31\\xc08\\xe8*\\x17\\x99\\xe4R\\x1c\\xe6\\xa3\\x95\\xde\\xe6\\xbc\\xca\\xd6\\x10!\\x04\"|\\xcc\\xdc`QD<8e\\xe0\\xaf\"\\x8a\\xa33\\xa6r:\\x0cf\\xb25\\x92CG\\x18\\x07\\xa6x\\xa2\\x8a\\x00\\xafo\\xa7J\\xead\\x94\\x18\\xd0\\x0c\\xf3\\xd4\\xd5L\\xf1E\\x14\\x00\\xe4l~4QE0?'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 29116
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 103607
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1280,
+              "h": 1280,
+              "sizes": [
+                23316,
+                55250,
+                80672,
+                125151,
+                169360
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 1244,
+      "forwards": 6,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 55,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-20T11:28:59+00:00",
+    "message_text": "Order Scotts for your children from Che-Med. We will bring to you within 30 minutes.\n\nFor additional info:\n                     Call us at_9798",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/55.jpg",
+    "views": 2078,
+    "forwards": 12,
+    "raw": {
+      "_": "Message",
+      "id": 55,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-20 11:28:59+00:00",
+      "message": "Order Scotts for your children from Che-Med. We will bring to you within 30 minutes.\n\nFor additional info:\n                     Call us at_9798",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5839402927251372892,
+          "access_hash": -4527633458103678641,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x007jC\\xa7\\xb9\\xae\\x90\\x9c\\xef\\xbf\\xe2*XhG\\x17\\xd5B\\xb8\\x9e\\xb5'",
+          "date": "2022-12-20 08:08:31+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xa5\\x15\\x9bJ\\x03g\\x19\\x19\\xcd,\\xf6~Le\\x8c\\x80\\x91\\xfc8\\xab\\xb6\\x919\\x89\\x1c\\xa7\\x05F\\x18\\xf6\\xa5\\xbd\\xb7\"\\xdd\\xa42\\x02\\x13o\\xca\\x17\\x1d\\xff\\x00\\xfa\\xf4\\xec\\xf7lnKk\\x18\\xd4T\\xe6Q\\xef\\xed\\xc1\\xff\\x00\\x1a\\x04\\xa0u\\xcf\\xe4\\x7f\\xc6\\x99$m\\xb7j\\xe3\\x19\\x1d}\\xe8\\xa1\\xca\\xb7 \\x10~\\x9f\\xfdz(\\x03\\xa1\\xb2 i\\xd1\\x13\\xfd\\xde\\x94\\x97\\x9f>\\x9e\\xfb\\x0e\\xd3\\xc1\\xe7\\xb7\"\\x98\\xac|\\x90\\x91\\xa9\\n:c\\xebK#\\x83\\x19F\\x1d\\xba\\x1c\\x9f\\xce\\xb9\\xbd\\xaa\\xbe\\xc5\\xf23\\'l\\xe0n\\x13\\x0e9\\xe3#\\xfaT\\x06yOW5\\xb0\\xb0\\x07^c\\x8f\\x9f\\xadR\\x93M(\\xac\\xec\\xe0\\x00xQZ\\xfbH\\xf7\\x17#{\\x15<\\xe90F\\xf3\\x83\\xd6\\x8a\\xb3\\x1d\\x8f\\x9aHW\\xc1\\x03<\\xd1C\\xa9\\x05\\xbb\\x07\\t\\'cBFpX*\\xfc\\xa0\\xd3\\xad\\xd1H$\\xa1\\x04\\x1cs\\xc6h\\xa2\\xb8\\xa4\\xf44M\\x93\\x12\\x14t?\\x80\\xcd2M\\xb2!S\\xb8g\\xb8\\x06\\x8a*\\x17q\\x91\\xdb\\xc4\"\\xc9ffc\\xc6H4QE6\\xf9\\x9d\\xd86\\x7f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 32113
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 113876
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                14672,
+                41914,
+                80158,
+                101520,
+                144364
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 6,
+          "length": 6
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 139,
+          "length": 4
+        }
+      ],
+      "views": 2078,
+      "forwards": 12,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 53,
+    "channel_name": "CheMed123",
+    "message_date": "2022-12-20T07:41:33+00:00",
+    "message_text": "",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/53.jpg",
+    "views": 397,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 53,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-12-20 07:41:33+00:00",
+      "message": "",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5839402927251372886,
+          "access_hash": -4216086293379010425,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x005jC\\xa7\\xb9E\\xc1\\xd3s\\x11Ln0N\\x12\\xf84d\\xbeN\\xd9'",
+          "date": "2022-12-20 07:40:57+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01!(\\xba\\xd7\\xf1+\\xf3\\xbb\\x1fJx\\xbe\\x88\\x8c\\x8d\\xdf\\x95UkdV!\\xf7\\x96\\xef\\xb41\\x1f\\xa0\\xa6\\xb5\\xba\\xe7\\xe5\\x12c\\xde7\\xff\\x00\\n\\xad\\x0c\\xef3B)\\xd2RB\\xe7#\\xd6\\x95\\xa5P\\xc5{\\x8fqT\"F\\x89\\xc3.\\xee?\\xe9\\x9b\\xff\\x00\\x85[\\x03\\xce\\xf9\\xb1\\x8e\\xdc\\xe4\\x1f\\xd4ReE\\xb7\\xb9\"\\xca\\x1c\\x81\\xd3=9\\x14R\"\\x15=\\x17\\xf3\\xe9E\"\\x86:og\\xfb\\xdd\\x7f\\x84\\xe3\\xb0\\xa1cX\\xce\\xfc\\xb9\\xc6O-\\x9a\\x86\\xe2gIYU\\'\\xeb\\x9c\\xa4`\\x83\\xc0\\xf5\\xa7\\x1b\\xd0A\\x06\\xd6\\xe7\\x07\\xfd\\x8f\\xfe\\xbd\\x02&\\x92R\\xa8\\x1dFG\\x1cc\\x9a\\xadnK\\xcb1\\xf2\\xc8\\xf9\\xba\\xe7\\xad+]\\x06\\\\}\\x9a\\xe8}\\x13\\xff\\x00\\xafE\\x90bd&\\x16E\\'\\xe5\\xdf\\xd6\\x98[R\\xccc\\xe6\\xfb\\xa4~4S\\x95p\\xd9\\xc7\\xebE!\\x8f\\xa2\\x8a(\\x00\\xa2\\x8a(\\x00\\xa2\\x8a(\\x03'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 268,
+              "size": 23419
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 671,
+              "size": 86739
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1280,
+              "h": 1073,
+              "sizes": [
+                14462,
+                39854,
+                72400,
+                99175,
+                131526
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 397,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

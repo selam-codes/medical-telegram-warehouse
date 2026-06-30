@@ -1,0 +1,211 @@
+[
+  {
+    "message_id": 74,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-02T07:02:55+00:00",
+    "message_text": "",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/74.jpg",
+    "views": 924,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 74,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-02 07:02:55+00:00",
+      "message": "",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5877652862312496502,
+          "access_hash": 4032754179237058505,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00JjC\\xa7\\xb9\\r\\xe7\\\\\\xf7Y\\xe6?4\\xb9\\xfe\\xa0\\x16FB\\xb9\\xc7'",
+          "date": "2023-01-02 07:02:55+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd4]\\xdb\\xff\\x00\\xd9\\xc5KP\\xbc\\xab\\n\\xeeo\\xcb\\xd6\\xa3\\x8a\\xe9%}\\xbc\\x83\\xd8\\x1e\\xf4\\x13\\xcc\\x93\\xb0\\xf7\\x9e$$1\\xc1\\x14\\x8b4n@V\\xcei^4o\\x9bfI\\xa8\\x93\\xe5|\\x88\\x08\\xfc)\\xe8;\\x96(\\xa5^G\"\\x8aC)\\xdf!eV\\x03 u\\xf6\\xaa\\xd6\\xf1\\xb3\\xcc\\xbbGC\\x92}+Uz\\xd1\\x81\\xdb\\xf2\\xa7s7N\\xee\\xe3I\\xda\\xb9-\\xc1\\xa8|\\xc4\\xff\\x00\\x9e\\xe2\\x9d,\\x84\\xb1\\x06<\\x81\\xefQ\\xa2\\xa30\\x1e@\\x1e\\xf4Y=\\xcd\\x92e\\x88A\\xe4\\xee\\xdc(\\xa7*\\xec\\xe0\\x0e(\\xa5\\xb1,\\x17\\xadQ\\xba7(N\\xdc\\x91\\x9c\\xf1E\\x14\\x98\\xd3\\xb3\\x15\\'\\xb8x\\x89\\n\\xc4\\xe3\\xafNh\\xb67b@\\x1c6\\xde\\xe4\\x9a(\\xa4_?K\\x17\\xc5\\x14QTf\\x7f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 21811
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 73895
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                12639,
+                29663,
+                50461,
+                65386,
+                98193
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 924,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 73,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-02T06:58:48+00:00",
+    "message_text": "",
+    "has_media": true,
+    "image_path": null,
+    "views": 880,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 73,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-02 06:58:48+00:00",
+      "message": "",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaDocument",
+        "nopremium": false,
+        "spoiler": false,
+        "video": false,
+        "round": false,
+        "voice": false,
+        "document": {
+          "_": "Document",
+          "id": 5877652861856256370,
+          "access_hash": 6892687055917894369,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00IjC\\xa7\\xb9\\xc4k\\x00\\x01\\xe57\\x03\\x1b\\x19\\xde\\xfdn\\xe3\\xd8Dk'",
+          "date": "2023-01-02 06:58:48+00:00",
+          "mime_type": "video/mp4",
+          "size": 60259,
+          "dc_id": 4,
+          "attributes": [
+            {
+              "_": "DocumentAttributeVideo",
+              "duration": 3.0,
+              "w": 320,
+              "h": 320,
+              "round_message": false,
+              "supports_streaming": true,
+              "nosound": true,
+              "preload_prefix_size": null
+            },
+            {
+              "_": "DocumentAttributeAnimated"
+            },
+            {
+              "_": "DocumentAttributeFilename",
+              "file_name": "Open www.chemeds.org ON YOUR BROWSER.gif.mp4"
+            }
+          ],
+          "thumbs": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd6^\\xb4\\xfab\\xf5\\xa7\\x03@\\x01QM*E>\\x8a\\x00\\x8e\\x8ap\\x19\\xa2\\x80\\x11z\\xd3\\xc8\\xcd0u\\xa7\\x83\\x9a\\x00NE\\x19\\xa5\\xa0\\x8c\\xd0\\x02\\x0e\\xb4R\\x0e(\\xa0\\x04^\\xb4\\xf23E\\x14\\x00\\x99#\\xad-\\x14P\\x02\\n(\\xa2\\x80?'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 3104
+            }
+          ],
+          "video_thumbs": []
+        },
+        "alt_document": null,
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 880,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": null,
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

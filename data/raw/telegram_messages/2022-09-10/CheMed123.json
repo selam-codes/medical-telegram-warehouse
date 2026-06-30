@@ -1,0 +1,127 @@
+[
+  {
+    "message_id": 11,
+    "channel_name": "CheMed123",
+    "message_date": "2022-09-10T15:55:25+00:00",
+    "message_text": "🌼🌼🌼 መልካም አዲስ ዓመት 🌼🌼🌼\n\nየምስራች!! በአዲሱ አመት አዲስ ነገር ለጤናዎ፡፡ ከእንግዲህ መድሃኒት ፍለጋ መንከራተትና መሰለፍ አይኖርብዎትም፡፡ www.chemeds.org በመግባት ሞባይልዎን ተጠቅመው የሚፈልጉት መድሃኒት ቤትዎ ድረስ ይዘዙ!\n\n🌼🌼🌼 መልካም አዲስ ዓመት 🌼🌼🌼",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/11.jpg",
+    "views": 621,
+    "forwards": 2,
+    "raw": {
+      "_": "Message",
+      "id": 11,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-09-10 15:55:25+00:00",
+      "message": "🌼🌼🌼 መልካም አዲስ ዓመት 🌼🌼🌼\n\nየምስራች!! በአዲሱ አመት አዲስ ነገር ለጤናዎ፡፡ ከእንግዲህ መድሃኒት ፍለጋ መንከራተትና መሰለፍ አይኖርብዎትም፡፡ www.chemeds.org በመግባት ሞባይልዎን ተጠቅመው የሚፈልጉት መድሃኒት ቤትዎ ድረስ ይዘዙ!\n\n🌼🌼🌼 መልካም አዲስ ዓመት 🌼🌼🌼",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5827859429549259814,
+          "access_hash": -4451942148312678122,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x0bjC\\xa7\\xb9\\xfc4q\\xc5\\x1d\\xb9\\xdd\\xbc\\xe2\\x9a\\xf6O\\x1e+7\\x96'",
+          "date": "2022-09-10 15:06:52+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd2\\x86(\\xcc(Ljr\\xa3<R\\x98\\xe2_\\xf9f\\xbf\\xf7\\xc8\\xa5\\x89\\x82\\xdb\\xa1?\\xdd\\x14\\xa88\\xdcy&\\x82RC\\x0cp\\x83\\xfe\\xa9z\\xff\\x00v\\x9c\"\\x84\\xf4\\x8d?\\xef\\x9av\\xeeq\\x91H\\xd9 \\x15\\xea)\\'q\\xb5a\\x93E\\x18\\x85\\xc8\\x8dA\\ny\\xc5\\x14\\xb2\\x1d\\xd6\\xae\\x7f\\xd9?\\xca\\x8a\\xb4cR\\xd7D^iH#\\x1bF\\xd2\\xa3\\x9eO\\xf9\\xfc\\xea\\xc6A@@\\xc0\\xa8\\xd17\\xdb\\xa7\\xae\\xc1\\x83\\xe9\\xc50\\x07\\x85\\xb09ON\\xa7\\xfc\\x9a\\x97\\xa9\\xb2$\\t\\xf3\\xee\\xcdJ>\\xef5\\x07\\xdaT\\xa1`\\xbc\\xf4\\x03\\xd4\\xf3\\xfe\\x14\\xdc\\x9b\\x95\\x1dW\\x18a\\x83\\xd6\\xa61\\xb1M\\xdc_0\\xbd\\xbc\\x99\\x18\\xf9Oj)\\xf2)[w\\xc9\\xc9\\xdar}x\\xa2\\xac\\xc2\\xa6\\xe8He\\x8cB\\x80\\xc8\\xa0\\x85\\x1d\\xe9\\xcd<x\\xe1\\xd0\\xff\\x00\\xc0\\x85\\x14S\\xb0\\xd4\\xdd\\x88\\xdaT\\x18\\xdb\\xe5\\x9es\\xf7\\x859&\\x8cq\\xb9\\x15GL0\\xa2\\x8a,\\x1c\\xec&\\x963\\x0b\\x81\"\\x92T\\xf7\\xa2\\x8a(H\\x89J\\xe7'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 27503
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 99777
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                13138,
+                34982,
+                65630,
+                88882,
+                130418
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 101,
+          "length": 15
+        }
+      ],
+      "views": 621,
+      "forwards": 2,
+      "replies": null,
+      "edit_date": "2022-09-28 05:46:12+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

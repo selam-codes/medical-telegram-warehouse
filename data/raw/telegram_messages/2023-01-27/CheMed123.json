@@ -1,0 +1,167 @@
+[
+  {
+    "message_id": 92,
+    "channel_name": "CheMed123",
+    "message_date": "2023-01-27T07:18:40+00:00",
+    "message_text": "You can get our services at:\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\nOur website: www.chemeds.org",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/92.jpg",
+    "views": 721,
+    "forwards": 0,
+    "raw": {
+      "_": "Message",
+      "id": 92,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2023-01-27 07:18:40+00:00",
+      "message": "You can get our services at:\nOur pharmacist: https://t.me/CheMedAssistant9798\nOur call center: 9798\nOur website: www.chemeds.org",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5954105539334092903,
+          "access_hash": -6843403572736018049,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\\\jC\\xa7\\xb97  C\\xaf^\\x88_\\x98\\xb5\\x05!\\x85\\x9c\\x0b\\xaa'",
+          "date": "2023-01-27 07:18:39+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01((\\xd1\\x92\\xee8\\xdc\\xa1\\x0cH\\xeb\\x81\\xfe}iE\\xd2\\x12\\x06\\x18d\\xe0f\\xa2\\x9e\\x18\\xdab\\xc7\\x82pN\\x0fZl\\x16\\xd0\\xa3\\xa9Q\\x86\\xecsLE\\xea\\xaf%\\xdcq\\xcac\\xc3\\x16\\x1dq\\x8e8\\xcdO\\xb8g\\x1d\\xf3\\x8a\\xaf5\\xba\\xc9.\\xe2\\xaax\\x038\\xe6\\x90\\xc2;\\xc8\\xe4\\x91Sk+7M\\xc2\\x8a\"\\xb7X\\xe4\\xdc\\x11A\\xf5\\xc7J(\\x11`\\xa8\\'$sM\\xf3\\x10\\x0e\\xa3\\xd2\\xaa\\xcd\\x7f\\xe5J\\xc9\\xb1H\\x1d\\xcb\\xe3\\xf4\\xa5\\xb6\\x95/7\\xb6\\xc2\\x8c\\xbd\\xc1\\xeb@\\xc9\\x0e\\x04\\xe2M\\xdcs\\xd8\\xd4\\xc8\\xea\\xe3\\xe55VKy\\xb7~\\xeeL\\x8f~\\r3\\xcb\\xbbV\\x07\\x19\\xfa\\x11@\\x17\\xe8\\xaa,\\xb7G\\xa4_\\xf8\\xf0\\xa2\\x80%\\x95\\x01\\x91\\xbe\\xef>\\xa2\\x91U\\xb9\\x08G\\xe1E\\x14\\x01\"\\xa3\\xee\\x1b\\x8f\\x1fZ.Q\\xa4\\x8c*\\xb3)\\xcfU4Q@\\x8a\\xb1\\xdb\\xc8\\xb2\\xab\\x19e \\x11\\xc6N(\\xa2\\x8abG'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 29195
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 109488
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                12716,
+                36182,
+                75821,
+                99549,
+                145663
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityBold",
+          "offset": 0,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityUnderline",
+          "offset": 0,
+          "length": 29
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 44,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 45,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 45,
+          "length": 32
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 77,
+          "length": 1
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 95,
+          "length": 5
+        },
+        {
+          "_": "MessageEntityUrl",
+          "offset": 113,
+          "length": 15
+        },
+        {
+          "_": "MessageEntityBold",
+          "offset": 113,
+          "length": 15
+        }
+      ],
+      "views": 721,
+      "forwards": 0,
+      "replies": null,
+      "edit_date": "2024-03-25 08:29:14+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "❤"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]

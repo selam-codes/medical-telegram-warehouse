@@ -1,0 +1,246 @@
+[
+  {
+    "message_id": 3,
+    "channel_name": "CheMed123",
+    "message_date": "2022-09-05T10:02:05+00:00",
+    "message_text": "",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/3.jpg",
+    "views": 438,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 3,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-09-05 10:02:05+00:00",
+      "message": "",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5814521833813294007,
+          "access_hash": -6024612934489717013,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x03jC\\xa7\\xb9\\x8f#\\xf4\\x82l\\xe1&\\xbbM\\x95\\xd2{\\xa7:\\x8b<'",
+          "date": "2022-09-05 10:02:05+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xd9\\xa2\\x8a(\\x00\\xa2\\xa94\\xb1\\x87(\\xc7\\xf7\\xe43)\\xfag\\x1c\\xfe\\x15v\\x81&\\x14QE\\x03\\n)\\xae\\t\\\\\\nf\\xc6\\xe7\\x18S\\x81\\x8fnM\\x02\\xb9Y\\xe1\\x94\\x96\\x89S\\xe4`\\xe0\\xbeF>c\\x9f\\xd3\\x9a\\xbdP\\xb2\\xc8@ \\x80A\\xce=i\\xbe\\\\\\xc3\\x80\\xe38<\\xfa\\x1e\\x7f\\xfa\\xd4\\xc0\\xb1EG\\x12\\xb0\\xdcXc'8\\xce{\\n)\\x0c\\x92\\x8a(\\xa0\\x02\\x8a(\\xa0\\x02\\x8a(\\xa0\\x0f\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 320,
+              "size": 9285
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 800,
+              "size": 27739
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 1080,
+              "sizes": [
+                6884,
+                12231,
+                19061,
+                23871,
+                34564
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [],
+      "views": 438,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": "2022-09-16 08:47:24+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  },
+  {
+    "message_id": 2,
+    "channel_name": "CheMed123",
+    "message_date": "2022-09-05T09:57:09+00:00",
+    "message_text": "www.chemeds.org መድሀኒትዎን ለማግኘት ዘመናዊው መንገድ ነው፡፡ በድረገጻችን አማካኝነት መድኃኒትዎን ከፈለጉት ቦታ ይዘዙ ያሉበት ቦታ መድሃኒትዎን እናደርስልዎታለን፡፡",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/2.jpg",
+    "views": 444,
+    "forwards": 9,
+    "raw": {
+      "_": "Message",
+      "id": 2,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1627056354
+      },
+      "date": "2022-09-05 09:57:09+00:00",
+      "message": "www.chemeds.org መድሀኒትዎን ለማግኘት ዘመናዊው መንገድ ነው፡፡ በድረገጻችን አማካኝነት መድኃኒትዎን ከፈለጉት ቦታ ይዘዙ ያሉበት ቦታ መድሃኒትዎን እናደርስልዎታለን፡፡",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": false,
+      "pinned": true,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5814521833813294005,
+          "access_hash": 2499444939319257806,
+          "file_reference": "b'\\x02`\\xfa\\xe8\\xe2\\x00\\x00\\x00\\x02jC\\xa7\\xb9J\\xd7V\\xee\\x8a\\xdd\\xa3\\x9b\\xab\\xd5\\xc0\\xe7\\xbc\\x81\\x16\\x14'",
+          "date": "2022-09-05 09:57:08+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b'\\x01!(\\xbbE\\x14\\xdd\\xbe\\xf5\\xe6#v:\\x8a\\x8d\\x938\\xcb\\xe2\\x93\\xcao\\xf9\\xe8H\\xa7\\xca\\xbb\\x85\\xc9h\\xa2\\x8a\\x91\\x85\\x14\\x0e\\x0ei\\x806[\\x18\\xe7\\xa0=+H\\xc5>\\xa4\\xb6\\xd7Bg\\n\\xaa8\\x19\\xa8\\xcf \\x8f\\xe5L\\x90\\xbc\\xa7\\x04(O\\xa6I\\xa4h\\xc6\\xe0\\xa0|\\xb8\\xe7\\x9a\\xd6|\\xad\\xab2\\x15\\xfb\\x0f\\x0b\\x83\\xd4\\xd1H\\xa4\\x83\\x8cp;\\xe7\\xad\\x15\\x8c\\x9b\\xbe\\xba\\x96\\x96\\x9b\\x0f\\xa2\\x8a*F%\\x14QL\\x02\\x8a(\\xa0\\x0f'"
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 268,
+              "size": 14417
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 671,
+              "size": 48818
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 940,
+              "h": 788,
+              "sizes": [
+                7251,
+                16387,
+                26298,
+                35011,
+                49922
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityUrl",
+          "offset": 0,
+          "length": 15
+        }
+      ],
+      "views": 444,
+      "forwards": 9,
+      "replies": null,
+      "edit_date": "2022-12-01 11:58:36+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": {
+        "_": "MessageReactions",
+        "results": [
+          {
+            "_": "ReactionCount",
+            "reaction": {
+              "_": "ReactionEmoji",
+              "emoticon": "👍"
+            },
+            "count": 1,
+            "chosen_order": null
+          }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+      },
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null
+    }
+  }
+]
