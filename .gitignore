@@ -17,6 +17,12 @@ medical_warehouse/.user.yml
 *.session
 *.session-journal
 
+# dagster temp home
+.tmp_dagster_home*/
+
+# YOLO downloaded weights — large binary, download on demand
+*.pt
+
 # logs
 logs/*.log
 

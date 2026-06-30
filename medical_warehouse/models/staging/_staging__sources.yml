@@ -26,3 +26,17 @@ sources:
             description: Forward count at scrape time.
           - name: raw_payload
             description: Full original Telethon message payload, preserved as JSONB.
+
+      - name: yolo_detections
+        description: One row per detected object per image, produced by src/yolo_detect.py.
+        columns:
+          - name: channel_name
+            description: Source channel the image belongs to.
+          - name: message_id
+            description: Telegram message ID the image was downloaded from.
+          - name: detected_class
+            description: COCO object class name detected by YOLOv8n (e.g. "bottle", "person").
+          - name: confidence_score
+            description: Detection confidence (0–1).
+          - name: image_category
+            description: Derived content category — promotional / product_display / lifestyle / other.
